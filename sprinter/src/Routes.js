@@ -2,6 +2,7 @@ import React, {Component} from 'react';
 import {BrowserRouter as Router, Route, Switch} from 'react-router-dom';
 import {Button, Navbar, Nav, Dropdown, NavItem} from 'react-bootstrap';
 import Homepage from "./Homepage"
+import Services from "./Services"
 
 class Routes extends Component {
     render () {
@@ -37,6 +38,7 @@ class Routes extends Component {
             <Switch>
                 <Route exact path="/" component={Homepage} />
                 <Route path="/Homepage" component={Homepage} />
+                <Route path="/Services" component={Services} />
             </Switch>
             </Router>
         </React.Fragment>

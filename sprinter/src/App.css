@@ -53,3 +53,19 @@
   /* font-weight: bolder; */
   height: 680px;
 }
+
+.servJumbotron {
+  background-image: url("https://cdn.pixabay.com/photo/2016/06/06/08/05/video-media-production-1439008_1280.jpg");
+  color: black;
+  background-size: cover;
+  background-position-x: center;
+  background-position-y: center;
+  font-weight: bolder;
+  height: 350px;
+}
+
+.servText {
+  text-align: left;
+  font-size: 25px;
+  color: black;
+}

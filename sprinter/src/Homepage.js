@@ -15,8 +15,8 @@ class Homepage extends Component {
                 alt="Sprinter" 
             />
             <Carousel.Caption>
-                <h3>Residential Cleaning</h3>
-                <p style = {{fontSize: "20px"}}>We thoroughly clean all bedrooms, bathrooms, living spaces, and kitchens.</p>
+                <h3>Luxury Transportation Service</h3>
+                <p style = {{fontSize: "20px"}}>For all your transportation needs</p>
             </Carousel.Caption>
             </Carousel.Item>
             <Carousel.Item>
@@ -28,8 +28,8 @@ class Homepage extends Component {
             />
         
             <Carousel.Caption>
-                <h3>Commercial Building Cleaning</h3>
-                <p style = {{fontSize: "20px"}}>We ensure that every section of your office building is clean.</p>
+                <h3></h3>
+                <p style = {{fontSize: "20px"}}></p>
             </Carousel.Caption>
             </Carousel.Item>
             <Carousel.Item>
@@ -41,8 +41,8 @@ class Homepage extends Component {
             />
         
             <Carousel.Caption>
-                <h3>General Cleaning</h3>
-                <p style = {{fontSize: "20px"}}> From General Cleaning, Green Cleaning, Post Construction Clean Up, we can clean almost anything.</p>
+                <h3></h3>
+                <p style = {{fontSize: "20px"}}> </p>
             </Carousel.Caption>
             </Carousel.Item>
         </Carousel><br></br>
