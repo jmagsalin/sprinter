@@ -3,6 +3,7 @@ import {BrowserRouter as Router, Route, Switch} from 'react-router-dom';
 import {Button, Navbar, Nav, Dropdown, NavItem} from 'react-bootstrap';
 import Homepage from "./Homepage"
 import Services from "./Services"
+import Sprinter from "./Sprinter"
 
 class Routes extends Component {
     render () {
@@ -25,12 +26,12 @@ class Routes extends Component {
                     <Navbar.Toggle aria-controls="basic-navbar-nav" style = {{color: "#E19B24"}}  />
                     <Navbar.Collapse id="basic-navbar-nav">
                     <Nav className="mr-auto">
-                        <Nav.Link href="Homepage" style ={{color: "white"}}>Home</Nav.Link>
-                        <Nav.Link href="SprinterLimos" style ={{color: "#E19B24"}}>Sprinter Limos</Nav.Link>
-                        <Nav.Link href="Services" style ={{color: "#E19B24"}}>Services</Nav.Link>
-                        <Nav.Link href="Groups" style ={{color: "#E19B24"}}>Groups</Nav.Link>
-                        <Nav.Link href="About" style ={{color: "#E19B24"}}>About</Nav.Link>     
-                        <Nav.Link href="Contact" style ={{color: "#E19B24"}}>Contact</Nav.Link>
+                        <Nav.Link href="Homepage" style ={{fontFamily: "Cambria", color: "#94790D"}}>Home</Nav.Link>
+                        <Nav.Link href="Sprinter" style ={{fontFamily: "Cambria", color: "#94790D"}}>Sprinter Limos</Nav.Link>
+                        <Nav.Link href="Services" style ={{fontFamily: "Cambria", color: "#94790D"}}>Services</Nav.Link>
+                        <Nav.Link href="Groups" style ={{fontFamily: "Cambria", color: "#94790D"}}>Groups</Nav.Link>
+                        <Nav.Link href="About" style ={{fontFamily: "Cambria", color: "#94790D"}}>About</Nav.Link>     
+                        <Nav.Link href="Contact" style ={{fontFamily: "Cambria", color: "#94790D"}}>Contact</Nav.Link>
                     </Nav>
                     </Navbar.Collapse>
                 </Navbar>
@@ -39,6 +40,7 @@ class Routes extends Component {
                 <Route exact path="/" component={Homepage} />
                 <Route path="/Homepage" component={Homepage} />
                 <Route path="/Services" component={Services} />
+                <Route path="/Sprinter" component={Sprinter} />
             </Switch>
             </Router>
         </React.Fragment>

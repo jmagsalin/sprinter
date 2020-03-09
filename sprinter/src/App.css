@@ -69,3 +69,13 @@
   font-size: 25px;
   color: black;
 }
+
+.sprinterJumbotron {
+  background-image: url("https://elegancetransportation.com/wp-content/uploads/2017/04/Sprinter-Limo-Van-Exterior-1.jpg");
+  color: black;
+  background-size: cover;
+  background-position-x: center;
+  background-position-y: center;
+  font-weight: bolder;
+  height: 350px;
+}

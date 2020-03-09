@@ -13,10 +13,10 @@ class Services extends Component {
                 </Container>
                 </Jumbotron>
             <Container>
-                <h1 style = {{color: "gold"}}>
+                <h1 style = {{fontFamily: "Cambria", color: "#94790D"}}>
                     FOR THAT SPECIAL EVENT
                 </h1><br></br>
-                <h4>From ultimate tailgates to a magical wedding and everything in between, treat yourself and your guests, to a superior luxury transportation service and personalized attention like you’ve never experienced before. Our concierge team 
+                <h4 style = {{fontFamily: "Cambria", color: "#848480"}}>From ultimate tailgates to a magical wedding and everything in between, treat yourself and your guests, to a superior luxury transportation service and personalized attention like you’ve never experienced before. Our concierge team 
                     makes sure every detail is perfect and can make reservations, secure hard-to-get tickets, provide catering and plan itineraries.
                 </h4><br></br><br></br>
                 <Row style = {{backgroundColor: "silver"}}>
@@ -24,7 +24,7 @@ class Services extends Component {
                     <Image height= {250} src="https://cdn.pixabay.com/photo/2017/04/05/14/37/prom-2205139_1280.jpg" rounded />
                     </Col>
                     <Col xs={8} md={8}>
-                        <h3 style = {{color: "gold"}}>
+                        <h3 style = {{fontFamily: "Cambria", color: "#94790D"}}>
                             Formals
                         </h3>
                         <h5 style = {{fontFamily: "Timesnewroman"}}> There is no experience like that of going to a Homecoming or Prom with your closest friends, it is a night that you won't ever forget.
@@ -38,7 +38,7 @@ class Services extends Component {
                 </Row><br></br>
                 <Row>                  
                     <Col xs={8} md={8}>
-                        <h3 style = {{color: "silver"}}>
+                        <h3 style = {{fontFamily: "Cambria", color: "#94790D"}}>
                             Weddings
                         </h3>
                         <h5 style = {{fontFamily: "Timesnewroman"}}> There is no experience like that of going to a Homecoming or Prom with your closest friends, it is a night that you won't ever forget.
@@ -58,7 +58,7 @@ class Services extends Component {
                     <Image height= {250} src="https://cdn.pixabay.com/photo/2016/07/30/00/03/winding-road-1556177_1280.jpg" rounded />
                     </Col>
                     <Col xs={8} md={8}>
-                        <h3 style = {{color: "gold"}}>
+                        <h3 style = {{fontFamily: "Cambria", color: "#94790D"}}>
                             Road Trips
                         </h3>
                         <h5 style = {{fontFamily: "Timesnewroman"}}> There is no experience like that of going to a Homecoming or Prom with your closest friends, it is a night that you won't ever forget.
@@ -72,7 +72,7 @@ class Services extends Component {
                 </Row><br></br>
                 <Row>                 
                     <Col xs={8} md={8}>
-                        <h3 style = {{color: "silver"}}>
+                        <h3 style = {{fontFamily: "Cambria", color: "#94790D"}}>
                             Tailgates
                         </h3>
                         <h5 style = {{fontFamily: "Timesnewroman"}}> There is no experience like that of going to a Homecoming or Prom with your closest friends, it is a night that you won't ever forget.
