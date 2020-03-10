@@ -7,9 +7,9 @@ class Services extends Component {
             <React.Fragment>
                 <Jumbotron fluid className ="servJumbotron">           
                 <Container><br></br>
-                <h1 style = {{fontWeight: "bold" }}>Perfect for any Occasion</h1>
+                <h1 style = {{fontFamily: "Cambria", color: "white" }}>Perfect for any Occasion</h1>
                 <p className = "servText">Our Sprinter Limos are perfect for any and all occasions whether it be for wedding parties, bachelor 
-                                            or bachelorette parties, prom, or just a night out in town </p><br></br>
+                                            or bachelorette parties, prom, or just a night out on town </p><br></br>
                 </Container>
                 </Jumbotron>
             <Container>

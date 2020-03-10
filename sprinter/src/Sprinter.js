@@ -51,6 +51,8 @@ class Sprinter extends Component {
                     <li>Two HD TV's</li>
                     <li>High end tech & audio</li>
                     <li>Fold down couches</li>
+                    <li>USB outlets</li>
+                    <li>HDMI ports</li>
                   </ul>
                 </Col>
                 <Col style = {{textAlign: "left"}}><br></br><br></br>
@@ -59,6 +61,8 @@ class Sprinter extends Component {
                     <li>Lap tables</li>
                     <li>Spacious luggage area</li>
                     <li>WiFi & Apple TV</li>
+                    <li>Deluxe lighting controls</li>
+                    <li>Blu-ray/DVD/CD player</li>
                   </ul>
               </Col>
               <Col >

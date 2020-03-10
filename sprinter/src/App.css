@@ -55,7 +55,7 @@
 }
 
 .servJumbotron {
-  background-image: url("https://cdn.pixabay.com/photo/2016/06/06/08/05/video-media-production-1439008_1280.jpg");
+  background-image: url("https://cdn.pixabay.com/photo/2016/09/04/18/28/party-people-1644798_1280.jpg");
   color: black;
   background-size: cover;
   background-position-x: center;
@@ -67,11 +67,12 @@
 .servText {
   text-align: left;
   font-size: 25px;
-  color: black;
-}
+  color: white;
+  font-family: Cambria;
+  }
 
 .sprinterJumbotron {
-  background-image: url("https://elegancetransportation.com/wp-content/uploads/2017/04/Sprinter-Limo-Van-Exterior-1.jpg");
+  background-image: url("https://www.ultimatetoys.com/wp-content/uploads/2018/09/Christy-Schimpf-Favorites-0028-1600x1068.jpg");
   color: black;
   background-size: cover;
   background-position-x: center;
@@ -79,3 +80,13 @@
   font-weight: bolder;
   height: 350px;
 }
+
+.contactJumbotron {
+  background-image: url("https://cdn.pixabay.com/photo/2016/07/23/20/13/panorama-1537475_1280.jpg");
+  color: black;
+  background-size: cover;
+  background-position-x: center;
+  background-position-y: center;
+  font-weight: bolder;
+  height: 350px;
+} 

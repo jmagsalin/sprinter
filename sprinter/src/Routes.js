@@ -4,6 +4,7 @@ import {Button, Navbar, Nav, Dropdown, NavItem} from 'react-bootstrap';
 import Homepage from "./Homepage"
 import Services from "./Services"
 import Sprinter from "./Sprinter"
+import Contact from "./Contact"
 
 class Routes extends Component {
     render () {
@@ -41,7 +42,8 @@ class Routes extends Component {
                 <Route path="/Homepage" component={Homepage} />
                 <Route path="/Services" component={Services} />
                 <Route path="/Sprinter" component={Sprinter} />
-            </Switch>
+                <Route path="/Contact" component={Contact} />
+             </Switch>
             </Router>
         </React.Fragment>
         )
