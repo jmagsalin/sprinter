@@ -1,52 +1,36 @@
 import React, {Component} from 'react';
-import {Carousel, Card, Container} from 'react-bootstrap';
+import {Carousel, Card, Container, Jumbotron, Button} from 'react-bootstrap';
 
 class Homepage extends Component {
     render() {
         return(
             <React.Fragment>
-            <div className = "carousel">
-            <Carousel>
-            <Carousel.Item>
-            <img
-                className="d-block w-100"
-                width={900} height={670} alt="900x500"
-                src="https://elegancetransportation.com/wp-content/uploads/2017/04/Sprinter-Limo-Van-Exterior-1.jpg"
-                alt="Sprinter" 
-            />
-            <Carousel.Caption>
-                <h3>Luxury Transportation Service</h3>
-                <p style = {{fontSize: "20px"}}>For all your transportation needs</p>
-            </Carousel.Caption>
-            </Carousel.Item>
-            <Carousel.Item>
-            <img
-                className="d-block w-100"
-                width={900} height={670} alt="900x500"
-                src="https://cdn.pixabay.com/photo/2015/09/02/13/04/marriage-918864_1280.jpg"
-                alt="wedding"
-            />
-        
-            <Carousel.Caption>
-                <h3></h3>
-                <p style = {{fontSize: "20px"}}></p>
-            </Carousel.Caption>
-            </Carousel.Item>
-            <Carousel.Item>
-            <img
-                className="d-block w-100"
-                width={900} height={670} alt="900x500"
-                src="https://res.cloudinary.com/outdoorsy/image/upload/w_1200/v1560527457/p/rentals/125872/images/oi3lkkeybio3bvxmirau.jpg"
-                alt="quince"
-            />
-        
-            <Carousel.Caption>
-                <h3></h3>
-                <p style = {{fontSize: "20px"}}> </p>
-            </Carousel.Caption>
-            </Carousel.Item>
-        </Carousel><br></br>
-      </div>
+      
+      <div className = "homeJumbotron">         
+             <Container><br></br><br></br><br></br>
+                <h1 style = {{fontFamily: "Cambria", color: "#94790D", fontSize: "100px"}}>Premier Sprinter Service</h1>
+                <h1 className = "homeText" style = {{fontFamily: "Cambria", color: "white", fontSize: "50px"}}>
+                    San Diego's Premier Luxury Transportation Service</h1><br></br>
+                <Button 
+                    className = "homeButton"
+                    variant="dark"
+                    size = "lg"
+                    href = "Contact"
+                    fontFamily = "Cambria">Call for reservations (858) 555-4444</Button>
+             </Container>
+         </div><br></br>
+         <Container>
+             <h1 style = {{fontFamily: "Cambria", color: "#94790D"}}>
+                Luxury Mercedes Sprinter Limo Vans</h1>
+             <h2 style = {{fontFamily: "Cambria", fontStyle: "italic"}}>
+             For Work, Play & Everything In Between
+             </h2>
+             <h4 style = {{fontFamily: "Cambria", color: "#848480"}}>
+             Treat yourself to an unrivaled luxury transportation experience. Like a private jet, only on the ground. Featuring plush leather seating, captain’s chairs, big screen TVs, premium audio, Wi-Fi, Satellite TV, Apple TV and more. 
+             And with our concierge service you’ll have exclusive access to a whole world of indulgent and unforgettable experiences.
+             </h4>
+         </Container>
+
     </React.Fragment>
         )
     }

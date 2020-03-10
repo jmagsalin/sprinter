@@ -90,3 +90,39 @@
   font-weight: bolder;
   height: 350px;
 } 
+
+.homeJumbotron {
+  background-image: url("https://elegancetransportation.com/wp-content/uploads/2017/04/Sprinter-Limo-Van-Exterior-1.jpg");
+  color: black;
+  background-size: cover;
+  background-position-x: center;
+  background-position-y: center;
+  font-weight: bolder;
+  height: 750px;
+  font-family: Cambria;
+}
+
+h1, p {
+  animation-duration: 3s;
+  animation-name: slidein;
+}
+
+@keyframes slidein {
+  from {
+    margin-left: 100%;
+    width: 300%; 
+  }
+
+  to {
+    margin-left: 0%;
+    width: 100%;
+  }
+}
+
+.homeButton {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  color: #94790D;
+  animation-duration: 3s;
+  animation-name: slidein;
+}
+
