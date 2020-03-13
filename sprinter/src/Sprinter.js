@@ -29,14 +29,14 @@ class Sprinter extends Component {
          <h2 style = {{fontFamily: "Cambria", color: "#848480", textAlign: "left"}}>
             Travel as a VIP
          </h2>
-         <h4 style = {{fontFamily: "Timesnewroman", textAlign: "left"}}>
+         <h4 style = {{fontFamily: "Cambria", textAlign: "left"}}>
            Comfortably Seats: Up to 10 passengers
          </h4><br>
          </br>
-         <h4 style = {{fontFamily: "Timesnewroman", textAlign: "left"}}>
+         <h4 style = {{fontFamily: "Cambria", textAlign: "left"}}>
          Comfort and luxury are a top priority with the Presidential, and it shows.  Designed for family or business use, enjoy power foot rests and two comfortable sofas that fold down to make into a bed - perfect for a quick nap or overnight travel.  There is wireless Internet to surf the web or send emails.  
          Enjoy Apple TV so you can watch your favorite movies, live TV, sports or play video games on the two flat-screen TVs. </h4><br></br>
-         <h4 style = {{fontFamily: "Timesnewroman", textAlign: "left"}}>
+         <h4 style = {{fontFamily: "Cambria", textAlign: "left"}}>
          You can even swivel the middle row of captain chairs in either direction - something that’s unique to Ultimate Toys and is a customer favorite.  For family outings, face the seats forward so everyone can enjoy each other’s company, or swivel them around and your Presidential instantly 
          converts into club seating - ideal for holding a meeting, carrying on a conversation, or having the perfect “limo” configuration.
          </h4><br></br>

@@ -7,7 +7,7 @@ class Homepage extends Component {
             <React.Fragment>
       
       <div className = "homeJumbotron">         
-             <Container><br></br><br></br><br></br>
+             <Container><br></br><br></br>
                 <h1 style = {{fontFamily: "Cambria", color: "#94790D", fontSize: "100px"}}>Premier Sprinter Service</h1>
                 <h1 className = "homeText" style = {{fontFamily: "Cambria", color: "white", fontSize: "50px"}}>
                     San Diego's Premier Luxury Transportation Service</h1><br></br>
@@ -113,11 +113,11 @@ class Homepage extends Component {
               </Row>
               </div>
               <Button 
-                    className = "homeButton"
+                    className = "footerb"
                     variant="dark"
                     size = "lg"
                     href = "Services"
-                    fontFamily = "Cambria">All Services</Button><br></br>
+                    fontFamily = "Cambria">All Occasions</Button><br></br>
              
             </Container><br></br>
               </div>
@@ -126,14 +126,13 @@ class Homepage extends Component {
                 <h1 style = {{fontFamily: "Cambria", color: "white", fontSize: "50px"}}>Treat Yourself Like a VIP</h1>
                 <h3 className = "homeText" style = {{fontFamily: "Cambria", color: "white", fontSize: "25px"}}>
                     Make your experience last a lifetime</h3><br></br>
-                <Button 
-                    className = "homeButton"
+                <Button                 
                     variant="dark"
                     size = "lg"
                     href = "Contact"
-                    fontFamily = "Cambria">Call for reservations (858) 555-4444</Button><br></br>
+                    fontFamily = "Cambria">Make a reservation</Button><br></br>
              </Container>
-         </div><br></br>
+         </div>
     </React.Fragment>
         )
     }

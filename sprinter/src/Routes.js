@@ -17,7 +17,7 @@ class Routes extends Component {
             
                     <img
                         alt=""
-                        src= "https://res.cloudinary.com/outdoorsy/image/upload/w_1200/v1560527457/p/rentals/125872/images/w4iisl3ynb5aqbbztppd.jpg"
+                        src= "https://weselllimos.com/photos/limos-for-sale/1604/2019-luxury-sprinter-17-passengers-5e37ce1adb591-large.jpg"
                         width="220"
                         height="75"
                         className="d-inline-block align-top"
@@ -35,6 +35,26 @@ class Routes extends Component {
                         <Nav.Link href="Contact" style ={{fontFamily: "Cambria", color: "#94790D"}}>Contact</Nav.Link>
                     </Nav>
                     </Navbar.Collapse>
+                        <Navbar.Brand href="https://www.instagram.com/kaobasketball/?hl=en" target = "blank">
+                        <img
+                                alt=""
+                                src="https://images.cdn3.stockunlimited.net/clipart450/contact-us-button_1386389.jpg"
+                                width="50"
+                                height="35"
+                                className="d-inline-block align-top"
+                            />
+                            <p style = {{fontSize: "18px", fontFamily: "Cambria", color: "#94790D"}}>(855) 555-2398</p>
+                        </Navbar.Brand>
+                        <Navbar.Brand href="https://www.instagram.com/kaobasketball/?hl=en" target = "blank">
+                        <img
+                                alt=""
+                                src="https://thumbs.dreamstime.com/b/email-icon-10341248.jpg"
+                                width="50"
+                                height="35"
+                                className="d-inline-block align-top"
+                            />
+                            <p style = {{fontSize: "16px", fontFamily: "Cambria", color: "#94790D"}}>Email.PremierSprinterService.com</p>
+                        </Navbar.Brand>
                 </Navbar>
             </div>
             <Switch>
@@ -45,6 +65,22 @@ class Routes extends Component {
                 <Route path="/Contact" component={Contact} />
              </Switch>
             </Router>
+            <footer className = "footer">
+                <br></br>
+                <Button 
+                        variant="outline-light" 
+                        href = "Contact" 
+                        className= "footerb" 
+                        size = "lg"
+                        >Request a free quote</Button><br></br>
+                <img
+                        alt=""
+                        src="https://res.cloudinary.com/outdoorsy/image/upload/w_1200/v1560527457/p/rentals/125872/images/w4iisl3ynb5aqbbztppd.jpg"
+                        width="220"
+                        height="75"
+                        className="d-inline-block align-top"
+                        />
+            </footer>
         </React.Fragment>
         )
     }

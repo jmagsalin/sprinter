@@ -7,7 +7,7 @@ class Contact extends Component {
     <React.Fragment>
         <Jumbotron fluid className = "contactJumbotron">
             <Container>
-             <h1 style = {{fontFamily: "Cambria", color: "White"}}>
+             <h1 style = {{fontFamily: "Cambria", color: "#94790D"}}>
                  Contact Premier Sprinter Service
              </h1>
              <p className = "aboutText"></p><br></br>
