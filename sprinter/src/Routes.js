@@ -13,7 +13,7 @@ class Routes extends Component {
             <Router>
             <div className = "navBar">
                 <Navbar variant = "dark"  expand="lg">  
-                <Navbar.Brand href="">
+                <Navbar.Brand href="Homepage">
             
                     <img
                         alt=""

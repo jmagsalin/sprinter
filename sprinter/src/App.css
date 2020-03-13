@@ -41,7 +41,7 @@
   font-size: 20px;
   background-color: black;
   color:#E19B24;
-  
+  /* background-image: linear-gradient(rgba (0,0,0,1), rgba(0,0,0,0)); */
 }
 
 .homeJumbotron {
@@ -157,4 +157,10 @@ h1 {
   font-style: bold;
   font-family: Cambria;
   color: #94790D;
+}
+
+.schHr {
+  color: #94790D;
+  background-color: #94790D;
+  
 }

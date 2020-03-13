@@ -15,7 +15,7 @@ class Services extends Component {
             <div style = {{fontFamily: "Cambria"}}>
             <Container>
                 <h1 style = {{fontFamily: "Cambria", color: "#94790D"}}>
-                    FOR THAT SPECIAL EVENT
+                    For That Special Event
                 </h1><br></br>
                 <h4 style = {{fontFamily: "Cambria", color: "#848480"}}>From ultimate tailgates to a magical wedding and everything in between, treat yourself and your guests, to a superior luxury transportation service and personalized attention like you’ve never experienced before. Our concierge team 
                     makes sure every detail is perfect and can make reservations, secure hard-to-get tickets, provide catering and plan itineraries.
