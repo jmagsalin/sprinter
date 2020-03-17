@@ -25,7 +25,7 @@ class Sprinter extends Component {
             <h1 style = {{fontFamily: "Cambria", color: "#94790D", textAlign: "left"}}>
               The Presidential Sprinter Limo
             </h1>
-            <h2 style = {{fontFamily: "Cambria", color: "#848480", textAlign: "left"}}>
+            <h2 style = {{fontFamily: "Cambria", color: "#848480", textAlign: "left", fontStyle: "italic"}}>
                 Travel as a VIP
             </h2>
             <h4 style = {{fontFamily: "Cambria", textAlign: "left"}}>
