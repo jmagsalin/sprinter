@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
 import {BrowserRouter as Router, Route, Switch} from 'react-router-dom';
-import {Button, Navbar, Nav, Dropdown, NavItem} from 'react-bootstrap';
+import {Button, Navbar, Nav, Row, Col, Container} from 'react-bootstrap';
 import Homepage from "./Homepage"
 import Services from "./Services"
 import Sprinter from "./Sprinter"
@@ -13,16 +13,14 @@ class Routes extends Component {
             <Router>
             <div className = "navBar">
                 <Navbar variant = "dark"  expand="lg">  
-                <Navbar.Brand href="Homepage">
-            
+                <Navbar.Brand href="Homepage">     
                     <img
                         alt=""
                         src= "https://weselllimos.com/photos/limos-for-sale/1604/2019-luxury-sprinter-17-passengers-5e37ce1adb591-large.jpg"
                         width="220"
                         height="75"
                         className="d-inline-block align-top"
-                    />
-        
+                    />     
                 </Navbar.Brand>
                     <Navbar.Toggle aria-controls="basic-navbar-nav" style = {{color: "#E19B24"}}  />
                     <Navbar.Collapse id="basic-navbar-nav">
@@ -48,7 +46,7 @@ class Routes extends Component {
                         <Navbar.Brand href="https://www.instagram.com/kaobasketball/?hl=en" target = "blank">
                         <img
                                 alt=""
-                                src="https://thumbs.dreamstime.com/b/email-icon-10341248.jpg"
+                                src="https://pngimg.com/uploads/email/email_PNG47.png"
                                 width="50"
                                 height="35"
                                 className="d-inline-block align-top"
@@ -65,21 +63,91 @@ class Routes extends Component {
                 <Route path="/Contact" component={Contact} />
              </Switch>
             </Router>
-            <footer className = "footer">
-                <br></br>
-                <Button 
-                        variant="outline-light" 
-                        href = "Contact" 
-                        className= "footerb" 
-                        size = "lg"
-                        >Request a free quote</Button><br></br>
-                <img
-                        alt=""
-                        src="https://res.cloudinary.com/outdoorsy/image/upload/w_1200/v1560527457/p/rentals/125872/images/w4iisl3ynb5aqbbztppd.jpg"
-                        width="220"
-                        height="75"
-                        className="d-inline-block align-top"
-                        />
+            <footer className = "footer" style = {{fontFamily: "Cambria", color: "#848480"}}><br></br>
+                <Container fluid>
+                    <Row>
+                        <Col style = {{textAlign: "left"}}>
+                            <a href = "Homepage">
+                                <img
+                                    alt=""
+                                    src="https://weselllimos.com/photos/limos-for-sale/1604/2019-luxury-sprinter-17-passengers-5e37ce1adb591-large.jpg"
+                                    width="220"
+                                    height="75"
+                                    className="d-inline-block align-top"  
+                                />
+                            </a><br></br><br></br>
+                            <p>
+                            Premier Sprinter Service serves San Diego and Southern California with luxury limousine service for events, 
+                            executives and companies featuring state-of-the-art, custom Mercedes Sprinter Limo Vans. Why 
+                            travel like everyone else? For work or play, enjoy the journey with Premier Sprinter Service.
+                            </p>
+                        </Col>
+                        <Col style = {{textAlign: "left"}}>
+                            <h5 style = {{color: "#94790D"}}>Premier Sprinter Services</h5>
+                            <a href = "Services" style = {{color: "#848480"}}>Wedding Transportation</a><br></br>
+                            <a href = "Services" style = {{color: "#848480"}}>Events Transportation</a><br></br>
+                            <a href = "Services" style = {{color: "#848480"}}>Formals Transportation</a><br></br>
+                            <a href = "Services" style = {{color: "#848480"}}>Executive Meetings</a><br></br>
+                            <a href = "Services" style = {{color: "#848480"}}>Road Trips</a><br></br>
+                            <a href = "Services" style = {{color: "#848480"}}>Tailgates</a><br></br>
+                            <a href = "Services" style = {{color: "#848480"}}>Brewery Tours</a><br></br>
+                            <a href = "Services" style = {{color: "#848480"}}>Nights Out</a><br></br>
+                            <a href = "Services" style = {{color: "#848480"}}>Group Transportation</a>
+                        </Col>
+                        <Col style = {{textAlign: "left"}}>
+                            <h5 style = {{color: "#94790D"}}>San Diego and Surrounding Areas</h5>
+                            <a href = "Services" style = {{color: "#848480"}}>Downtown</a><br></br>
+                            <a href = "Services" style = {{color: "#848480"}}>Balboa Park</a><br></br>
+                            <a href = "Services" style = {{color: "#848480"}}>Beaches</a><br></br>
+                            <a href = "Services" style = {{color: "#848480"}}>Miramar</a><br></br>
+                            <a href = "Services" style = {{color: "#848480"}}>North County</a><br></br>
+                            <a href = "Services" style = {{color: "#848480"}}>East County</a><br></br>
+                            <a href = "Services" style = {{color: "#848480"}}>Orange County</a><br></br>
+                            <a href = "Services" style = {{color: "#848480"}}>Inland Empire</a><br></br>
+                        </Col>
+                        <Col style = {{textAlign: "left"}}>
+                            <h5 style = {{color: "#94790D"}}>Contact Information</h5>
+                            <p style = {{fontSize: "15px", fontFamily: "Cambria", color: "#848480"}}><img
+                                alt=""
+                                src="https://media.msufcu.org/publicsites/publicsite/graphics/msufcu/footer/call_us_hover_state.png"
+                                width="30"
+                                height="22"
+                                className="d-inline-block align-top"
+                            /> (855) 555-2398</p>
+                            <p style = {{fontSize: "15px", fontFamily: "Cambria", color: "#848480"}}><img
+                                alt=""
+                                src="https://cdn4.iconfinder.com/data/icons/ios7-line/512/Email.png"
+                                width="30"
+                                height="22"
+                                className="d-inline-block align-top"
+                            /> Email.PremierSprinterService.com</p>
+                            <a href = "Contact" style = {{color: "#848480"}}>
+                            <p style = {{fontSize: "15px", fontFamily: "Cambria", color: "#848480"}}>
+                            <img
+                                alt=""
+                                src="https://cdn4.iconfinder.com/data/icons/communication-extras/512/Person_Book-512.png"
+                                width="30"
+                                height="22"
+                                className="d-inline-block align-top"
+                            /> Contact Us</p></a>
+                            <h5 style = {{color: "#94790D"}}>Social Media</h5>   
+                            <p style = {{fontSize: "18px", fontFamily: "Cambria", color: "#94790D"}}>
+                            <a href="https://www.instagram.com/kaobasketball/?hl=en" target = "blank"><img
+                                alt=""
+                                src="https://i.ya-webdesign.com/images/facebook-logo-white-png-3.png"
+                                width="55"
+                                height="37"
+                                className="d-inline-block align-top"
+                            /></a>         <a href="https://www.instagram.com/kaobasketball/?hl=en" target = "blank"> <img
+                            alt=""
+                            src="https://www.beerinstitute.org/wp-content/uploads/2017/07/instagram-icon-grey.3cf404e5.png"
+                            width="50"
+                            height="35"
+                            className="d-inline-block align-top"
+                            /></a></p>           
+                        </Col>
+                    </Row>
+                </Container>
             </footer>
         </React.Fragment>
         )

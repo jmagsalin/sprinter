@@ -1,5 +1,6 @@
 import React, {Component} from "react"
-import {Card, Image, ListGroup, ListGroupItem, Container, Row, Col, Jumbotron} from "react-bootstrap"
+import {Image, Container, Row, Col, Jumbotron} from "react-bootstrap"
+import Wedding from "./Wedding.jpg"
 
 class Services extends Component {
     render(){
@@ -63,7 +64,7 @@ class Services extends Component {
                         </h5>
                     </Col>
                     <Col>
-                    <Image height= {300} width = {500} src="https://cdn.pixabay.com/photo/2017/07/31/19/44/people-2560382_1280.jpg" rounded />
+                    <Image height= {400} width = {600} src={Wedding} rounded />
                     </Col>
                 </Row><br></br>
             </Container>

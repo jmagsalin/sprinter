@@ -12,7 +12,15 @@ class Contact extends Component {
              </h1>
              </Container>
          </Jumbotron>
+         <Container>
          <h1 style = {{fontFamily: "Cambria", color: "#94790D"}}>Contact us</h1><br></br>
+         <h4 style = {{fontFamily: "Cambria", color: "#848480"}}>Our concierge team is ready to help, 
+                answer questions and plan your luxury transportation. 
+                Call, email or fill out the form and we’ll get back to you quickly.  San Diego's
+                finest luxury transportation service is ready to provide answers to any questions, give a free quote,
+                or make a reservation.
+                </h4>
+        </Container><br></br><br></br>
          <div style = {{fontFamily: "Cambria", backgroundColor: "#E8E5DD"}}><br></br>
          <Container>
          <Row>
@@ -33,7 +41,7 @@ class Contact extends Component {
                     /> (855) 555-2398</p>
                     <p style = {{fontSize: "18px", fontFamily: "Cambria", color: "#94790D"}}><img
                         alt=""
-                        src="https://i.pinimg.com/originals/b6/40/cf/b640cf3d99e362fa2020f4be1302efaf.jpg"
+                        src="https://pngimg.com/uploads/email/email_PNG47.png"
                         width="50"
                         height="35"
                         className="d-inline-block align-top"
@@ -42,7 +50,7 @@ class Contact extends Component {
                 <p style = {{fontSize: "18px", fontFamily: "Cambria", color: "#94790D"}}>
                     <a href="https://www.instagram.com/kaobasketball/?hl=en" target = "blank"><img
                         alt=""
-                        src="https://lh3.googleusercontent.com/proxy/ofY28tqPjXfju3u66T5cqIAHDV7Fiyh-dExn9SllIQRf0gn-7eVbp6LwxJsUQ_izQ_HXzt_f19gwoMFgtkRADrkAPSVJ62Yx0x2CcNadX2SAnYEa5sea0MYWYE5Y8ZKOEOkQ9CVvB_A7xnUyPYm1vEJAZ8UFARL9zw1Ag_fRkhalyjhJ5y41VtcNPFtO6uAk"
+                        src="https://www.jing.fm/clipimg/full/305-3057438_free-png-download-gold-facebook-icon-png-images.png"
                         width="50"
                         height="35"
                         className="d-inline-block align-top"
@@ -55,8 +63,8 @@ class Contact extends Component {
                 /></a></p>
             </div>
              </Col>
-             <Col>
-             
+             <Col xs = {6}>
+                <h3>Message us</h3>
              </Col>
          </Row>
          </Container>
