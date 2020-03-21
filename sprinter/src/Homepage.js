@@ -120,8 +120,7 @@ class Homepage extends Component {
                     variant="dark"
                     size = "lg"
                     href = "Services"
-                    fontFamily = "Cambria">All Occasions</Button><br></br>
-             
+                    fontFamily = "Cambria">All Occasions</Button><br></br>        
             </Container><br></br>
               </div>
               <div className = "homeImage">         
@@ -135,7 +134,7 @@ class Homepage extends Component {
                     href = "Contact"
                     fontFamily = "Cambria">Make a reservation</Button><br></br>
              </Container>
-         </div>
+            </div>
     </React.Fragment>
         )
     }

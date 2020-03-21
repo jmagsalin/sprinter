@@ -12,7 +12,7 @@ class Routes extends Component {
             <React.Fragment>
             <Router>
             <div className = "navBar">
-                <Navbar variant = "dark"  expand="lg">  
+                <Navbar scrolling dark className = "navBar" variant = "dark"  expand="lg" fixed = "top">  
                 <Navbar.Brand href="Homepage">     
                     <img
                         alt=""
@@ -33,7 +33,7 @@ class Routes extends Component {
                         <Nav.Link href="Contact" style ={{fontFamily: "Cambria", color: "#94790D"}}>Contact</Nav.Link>
                     </Nav>
                     </Navbar.Collapse>
-                        <Navbar.Brand href="https://www.instagram.com/kaobasketball/?hl=en" target = "blank">
+                        <Navbar.Brand href="Contact">
                         <img
                                 alt=""
                                 src="https://images.cdn3.stockunlimited.net/clipart450/contact-us-button_1386389.jpg"
@@ -43,7 +43,7 @@ class Routes extends Component {
                             />
                             <p style = {{fontSize: "18px", fontFamily: "Cambria", color: "#94790D"}}>(855) 555-2398</p>
                         </Navbar.Brand>
-                        <Navbar.Brand href="https://www.instagram.com/kaobasketball/?hl=en" target = "blank">
+                        <Navbar.Brand href="Contact">
                         <img
                                 alt=""
                                 src="https://pngimg.com/uploads/email/email_PNG47.png"
@@ -53,7 +53,7 @@ class Routes extends Component {
                             />
                             <p style = {{fontSize: "16px", fontFamily: "Cambria", color: "#94790D"}}>Email.PremierSprinterService.com</p>
                         </Navbar.Brand>
-                </Navbar>
+                </Navbar><br></br><br></br><br></br>
             </div>
             <Switch>
                 <Route exact path="/" component={Homepage} />
@@ -132,18 +132,18 @@ class Routes extends Component {
                             /> Contact Us</p></a>
                             <h5 style = {{color: "#94790D"}}>Social Media</h5>   
                             <p style = {{fontSize: "18px", fontFamily: "Cambria", color: "#94790D"}}>
-                            <a href="https://www.instagram.com/kaobasketball/?hl=en" target = "blank"><img
+                            <a href="https://www.facebook.com/kaoathletics/" target = "blank"><img
                                 alt=""
                                 src="https://i.ya-webdesign.com/images/facebook-logo-white-png-3.png"
                                 width="55"
                                 height="37"
                                 className="d-inline-block align-top"
                             /></a>         <a href="https://www.instagram.com/kaobasketball/?hl=en" target = "blank"> <img
-                            alt=""
-                            src="https://www.beerinstitute.org/wp-content/uploads/2017/07/instagram-icon-grey.3cf404e5.png"
-                            width="50"
-                            height="35"
-                            className="d-inline-block align-top"
+                                alt=""
+                                src="https://www.beerinstitute.org/wp-content/uploads/2017/07/instagram-icon-grey.3cf404e5.png"
+                                width="50"
+                                height="35"
+                                className="d-inline-block align-top"
                             /></a></p>           
                         </Col>
                     </Row>

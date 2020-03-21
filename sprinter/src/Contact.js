@@ -48,7 +48,7 @@ class Contact extends Component {
                     /> Email.PremierSprinterService.com</p>
                 <h3>Social Media</h3>
                 <p style = {{fontSize: "18px", fontFamily: "Cambria", color: "#94790D"}}>
-                    <a href="https://www.instagram.com/kaobasketball/?hl=en" target = "blank"><img
+                    <a href="https://www.facebook.com/kaoathletics/" target = "blank"><img
                         alt=""
                         src="https://www.jing.fm/clipimg/full/305-3057438_free-png-download-gold-facebook-icon-png-images.png"
                         width="50"

@@ -110,7 +110,7 @@ class Services extends Component {
                         </h5>
                     </Col>
                     <Col>
-                    <Image height= {300} width= {500} src="https://www.reviewjournal.com/wp-content/uploads/2016/10/web1_unlvsdsu_100816cs_001_7162290.jpg" rounded />
+                        <Image height= {300} width= {500} src="https://www.reviewjournal.com/wp-content/uploads/2016/10/web1_unlvsdsu_100816cs_001_7162290.jpg" rounded />
                     </Col>
                 </Row><br></br>
                 </Container>
@@ -118,7 +118,7 @@ class Services extends Component {
             <Container><br></br>
                 <Row>
                     <Col>
-                    <Image height= {300} width= {500} src="https://www.ultimatetoys.com/wp-content/uploads/2018/09/SPRINTER_15-1600x844.jpg" rounded />
+                        <Image height= {300} width= {500} src="https://www.ultimatetoys.com/wp-content/uploads/2018/09/SPRINTER_15-1600x844.jpg" rounded />
                     </Col>
                     <Col>
                         <h2 style = {{fontFamily: "Cambria", color: "#94790D"}}>
@@ -156,10 +156,34 @@ class Services extends Component {
                         </h5>
                     </Col>
                     <Col>
-                    <Image height= {300} width= {500} src="https://cdn.pixabay.com/photo/2017/03/25/09/51/party-2173187_1280.jpg" rounded />
+                        <Image height= {300} width= {500} src="https://cdn.pixabay.com/photo/2017/03/25/09/51/party-2173187_1280.jpg" rounded />
                     </Col>
                 </Row><br></br>
                 </Container>
+                    <div style = {{backgroundColor: "#E8E5DD"}}>
+                        <Container><br></br>
+                            <Row>
+                                <Col>
+                                    <Image height= {300} width= {500} src="https://cdn.pixabay.com/photo/2017/06/04/11/00/beer-2370783_1280.jpg" rounded />
+                                </Col>
+                                <Col>
+                                    <h2 style = {{fontFamily: "Cambria", color: "#94790D"}}>
+                                        Brewery Tours
+                                    </h2>
+                                    <h3 style = {{fontFamily: "Cambria", color: "#848480", fontStyle: "italic"}}>
+                                        Tour San Diego breweries, the center of craft brewing
+                                    </h3>
+                                    <h5 style = {{textAlign: "left"}}> There is no experience like that of going to a Homecoming or Prom with your closest friends, it is a night that you won't ever forget.
+                                    Why not treat this experience with a memorable ride.
+                                    </h5><br></br>
+                                    <h5 style = {{textAlign: "left"}}>
+                                        Our Sprinter Limos will make sure you will have a memorable time with your life long friends and
+                                        have a night you won't forget.
+                                    </h5>
+                                </Col>
+                            </Row><br></br>
+                        </Container>
+                    </div>
                 </div>
             </React.Fragment>
             )
