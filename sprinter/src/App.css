@@ -155,5 +155,21 @@ h1 {
 .schHr {
   color: #94790D;
   background-color: #94790D;
-  
 }
+
+.aboutJumbotron {
+  background-image: url("https://cdn.pixabay.com/photo/2017/09/23/10/45/usa-2778351_1280.jpg");
+  color: black;
+  background-size: cover;
+  background-position-x: center;
+  background-position-y: center;
+  font-weight: bolder;
+  height: 350px;
+}
+
+.aboutText {
+  text-align: center;
+  font-size: 25px;
+  color:#848480;
+  font-family: Cambria;
+  }

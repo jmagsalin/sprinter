@@ -5,6 +5,7 @@ import Homepage from "./Homepage"
 import Services from "./Services"
 import Sprinter from "./Sprinter"
 import Contact from "./Contact"
+import About from "./About"
 
 class Routes extends Component {
     render () {
@@ -61,6 +62,7 @@ class Routes extends Component {
                 <Route path="/Services" component={Services} />
                 <Route path="/Sprinter" component={Sprinter} />
                 <Route path="/Contact" component={Contact} />
+                <Route path="/About" component={About} />
              </Switch>
             </Router>
             <footer className = "footer" style = {{fontFamily: "Cambria", color: "#848480"}}><br></br>
@@ -142,7 +144,7 @@ class Routes extends Component {
                                 alt=""
                                 src="https://www.beerinstitute.org/wp-content/uploads/2017/07/instagram-icon-grey.3cf404e5.png"
                                 width="50"
-                                height="35"
+                                height="34"
                                 className="d-inline-block align-top"
                             /></a></p>           
                         </Col>
