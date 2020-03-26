@@ -7,7 +7,7 @@ class Sprinter extends Component {
     <React.Fragment>
         <Jumbotron fluid className = "sprinterJumbotron">           
              <Container>
-             <h1></h1>
+             <h1 style = {{fontFamily: "Cambria", color: "#94790D"}} >Our Mercedes Sprinter Limos</h1>
              <p className = "aboutText"></p><br></br>
              </Container>
          </Jumbotron>
@@ -22,9 +22,9 @@ class Sprinter extends Component {
          </Container><br></br>
       <div style = {{backgroundColor: "#E8E5DD"}}>
         <Container>
-            <h1 style = {{fontFamily: "Cambria", color: "#94790D", textAlign: "left"}}>
+            <h2 style = {{fontFamily: "Cambria", color: "#94790D", textAlign: "left", fontSize: "40px"}}>
               The Presidential Sprinter Limo
-            </h1>
+            </h2>
             <h2 style = {{fontFamily: "Cambria", color: "#848480", textAlign: "left", fontStyle: "italic"}}>
                 Travel as a VIP
             </h2>
@@ -65,7 +65,7 @@ class Sprinter extends Component {
                   </ul>
               </Col>
               <Col >
-                 <Image height= {280} width = {500} src="https://www.ultimatetoys.com/wp-content/uploads/2018/09/presidential-sprinter-1-1600x844.jpeg" rounded />
+                 <Image height= {280} width = {500} src="https://www.ultimatetoys.com/wp-content/uploads/2020/02/presidential_open_5_nov_0007_web.jpg" rounded />
               </Col>
           </Row><br></br>
       </Container>
