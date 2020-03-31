@@ -1,5 +1,6 @@
 import React, {Component} from 'react';
 import {Container, Jumbotron, Row, Col, Image} from 'react-bootstrap';
+import Message from "./message"
 
 class Contact extends Component {
   render(){
@@ -50,7 +51,7 @@ class Contact extends Component {
                 <p style = {{fontSize: "18px", fontFamily: "Cambria", color: "#94790D"}}>
                     <a href="https://www.facebook.com/kaoathletics/" target = "blank"><img
                         alt=""
-                        src="https://www.jing.fm/clipimg/full/305-3057438_free-png-download-gold-facebook-icon-png-images.png"
+                        src="https://www.pngkey.com/png/full/50-504085_facebook-hotel-klosterbru-logo-facebook-gold-png.png"
                         width="50"
                         height="35"
                         className="d-inline-block align-top"
@@ -63,8 +64,9 @@ class Contact extends Component {
                 /></a></p>
             </div>
              </Col>
-             <Col xs = {6}>
+             <Col>
                 <h3>Message us</h3>
+                <Message/>
              </Col>
          </Row>
          </Container>

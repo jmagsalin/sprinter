@@ -38,7 +38,7 @@ class About extends Component {
             <Container><br></br>
                 <Row>
                     <Col>
-                    <Image height= {300} width= {500} src="https://cdn.pixabay.com/photo/2019/07/21/19/53/san-diego-skyline-4353504_1280.jpg" rounded />
+                    <Image height= {330} width= {500} src="https://cdn.pixabay.com/photo/2019/07/21/19/53/san-diego-skyline-4353504_1280.jpg" rounded />
                     </Col>
                     <Col>
                         <h2 style = {{fontFamily: "Cambria", color: "#94790D"}}>
@@ -47,13 +47,13 @@ class About extends Component {
                         <h3 style = {{fontFamily: "Cambria", color: "#848480", fontStyle: "italic"}}>
                             Let us provide you with the luxury you deserve
                         </h3>
-                        <h5 style = {{textAlign: "left"}}> At Premiere Sprinter Service we strive for greatness! Our San Diego based Sprinter 
+                        <h5 style = {{textAlign: "left"}}> At Premiere Sprinter Service we strive for greatness. Our San Diego based Sprinter 
                             and sedan transportation service is built on integrity, reliability and knowledge. We provide safe, 
                             clean and reliable transportation with highly trained chauffeurs and high-class vehicles. 
                         </h5><br></br>
                         <h5 style = {{textAlign: "left"}}>
                             We separate ourselves from other companies by striving for greatness. From our 
-                            luxurious fleet to our caring staff. When you complete your journey with us, you will feel great!
+                            luxurious fleet to our caring staff, when you complete your journey with us, you will leave feeling amazing!
                         </h5>
                     </Col>
                 </Row><br></br>
