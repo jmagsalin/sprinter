@@ -12,9 +12,9 @@ class Sprinter extends Component {
              </Container>
          </Jumbotron>
          <Container>
-            <h1 style = {{fontFamily: "Cambria", color: "#94790D"}}>
+            <h2 style = {{fontFamily: "Cambria", color: "#94790D", fontSize: "37px"}}>
               Our Sprinter Limos are Perfect for Any Occasion
-            </h1>
+            </h2>
             <h4 style = {{fontFamily: "Cambria", color: "#848480"}}>
             Enjoy the ride and arrive in unique style with luxury limousines for events, executives and companies. Say goodbye to the old-fashioned stretch limo. And, hello to a modern transportation experience. 
             The Go Luxe difference is our fleet of chauffeured Mercedes Sprinter Limo Vans combined with superior concierge service.

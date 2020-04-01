@@ -69,9 +69,7 @@ class Message extends Component {
                                 value={this.state.name}
                                 />
                         </FormGroup>
-                    </Col>    
-                </Row>         
-                <Row>   
+                    </Col>
                     <Col xs={6}>
                         <FormGroup controlId="formBasicEmail">
                         <label style = {{fontWeight: "bold", fontSize: 20, color: "#94790D"}}>Email</label>
@@ -83,8 +81,8 @@ class Message extends Component {
                                 value={this.state.email}
                                 />
                         </FormGroup>
-                    </Col>
-                </Row>    
+                    </Col>    
+                </Row>         
                 <Row>   
                     <Col xs={6}>
                         <FormGroup controlId="formBasicEmail">

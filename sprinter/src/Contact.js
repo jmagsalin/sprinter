@@ -11,14 +11,17 @@ class Contact extends Component {
              <h1 style = {{fontFamily: "Cambria", color: "#94790D"}}>
                  Contact Premier Sprinter Service
              </h1>
+             <h1 className = "servText" style = {{fontFamily: "Cambria", color: "#848480", textAlign: "center"}}>
+                 Let us begin your journey
+             </h1>
              </Container>
          </Jumbotron>
          <Container>
-         <h1 style = {{fontFamily: "Cambria", color: "#94790D"}}>Contact us</h1><br></br>
+         <h2 style = {{fontFamily: "Cambria", color: "#94790D", fontSize: "38px"}}>Contact us</h2><br></br>
          <h4 style = {{fontFamily: "Cambria", color: "#848480"}}>Our concierge team is ready to help, 
                 answer questions and plan your luxury transportation. 
                 Call, email or fill out the form and we’ll get back to you quickly.  San Diego's
-                finest luxury transportation service is ready to provide answers to any questions, give a free quote,
+                finest luxury transportation service is ready to answer any questions, give a free quote,
                 or make a reservation.
                 </h4>
         </Container><br></br><br></br>

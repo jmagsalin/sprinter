@@ -6,7 +6,7 @@ import Services from "./Services"
 import Sprinter from "./Sprinter"
 import Contact from "./Contact"
 import About from "./About"
-import message from "./message"
+import Rates from "./Rates"
 
 class Routes extends Component {
     render () {
@@ -14,7 +14,7 @@ class Routes extends Component {
             <React.Fragment>
             <Router>
             <div className = "navBar">
-                <Navbar scrolling dark className = "navBar" variant = "dark"  expand="lg" fixed = "top">  
+                <Navbar className = "navBar" variant = "dark"  expand="lg" fixed = "top">  
                 <Navbar.Brand href="Homepage">     
                     <img
                         alt=""
@@ -30,7 +30,7 @@ class Routes extends Component {
                         <Nav.Link href="Homepage" style ={{fontFamily: "Cambria", color: "#94790D"}}>Home</Nav.Link>
                         <Nav.Link href="Sprinter" style ={{fontFamily: "Cambria", color: "#94790D"}}>Sprinter Limos</Nav.Link>
                         <Nav.Link href="Services" style ={{fontFamily: "Cambria", color: "#94790D"}}>Services</Nav.Link>
-                        <Nav.Link href="message" style ={{fontFamily: "Cambria", color: "#94790D"}}>Message</Nav.Link>
+                        <Nav.Link href="Rates" style ={{fontFamily: "Cambria", color: "#94790D"}}>Rates</Nav.Link>
                         <Nav.Link href="About" style ={{fontFamily: "Cambria", color: "#94790D"}}>About</Nav.Link>     
                         <Nav.Link href="Contact" style ={{fontFamily: "Cambria", color: "#94790D"}}>Contact</Nav.Link>
                     </Nav>
@@ -64,7 +64,7 @@ class Routes extends Component {
                 <Route path="/Sprinter" component={Sprinter} />
                 <Route path="/Contact" component={Contact} />
                 <Route path="/About" component={About} />
-                <Route path="/message" component={message} />
+                <Route path="/Rates" component={Rates} />
              </Switch>
             </Router>
             <footer className = "footer" style = {{fontFamily: "Cambria", color: "#848480"}}><br></br>
