@@ -21,12 +21,16 @@ class About extends Component {
                         <h3 style = {{fontFamily: "Cambria", color: "#848480", fontStyle: "italic"}}>
                             Arrive at your destination in luxury 
                         </h3>
-                        <h5 style = {{textAlign: "left", fontFamily: "Cambria"}}> There is no experience like that of going to a Homecoming or Prom with your closest friends, it is a night that you won't ever forget.
-                        Why not treat this experience with a memorable ride.
+                        <h5 style = {{textAlign: "left", fontFamily: "Cambria"}}> There is no experience like that of going to an event 
+                        with your closest friends or that special someone.  
+                        Why not treat this experience with a memorable ride in one of our luxury Sprinter Limos.
+                        For any occasion, when you travel with us,
+                        it will be a journey that you won't ever forget.
                         </h5><br></br>
                         <h5 style = {{textAlign: "left", fontFamily: "Cambria"}}>
-                            Our Sprinter Limos will make sure you will have a memorable time with your life long friends and
-                            have a night you won't forget.
+                            Our professional staff will make sure you will have a memorable time with your close friends or 
+                            that special someone and
+                            have an experience you won't forget.
                         </h5>
                     </Col>
                     <Col>
@@ -42,7 +46,7 @@ class About extends Component {
                     </Col>
                     <Col>
                         <h2 style = {{fontFamily: "Cambria", color: "#94790D"}}>
-                            Our Mission
+                            Our Values
                         </h2>
                         <h3 style = {{fontFamily: "Cambria", color: "#848480", fontStyle: "italic"}}>
                             Let us provide you with the luxury you deserve
@@ -53,12 +57,38 @@ class About extends Component {
                         </h5><br></br>
                         <h5 style = {{textAlign: "left"}}>
                             We separate ourselves from other companies by striving for greatness. From our 
-                            luxurious fleet to our caring staff, when you complete your journey with us, you will leave feeling amazing!
+                            luxurious fleet to our caring staff, when you complete your journey with us, you will leave feeling like you've 
+                            had the experience of a lifetime!
                         </h5>
                     </Col>
                 </Row><br></br>
             </Container>
         </div>
+        <Container><br></br>
+                <Row>                  
+                    <Col>
+                        <h2 style = {{fontFamily: "Cambria", color: "#94790D"}}>
+                            Our Mission
+                        </h2>
+                        <h3 style = {{fontFamily: "Cambria", color: "#848480", fontStyle: "italic"}}>
+                            We Go Above and Beyond 
+                        </h3>
+                        <h5 style = {{textAlign: "left", fontFamily: "Cambria"}}> 
+                        Premier Sprinter Service takes great pride in our work and we want to make sure to perfectly accommodate you on  
+                        every journey. 
+                        Our team goes above and beyond to make sure every client goes home happy 
+                        and to ensure you have the best experience possible.   
+                        </h5><br></br>
+                        <h5 style = {{textAlign: "left", fontFamily: "Cambria"}}>
+                        Our staff are professionals who work as a team dedicated to ensure that your experience 
+                        is exceptional, complete, and always on time.
+                        </h5>
+                    </Col>
+                    <Col>
+                        <Image height= {350} width = {500} src="https://cdn.pixabay.com/photo/2014/11/25/16/07/ballet-545323_1280.jpg" rounded />
+                    </Col>
+                </Row><br></br>
+            </Container>
       </React.Fragment>
         )
     }

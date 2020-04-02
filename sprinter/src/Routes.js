@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
 import {BrowserRouter as Router, Route, Switch} from 'react-router-dom';
-import {Button, Navbar, Nav, Row, Col, Container} from 'react-bootstrap';
+import {Navbar, Nav, Row, Col, Container} from 'react-bootstrap';
 import Homepage from "./Homepage"
 import Services from "./Services"
 import Sprinter from "./Sprinter"
@@ -149,9 +149,10 @@ class Routes extends Component {
                                 height="34"
                                 className="d-inline-block align-top"
                             /></a></p>           
+                            <p>&copy; Premier Sprinter Service 2020</p>
                         </Col>
                     </Row>
-                </Container>
+                </Container>                
             </footer>
         </React.Fragment>
         )

@@ -16,8 +16,9 @@ class Rates extends Component {
                 <h2 style = {{color: "#94790D", fontSize: "37px"}}>
                     We Have Everything for Your Luxury Transportation Needs
                 </h2><br></br>
-                <h4 style = {{color: "#848480"}}>From ultimate tailgates to a magical wedding and everything in between, treat yourself and your guests, to a superior luxury transportation service and personalized attention like you’ve never experienced before. Our concierge team 
-                    makes sure every detail is perfect and can make reservations, secure hard-to-get tickets, provide catering and plan itineraries.
+                <h4 style = {{color: "#848480"}}>Our service team 
+                    makes sure every detail is perfect and can make reservations, provide catering and create itineraries.
+                    If you don't see what you need, don't hesitate to contact us and we can taylor your experience to accomodate all of your needs.
                 </h4><br></br><br></br>
             </Container>
             <div style = {{backgroundColor: "#E8E5DD"}}>
@@ -115,8 +116,8 @@ class Rates extends Component {
                     <p style = {{textAlign: "left"}}>*Wedding Limousine Package includes bottled water and Champagne. 
                         Customizing  your choice of alcohol is recommended and not included in pricing.
                         <br></br>Our SUV service will also provide transportation for 
-                        the Bride and groom to return to their location of choice (within San Diego) 
-                        after the reception for an additional charge of $200 
+                        the bride and groom to return to their location of choice (within San Diego) 
+                        after the reception for an additional charge of $200. 
                     </p>
                     </Col>
                 </Row>

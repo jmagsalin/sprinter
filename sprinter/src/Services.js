@@ -1,5 +1,5 @@
 import React, {Component} from "react"
-import {Image, Container, Row, Col, Jumbotron, Button} from "react-bootstrap"
+import {Image, Container, Row, Col, Jumbotron} from "react-bootstrap"
 import Wedding from "./Wedding.jpg"
 
 class Services extends Component {     

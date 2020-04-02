@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-import {Container, Jumbotron, Row, Col, Image} from 'react-bootstrap';
+import {Container, Jumbotron, Row, Col} from 'react-bootstrap';
 import Message from "./message"
 
 class Contact extends Component {
