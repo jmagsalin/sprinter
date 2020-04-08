@@ -28,7 +28,7 @@ class Routes extends Component {
                     <Navbar.Collapse id="basic-navbar-nav">
                     <Nav className="mr-auto">
                         <Nav.Link href="Homepage" style ={{fontFamily: "Cambria", color: "#94790D"}}>Home</Nav.Link>
-                        <Nav.Link href="Sprinter" style ={{fontFamily: "Cambria", color: "#94790D"}}>Sprinter Limos</Nav.Link>
+                        <Nav.Link href="Sprinter" style ={{fontFamily: "Cambria", color: "#94790D"}}>Fleet</Nav.Link>
                         <Nav.Link href="Services" style ={{fontFamily: "Cambria", color: "#94790D"}}>Services</Nav.Link>
                         <Nav.Link href="Rates" style ={{fontFamily: "Cambria", color: "#94790D"}}>Rates</Nav.Link>
                         <Nav.Link href="About" style ={{fontFamily: "Cambria", color: "#94790D"}}>About</Nav.Link>     
@@ -87,7 +87,7 @@ class Routes extends Component {
                             </p>
                         </Col>
                         <Col style = {{textAlign: "left"}}>
-                            <h5 style = {{color: "#94790D"}}>Premier Sprinter Services</h5>
+                            <h5 style = {{color: "#94790D"}}>Premier Sprinter Service</h5>
                             <a href = "Services" style = {{color: "#848480"}}>Wedding Transportation</a><br></br>
                             <a href = "Services" style = {{color: "#848480"}}>Events Transportation</a><br></br>
                             <a href = "Services" style = {{color: "#848480"}}>Formals Transportation</a><br></br>

@@ -104,6 +104,7 @@ class Message extends Component {
                                 <FormControl
                                 as = "textarea"
                                 className="textArea"
+                                rows="3"
                                 style = {{borderColor: "black"}}
                                 type="text"
                                 name="message"

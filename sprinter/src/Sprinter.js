@@ -7,7 +7,7 @@ class Sprinter extends Component {
     <React.Fragment>
         <Jumbotron fluid className = "sprinterJumbotron">           
              <Container>
-             <h1 style = {{fontFamily: "Cambria", color: "#94790D"}} >Our Mercedes Sprinter Limos</h1>
+             <h1 style = {{fontFamily: "Cambria", color: "#94790D"}} >Our Transportation Fleet</h1>
              <p className = "aboutText"></p><br></br>
              </Container>
          </Jumbotron>
@@ -46,7 +46,7 @@ class Sprinter extends Component {
                       Key Features:
                   </h3>
                   <ul style = {{fontSize: "large"}}>
-                    <li>Seats up to 10</li>
+                    <li>Seats up to 8</li>
                     <li>Power footrests</li>
                     <li>Two HD TV's</li>
                     <li>High end tech & audio</li>

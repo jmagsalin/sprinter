@@ -8,7 +8,7 @@ class About extends Component {
       <React.Fragment>
           <Jumbotron fluid className = "aboutJumbotron">           
                <Container>
-               <h1 style = {{fontFamily: "Cambria", color: "#94790D" }}>About Premier Sprinter Services</h1>
+               <h1 style = {{fontFamily: "Cambria", color: "#94790D" }}>About Premier Sprinter Service</h1>
                <h1 className = "aboutText">San Diego's Luxury Transportation Experience</h1><br></br>
                </Container>
            </Jumbotron>
@@ -25,7 +25,7 @@ class About extends Component {
                         with your closest friends or that special someone.  
                         Why not treat this experience with a memorable ride in one of our luxury Sprinter Limos.
                         For any occasion, when you travel with us,
-                        it will be a journey that you won't ever forget.
+                        it will be a journey unlike any other.
                         </h5><br></br>
                         <h5 style = {{textAlign: "left", fontFamily: "Cambria"}}>
                             Our professional staff will make sure you will have a memorable time with your close friends or 
@@ -49,11 +49,11 @@ class About extends Component {
                             Our Values
                         </h2>
                         <h3 style = {{fontFamily: "Cambria", color: "#848480", fontStyle: "italic"}}>
-                            Let us provide you with the luxury you deserve
+                            Professionalism, Integrity, Reliability
                         </h3>
                         <h5 style = {{textAlign: "left"}}> At Premiere Sprinter Service we strive for greatness. Our San Diego based Sprinter 
                             and sedan transportation service is built on integrity, reliability and knowledge. We provide safe, 
-                            clean and reliable transportation with highly trained chauffeurs and high-class vehicles. 
+                            clean and reliable transportation with highly trained professional chauffeurs and high-class vehicles. 
                         </h5><br></br>
                         <h5 style = {{textAlign: "left"}}>
                             We separate ourselves from other companies by striving for greatness. From our 
@@ -71,7 +71,7 @@ class About extends Component {
                             Our Mission
                         </h2>
                         <h3 style = {{fontFamily: "Cambria", color: "#848480", fontStyle: "italic"}}>
-                            We Go Above and Beyond 
+                            We go above and beyond for you
                         </h3>
                         <h5 style = {{textAlign: "left", fontFamily: "Cambria"}}> 
                         Premier Sprinter Service takes great pride in our work and we want to make sure to perfectly accommodate you on  
