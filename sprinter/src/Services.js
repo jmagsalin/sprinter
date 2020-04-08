@@ -1,6 +1,6 @@
 import React, {Component} from "react"
-import {Image, Container, Row, Col, Jumbotron} from "react-bootstrap"
-import Wedding from "./Wedding.jpg"
+import {Image, Container, Row, Col, Jumbotron, Button} from "react-bootstrap"
+import Aboutcollage from "./Aboutcollage.jpg"
 
 class Services extends Component {     
     render(){
@@ -8,15 +8,15 @@ class Services extends Component {
             <React.Fragment>
                 <Jumbotron fluid className ="servJumbotron">           
                 <Container><br></br>
-                <h1 style = {{fontFamily: "Cambria", color: "#94790D" }}>Perfect for any Occasion</h1>
-                <h1 className = "servText">Our Sprinter Limos are perfect for any and all occasions whether it be for wedding parties, bachelor 
-                                            or bachelorette parties, prom, or just a night out on town </h1><br></br>
+                <h1 style = {{fontFamily: "Cambria", color: "#94790D" }}>Transportation for any Occasion</h1>
+                <h1 className = "servText">Our transportation fleet is perfect for any and all occasions whether it be for 
+                                            wedding parties, executive outings, transportation to high school, or just a night out on town </h1><br></br>
                 </Container>
                 </Jumbotron>
             <div style = {{fontFamily: "Cambria"}}>
             <Container>
                 <h2 style = {{fontFamily: "Cambria", color: "#94790D", fontSize: "37px"}}>
-                    For That Special Event
+                    For All Your Transportation Needs
                 </h2><br></br>
                 <h4 style = {{fontFamily: "Cambria", color: "#848480"}}>From ultimate tailgates to a magical wedding and everything in between, treat yourself and your guests, to a superior luxury transportation service and personalized attention like you’ve never experienced before. Our concierge team 
                     makes sure every detail is perfect and can make reservations, secure hard-to-get tickets, provide catering and plan itineraries.
@@ -26,14 +26,14 @@ class Services extends Component {
             <Container><br></br>
                 <Row>
                     <Col>
-                    <Image height= {300} width= {500} src="https://cdn.pixabay.com/photo/2017/04/05/14/37/prom-2205139_1280.jpg" rounded />
+                    <Image height= {360} width= {500} src={Aboutcollage} rounded />
                     </Col>
                     <Col>
                         <h2 style = {{fontFamily: "Cambria", color: "#94790D"}}>
-                            Formals
+                            Special Events
                         </h2>
                         <h3 style = {{fontFamily: "Cambria", color: "#848480", fontStyle: "italic"}}>
-                            Arrive at your formal in luxury and be the stars of the night
+                            Arrive at your event in luxury and be the stars of the night
                         </h3>
                         <h5 style = {{ textAlign: "left"}}> There is no experience like that of going to a Homecoming or Prom with your closest friends, it is a night that you won't ever forget.
                         Why not treat this experience with a memorable ride.
@@ -42,6 +42,13 @@ class Services extends Component {
                             Our Sprinter Limos will make sure you will have a memorable time with your life long friends and
                             have a night you won't forget.
                         </h5>
+                        <Button 
+                            className = "footerb"
+                            variant="dark"
+                            size = "lg"
+                            href = "Events"
+                            fontFamily = "Cambria">Events
+                        </Button><br></br>  
                     </Col>
                 </Row>
             </Container><br></br>
@@ -50,7 +57,7 @@ class Services extends Component {
                 <Row>                  
                     <Col>
                         <h2 style = {{fontFamily: "Cambria", color: "#94790D"}}>
-                            Weddings
+                            High School Transportation
                         </h2>
                         <h3 style = {{fontFamily: "Cambria", color: "#848480", fontStyle: "italic"}}>
                             Arrive at your formal in luxury and be the stars of the night
@@ -64,65 +71,19 @@ class Services extends Component {
                         </h5>
                     </Col>
                     <Col>
-                    <Image height= {400} width = {600} src={Wedding} rounded />
+                    <Image height= {350} width = {500} src="https://www.sahs.org/wp-content/uploads/2018/08/shool.jpg" rounded />
                     </Col>
                 </Row><br></br>
             </Container>
-            <div style = {{backgroundColor: "#E8E5DD"}}>
-            <Container><br></br>
-                <Row>
-                    <Col>
-                    <Image height= {300} width= {500} src="https://cdn.pixabay.com/photo/2016/07/30/00/03/winding-road-1556177_1280.jpg" rounded />
-                    </Col>
-                    <Col>
-                        <h2 style = {{fontFamily: "Cambria", color: "#94790D"}}>
-                            Road Trips
-                        </h2>
-                        <h3 style = {{fontFamily: "Cambria", color: "#848480", fontStyle: "italic"}}>
-                            Arrive at your formal in luxury and be the stars of the night
-                        </h3>
-                        <h5 style = {{textAlign: "left"}}> There is no experience like that of going to a Homecoming or Prom with your closest friends, it is a night that you won't ever forget.
-                        Why not treat this experience with a memorable ride.
-                        </h5><br></br>
-                        <h5 style = {{textAlign: "left"}}>
-                            Our Sprinter Limos will make sure you will have a memorable time with your life long friends and
-                            have a night you won't forget.
-                        </h5>
-                    </Col>
-                </Row><br></br>
-            </Container>
-            </div>
-            <Container><br></br>
-                <Row>                 
-                    <Col>
-                        <h2 style = {{fontFamily: "Cambria", color: "#94790D"}}>
-                            Events
-                        </h2>
-                        <h3 style = {{fontFamily: "Cambria", color: "#848480", fontStyle: "italic"}}>
-                            Arrive at your formal in luxury and be the stars of the night
-                        </h3>
-                        <h5 style = {{textAlign: "left"}}> There is no experience like that of going to a Homecoming or Prom with your closest friends, it is a night that you won't ever forget.
-                        Why not treat this experience with a memorable ride.
-                        </h5><br></br>
-                        <h5 style = {{textAlign: "left"}}>
-                            Our Sprinter Limos will make sure you will have a memorable time with your life long friends and
-                            have a night you won't forget.
-                        </h5>
-                    </Col>
-                    <Col>
-                        <Image height= {300} width= {500} src="https://www.reviewjournal.com/wp-content/uploads/2016/10/web1_unlvsdsu_100816cs_001_7162290.jpg" rounded />
-                    </Col>
-                </Row><br></br>
-                </Container>
                 <div style = {{backgroundColor: "#E8E5DD"}}>
             <Container><br></br>
                 <Row>
                     <Col>
-                        <Image height= {300} width= {500} src="https://www.ultimatetoys.com/wp-content/uploads/2018/09/SPRINTER_15-1600x844.jpg" rounded />
+                        <Image height= {350} width= {500} src="https://www.ultimatetoys.com/wp-content/uploads/2018/09/SPRINTER_15-1600x844.jpg" rounded />
                     </Col>
                     <Col>
                         <h2 style = {{fontFamily: "Cambria", color: "#94790D"}}>
-                            Executive Meetings
+                            Executive Outings
                         </h2>
                         <h3 style = {{fontFamily: "Cambria", color: "#848480", fontStyle: "italic"}}>
                             Arrive at your formal in luxury and be the stars of the night
@@ -138,52 +99,7 @@ class Services extends Component {
                 </Row><br></br>
             </Container>
             </div>
-            <Container><br></br>
-                <Row>                 
-                    <Col>
-                        <h2 style = {{fontFamily: "Cambria", color: "#94790D"}}>
-                            Nights Out
-                        </h2>
-                        <h3 style = {{fontFamily: "Cambria", color: "#848480", fontStyle: "italic"}}>
-                            Arrive at your formal in luxury and be the stars of the night
-                        </h3>
-                        <h5 style = {{textAlign: "left"}}> There is no experience like that of going to a Homecoming or Prom with your closest friends, it is a night that you won't ever forget.
-                        Why not treat this experience with a memorable ride.
-                        </h5><br></br>
-                        <h5 style = {{textAlign: "left"}}>
-                            Our Sprinter Limos will make sure you will have a memorable time with your life long friends and
-                            have a night you won't forget.
-                        </h5>
-                    </Col>
-                    <Col>
-                        <Image height= {300} width= {500} src="https://cdn.pixabay.com/photo/2017/03/25/09/51/party-2173187_1280.jpg" rounded />
-                    </Col>
-                </Row><br></br>
-                </Container>
-                    <div style = {{backgroundColor: "#E8E5DD"}}>
-                        <Container><br></br>
-                            <Row>
-                                <Col>
-                                    <Image height= {300} width= {500} src="https://cdn.pixabay.com/photo/2017/06/04/11/00/beer-2370783_1280.jpg" rounded />
-                                </Col>
-                                <Col>
-                                    <h2 style = {{fontFamily: "Cambria", color: "#94790D"}}>
-                                        Brewery Tours
-                                    </h2>
-                                    <h3 style = {{fontFamily: "Cambria", color: "#848480", fontStyle: "italic"}}>
-                                        Tour San Diego breweries, the center of craft brewing
-                                    </h3>
-                                    <h5 style = {{textAlign: "left"}}> There is no experience like that of going to a Homecoming or Prom with your closest friends, it is a night that you won't ever forget.
-                                    Why not treat this experience with a memorable ride.
-                                    </h5><br></br>
-                                    <h5 style = {{textAlign: "left"}}>
-                                        Our Sprinter Limos will make sure you will have a memorable time with your life long friends and
-                                        have a night you won't forget.
-                                    </h5>
-                                </Col>
-                            </Row><br></br>
-                        </Container>
-                    </div>
+            
                 </div>
             </React.Fragment>
             )

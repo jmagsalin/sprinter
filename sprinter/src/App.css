@@ -53,6 +53,16 @@
 }
 
 .servJumbotron {
+  background-image: url("https://media-dmg.assets-cdk.com/websites/content/gmps-colonial-va//07aac646072744e7b7d60443e4caf2cc_c0x47-1320x525.png");
+  color: black;
+  background-size: cover;
+  background-position-x: center;
+  background-position-y: center;
+  font-weight: bolder;
+  height: 350px;
+}
+
+.eventsJumbotron {
   background-image: url("https://cdn.pixabay.com/photo/2016/09/04/18/28/party-people-1644798_1280.jpg");
   color: black;
   background-size: cover;
@@ -66,6 +76,7 @@
   text-align: left;
   font-size: 25px;
   color: white;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   }
 
 .sprinterJumbotron {

@@ -7,6 +7,7 @@ import Sprinter from "./Sprinter"
 import Contact from "./Contact"
 import About from "./About"
 import Rates from "./Rates"
+import Events from "./Events"
 
 class Routes extends Component {
     render () {
@@ -65,6 +66,7 @@ class Routes extends Component {
                 <Route path="/Contact" component={Contact} />
                 <Route path="/About" component={About} />
                 <Route path="/Rates" component={Rates} />
+                <Route path="/Events" component={Events} />
              </Switch>
             </Router>
             <footer className = "footer" style = {{fontFamily: "Cambria", color: "#848480"}}><br></br>

@@ -120,7 +120,7 @@ class Homepage extends Component {
                     variant="dark"
                     size = "lg"
                     href = "Services"
-                    fontFamily = "Cambria">All Occasions</Button><br></br>        
+                    fontFamily = "Cambria">All Services</Button><br></br>        
             </Container><br></br>
               </div>
               <div className = "homeImage">         
