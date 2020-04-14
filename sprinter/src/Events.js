@@ -9,7 +9,7 @@ class Events extends Component {
                 <Jumbotron fluid className ="eventsJumbotron">           
                 <Container><br></br>
                 <h1 style = {{fontFamily: "Cambria", color: "#94790D" }}>Perfect for any Occasion</h1>
-                <h1 className = "servText">Our Sprinter Limos are perfect for any and all occasions whether it be for wedding parties, bachelor 
+                <h1 className = "servText">Our Sprinter Limos and SUV's are perfect for any and all occasions whether it be for wedding parties, bachelor 
                                             or bachelorette parties, prom, or just a night out on town </h1><br></br>
                 </Container>
                 </Jumbotron>
@@ -105,7 +105,7 @@ class Events extends Component {
                         Why not treat this experience with a memorable ride.
                         </h5><br></br>
                         <h5 style = {{textAlign: "left"}}>
-                            Our Sprinter Limos will make sure you will have a memorable time with your life long friends and
+                            Our Sprinter Limos and SUV's will make sure you will have a memorable time with your life long friends and
                             have a night you won't forget.
                         </h5>
                     </Col>

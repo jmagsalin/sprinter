@@ -9,17 +9,17 @@ class About extends Component {
           <Jumbotron fluid className = "aboutJumbotron">           
                <Container>
                <h1 style = {{fontFamily: "Cambria", color: "#94790D" }}>About Premier Sprinter Service</h1>
-               <h1 className = "aboutText">San Diego's Luxury Transportation Experience</h1><br></br>
+               <h1 className = "aboutText">San Diego's Premier Transportation Experience</h1><br></br>
                </Container>
            </Jumbotron>
            <Container><br></br>
                 <Row>                  
                     <Col>
                         <h2 style = {{fontFamily: "Cambria", color: "#94790D"}}>
-                            Live Life To Its Fullest
+                            We fulfill all your transportation needs
                         </h2>
                         <h3 style = {{fontFamily: "Cambria", color: "#848480", fontStyle: "italic"}}>
-                            Arrive at your destination in luxury 
+                            Arrive at your destination in luxury and comfort
                         </h3>
                         <h5 style = {{textAlign: "left", fontFamily: "Cambria"}}> There is no experience like that of going to an event 
                         with your closest friends or that special someone.  
@@ -85,7 +85,7 @@ class About extends Component {
                         </h5>
                     </Col>
                     <Col>
-                        <Image height= {350} width = {500} src="https://cdn.pixabay.com/photo/2014/11/25/16/07/ballet-545323_1280.jpg" rounded />
+                        <Image height= {350} width = {500} src="https://cdn.pixabay.com/photo/2016/01/19/17/57/car-1149997_1280.jpg" rounded />
                     </Col>
                 </Row><br></br>
             </Container>

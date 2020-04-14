@@ -123,7 +123,7 @@ class Homepage extends Component {
                     fontFamily = "Cambria">All Services</Button><br></br>        
             </Container><br></br>
               </div>
-              <div className = "homeImage">         
+            <div className = "homeImage">         
              <Container><br></br><br></br><br></br>
                 <h1 style = {{fontFamily: "Cambria", color: "white", fontSize: "50px"}}>Treat Yourself Like a VIP</h1>
                 <h3 className = "homeText" style = {{fontFamily: "Cambria", color: "white", fontSize: "25px"}}>
@@ -133,7 +133,83 @@ class Homepage extends Component {
                     size = "lg"
                     href = "Contact"
                     fontFamily = "Cambria">Make a reservation</Button><br></br>
-             </Container>
+             </Container>   
+            </div><br></br>   
+            <Container>
+                <h2 style = {{color: "#94790D", fontSize: "40px", fontFamily: "Cambria"}}>
+                    Our fleet fits every transportation need
+                </h2>
+                <h2 style = {{fontFamily: "Cambria", fontStyle: "italic", color: "#848480"}}>
+                    For executives, special events, high school transportation or virtually any occasion
+                </h2>
+                <h4 style = {{fontFamily: "Cambria"}}>
+                Treat yourself to an unrivaled luxury transportation experience. Like a private jet, only on the ground. Featuring plush leather seating, captain’s chairs, big screen TVs, premium audio, Wi-Fi, Satellite TV, Apple TV and more. 
+                And with our concierge service you’ll have exclusive access to a whole world of indulgent and unforgettable experiences.
+                </h4><br></br>
+            </Container>  
+                <div style = {{backgroundColor:"#E8E5DD"}}>
+                <Container fluid>
+             <div class = "d-flex justify-content-around"  style = {{padding: "20px"}}>            
+              <Row> 
+                  <Col>
+                    <Card style={{ width: '18rem' }}>
+                        <Card.Img variant="top" height= "191" src="https://www.ultimatetoys.com/wp-content/uploads/2020/02/presidential_open_5_nov_0007_web.jpg" />
+                        <Card.Body className = "cardTitle">
+                            <Card.Title>Sprinter Limo</Card.Title>
+                            <Card.Text>
+                            Some quick example text to build on the card title and make up the bulk of
+                            the card's content.
+                            </Card.Text>
+                        </Card.Body>
+                    </Card>
+                  </Col>
+                  <Col>
+                    <Card style={{ width: '18rem' }}>
+                        <Card.Img variant="top" height= "191" src="https://www.mercedes-benz-vans.ca/images/features/sprinter/passenger-van/seating-capacity.jpg" />
+                        <Card.Body>
+                            <Card.Title>15 Passenger Sprinter Van</Card.Title>
+                            <Card.Text>
+                            Some quick example text to build on the card title and make up the bulk of
+                            the card's content.
+                            </Card.Text>
+                        </Card.Body>
+                    </Card>
+                  </Col>
+                  <Col>
+                    <Card style={{ width: '18rem' }}>
+                        <Card.Img variant="top" src="https://hennesseyperformance.com/wp-content/uploads/2014/05/HPE800-Escalade-2016-Supercharged-8-crop-1.jpg" />
+                        <Card.Body>
+                            <Card.Title>Cadillac Escalade</Card.Title>
+                            <Card.Text>
+                            Some quick example text to build on the card title and make up the bulk of
+                            the card's content.
+                            </Card.Text>
+                        </Card.Body>
+                    </Card>
+                  </Col>
+                  <Col>
+                    <Card style={{ width: '18rem' }}>
+                        <Card.Img variant="top" height= "191" src="https://cdn.autoversed.com/autoversed/wp-content/uploads/2018/10/Feature.jpg" />
+                        <Card.Body className = "cardTitle">
+                            <Card.Title>Chevy Suburban</Card.Title>
+                            <Card.Text>
+                            Some quick example text to build on the card title and make up the bulk of
+                            the card's content.
+                            </Card.Text>
+                        </Card.Body>
+                    </Card>
+                  </Col>
+              </Row>              
+              </div><br></br>   
+              <div style = {{fontFamily: "Cambria"}}>
+                <Button 
+                        variant="dark"
+                        size = "lg"
+                        href = "Sprinter"
+                        >Our Fleet
+                </Button>
+              </div><br></br>
+              </Container>                
             </div>
     </React.Fragment>
         )

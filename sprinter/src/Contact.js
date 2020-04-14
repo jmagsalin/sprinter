@@ -18,7 +18,7 @@ class Contact extends Component {
          </Jumbotron>
          <Container>
          <h2 style = {{fontFamily: "Cambria", color: "#94790D", fontSize: "38px"}}>Contact us</h2><br></br>
-         <h4 style = {{fontFamily: "Cambria", color: "#848480"}}>Our concierge team is ready to help, 
+         <h4 style = {{fontFamily: "Cambria", color: "#848480"}}>Our professional staff is ready to help, 
                 answer questions and plan your luxury transportation. 
                 Call, email or fill out the form and we’ll get back to you quickly.  San Diego's
                 finest luxury transportation service is ready to answer any questions, give a free quote,
@@ -31,7 +31,7 @@ class Contact extends Component {
              <Col>
                 <div style = {{textAlign: "left"}}>
                 <h3>How May We Serve You?</h3>
-                <h5 style = {{color: "#848480"}}>Our concierge team is ready to help, 
+                <h5 style = {{color: "#848480"}}>Our team is ready to help, 
                 answer questions and plan your luxury transportation. 
                 Call, email or fill out the form and we’ll get back to you quickly. 
                 </h5><br></br>

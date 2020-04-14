@@ -90,15 +90,15 @@ class Routes extends Component {
                         </Col>
                         <Col style = {{textAlign: "left"}}>
                             <h5 style = {{color: "#94790D"}}>Premier Sprinter Service</h5>
-                            <a href = "Services" style = {{color: "#848480"}}>Wedding Transportation</a><br></br>
+                            <a href = "Events" style = {{color: "#848480"}}>Wedding Transportation</a><br></br>
                             <a href = "Services" style = {{color: "#848480"}}>Events Transportation</a><br></br>
-                            <a href = "Services" style = {{color: "#848480"}}>Formals Transportation</a><br></br>
+                            <a href = "Events" style = {{color: "#848480"}}>Formals Transportation</a><br></br>
                             <a href = "Services" style = {{color: "#848480"}}>Executive Meetings</a><br></br>
-                            <a href = "Services" style = {{color: "#848480"}}>Road Trips</a><br></br>
-                            <a href = "Services" style = {{color: "#848480"}}>Tailgates</a><br></br>
-                            <a href = "Services" style = {{color: "#848480"}}>Brewery Tours</a><br></br>
-                            <a href = "Services" style = {{color: "#848480"}}>Nights Out</a><br></br>
-                            <a href = "Services" style = {{color: "#848480"}}>Group Transportation</a>
+                            <a href = "Events" style = {{color: "#848480"}}>Wine Tours</a><br></br>
+                            <a href = "Events" style = {{color: "#848480"}}>Tailgates</a><br></br>
+                            <a href = "Events" style = {{color: "#848480"}}>Brewery Tours</a><br></br>
+                            <a href = "Events" style = {{color: "#848480"}}>Nights Out</a><br></br>
+                            <a href = "Services" style = {{color: "#848480"}}>High School Transportation</a>
                         </Col>
                         <Col style = {{textAlign: "left"}}>
                             <h5 style = {{color: "#94790D"}}>San Diego and Surrounding Areas</h5>

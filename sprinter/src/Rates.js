@@ -8,6 +8,7 @@ class Rates extends Component {
         <Jumbotron fluid className = "ratesJumbotron">           
              <Container>
              <h1 style = {{fontFamily: "Cambria", color: "#94790D"}} >Rate Information</h1>
+             <h1 className = "aboutText">Rates for your special events</h1><br></br>
              <p className = "aboutText"></p><br></br>
              </Container>
          </Jumbotron>
