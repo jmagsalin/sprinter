@@ -102,30 +102,30 @@ class Sprinter extends Component {
                   </h3>
                   <ul style = {{fontSize: "large"}}>
                     <li>Seats up to 15</li>
-                    <li>Power footrests</li>
-                    <li>Two HD TV's</li>
-                    <li>High end tech & audio</li>
-                    <li>Fold down couches</li>
-                    <li>USB outlets</li>
-                    <li>HDMI ports</li>
+                    <li>Electric sliding door</li>
+                    <li>Electric sliding step</li>
+                    <li>Automatic climate control</li>
+                    <li>Heavy duty rear air conditioner</li>
+                    <li>Ample head room with standing height of 6'3"</li>
+                    <li>Generous leg room with 70" of floor width</li>
                   </ul>
                 </Col>
                 <Col style = {{textAlign: "left"}}><br></br><br></br>
                   <ul style = {{fontSize: "large"}}>
-                    <li>Refridgerator/Freezer</li>
-                    <li>Lap tables</li>
-                    <li>Spacious luggage area</li>
-                    <li>WiFi & Apple TV</li>
-                    <li>Deluxe lighting controls</li>
-                    <li>Blu-ray/DVD/CD player</li>
+                    <li>Bluetooth compatability</li>
+                    <li>1st row LCD screen</li>
+                    <li>13 speakers</li>
+                    <li>Side impact airbags</li>
+                    <li>Side curtain airbags</li>
+                    <li>Auxiliary input jack</li>
                   </ul>
               </Col>
               <Col >
-                 <Image height= {280} width = {500} src="https://www.mercedes-benz-vans.ca/images/features/sprinter/passenger-van/seating-capacity.jpg" rounded />
+                 <Image height= {320} width = {500} src="https://www.mercedes-benz-vans.ca/images/features/sprinter/passenger-van/seating-capacity.jpg" rounded />
               </Col>
           </Row><br></br>
           </Container>
-        <div style = {{backgroundColor: "#E8E5DD", fontFamily: "Cambria"}}>
+        <div style = {{backgroundColor: "#E8E5DD"}}>
         <Container>
             <h2 style = {{fontFamily: "Cambria", color: "#94790D", textAlign: "left", fontSize: "40px"}}>
               Cadillac Escalade
@@ -147,31 +147,30 @@ class Sprinter extends Component {
             </h5><br></br>
          <Row>            
               <Col  style = {{textAlign: "left"}}>
-                  <h3 style = {{fontFamily: "Cambria", color: "#94790D"}}>
+                  <h3 style = {{color: "#94790D"}}>
                       Key Features:
                   </h3>
                   <ul style = {{fontSize: "large"}}>
-                    <li>Seats up to 8</li>
-                    <li>Power footrests</li>
-                    <li>Two HD TV's</li>
-                    <li>High end tech & audio</li>
-                    <li>Fold down couches</li>
-                    <li>USB outlets</li>
-                    <li>HDMI ports</li>
+                    <li>Seats up to 8 in three rows</li>
+                    <li>Apple CarPlay</li>
+                    <li>Android Auto connectivity</li>
+                    <li>Bose surround-sound audio system</li>
+                    <li>Wireless device charging</li>
+                    <li>Tri-zone automatic climate control</li>
+                    <li>Heated and cooled front seats</li>
                   </ul>
                 </Col>
                 <Col style = {{textAlign: "left"}}><br></br><br></br>
                   <ul style = {{fontSize: "large"}}>
-                    <li>Refridgerator/Freezer</li>
-                    <li>Lap tables</li>
+                    <li>Heated second-row seats</li>
+                    <li>Cadillac User Experience multimedia system</li>
                     <li>Spacious luggage area</li>
-                    <li>WiFi & Apple TV</li>
-                    <li>Deluxe lighting controls</li>
-                    <li>Blu-ray/DVD/CD player</li>
+                    <li>Five USB ports</li>
+                    <li>Hands-free liftgate</li>
                   </ul>
               </Col>
               <Col >
-                 <Image height= {280} width = {500} src="https://hennesseyperformance.com/wp-content/uploads/2014/05/HPE800-Escalade-2016-Supercharged-8-crop-1.jpg" rounded />
+                 <Image height= {320} width = {500} src="https://hennesseyperformance.com/wp-content/uploads/2014/05/HPE800-Escalade-2016-Supercharged-8-crop-1.jpg" rounded />
               </Col>
           </Row><br></br>
           </Container>
@@ -184,7 +183,7 @@ class Sprinter extends Component {
                 Travel as a VIP
             </h2>
             <h5 style = {{fontFamily: "Cambria", textAlign: "left"}}>
-              Comfortably Seats: Up to 15 passengers
+              Comfortably Seats: Up to 6 passengers
             </h5><br>
             </br>
             <h5 style = {{fontFamily: "Cambria", textAlign: "left"}}>
@@ -201,27 +200,26 @@ class Sprinter extends Component {
                       Key Features:
                   </h3>
                   <ul style = {{fontSize: "large"}}>
-                    <li>Seats up to 15</li>
-                    <li>Power footrests</li>
-                    <li>Two HD TV's</li>
-                    <li>High end tech & audio</li>
-                    <li>Fold down couches</li>
+                    <li>Seats up to 6</li>
+                    <li>Apple CarPlay compatability</li>
+                    <li>Android Auto compatability</li>
+                    <li>Dual-level storage</li>
                     <li>USB outlets</li>
-                    <li>HDMI ports</li>
+                    <li>Assist steps</li>
+                    <li>5 USB ports and auxiliary input jack</li>
+                    <li>Deluxe lighting controls</li>
+                    <li>Tri-zone automatic climate controls</li>                
                   </ul>
                 </Col>
                 <Col style = {{textAlign: "left"}}><br></br><br></br>
                   <ul style = {{fontSize: "large"}}>
-                    <li>Refridgerator/Freezer</li>
-                    <li>Lap tables</li>
-                    <li>Spacious luggage area</li>
-                    <li>WiFi & Apple TV</li>
-                    <li>Deluxe lighting controls</li>
-                    <li>Blu-ray/DVD/CD player</li>
+                    <li>Individual climate settings for right-front passenger and rear passengers</li>
+                    <li>Head-curtain air bags for all rows in outboard seating positions</li>
+                    <li>Frontal and side-impact air bags for driver and front passenger</li>      
                   </ul>
               </Col>
               <Col >
-                 <Image height= {280} width = {500} src="https://cdn.autoversed.com/autoversed/wp-content/uploads/2018/10/Feature.jpg" rounded />
+                 <Image height= {320} width = {500} src="https://cdn.autoversed.com/autoversed/wp-content/uploads/2018/10/Feature.jpg" rounded />
               </Col>
           </Row><br></br>
           </Container>
