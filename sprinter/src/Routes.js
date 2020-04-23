@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
 import {BrowserRouter as Router, Route, Switch} from 'react-router-dom';
-import {Navbar, Nav, Row, Col, Container} from 'react-bootstrap';
+import {Navbar, Nav, Row, Col, Container, Dropdown, NavItem} from 'react-bootstrap';
 import Homepage from "./Homepage"
 import Services from "./Services"
 import Sprinter from "./Sprinter"
@@ -8,6 +8,8 @@ import Contact from "./Contact"
 import About from "./About"
 import Rates from "./Rates"
 import Events from "./Events"
+import Highschool from "./High_School"
+import Executive from "./Executive"
 
 class Routes extends Component {
     render () {
@@ -30,7 +32,14 @@ class Routes extends Component {
                     <Nav className="mr-auto">
                         <Nav.Link href="Homepage" style ={{fontFamily: "Cambria", color: "#94790D"}}>Home</Nav.Link>
                         <Nav.Link href="Sprinter" style ={{fontFamily: "Cambria", color: "#94790D"}}>Fleet</Nav.Link>
-                        <Nav.Link href="Services" style ={{fontFamily: "Cambria", color: "#94790D"}}>Services</Nav.Link>
+                        <Dropdown as={NavItem}>
+                            <Dropdown.Toggle as={Nav.Link} style = {{color: "#94790D", fontFamily: "Cambria"}}>Services</Dropdown.Toggle>
+                                <Dropdown.Menu>
+                                    <Dropdown.Item href="Events" style ={{color: "#94790D", fontFamily: "Cambria", backgroundColor: "black"}}>Events</Dropdown.Item>
+                                    <Dropdown.Item href="Executive" style ={{color: "#94790D", fontFamily: "Cambria", backgroundColor: "black"}}>Executive</Dropdown.Item>
+                                    <Dropdown.Item href="Highschool" style ={{color: "#94790D", fontFamily: "Cambria", backgroundColor: "black"}}>High School</Dropdown.Item>
+                                </Dropdown.Menu>
+                        </Dropdown>  
                         <Nav.Link href="Rates" style ={{fontFamily: "Cambria", color: "#94790D"}}>Rates</Nav.Link>
                         <Nav.Link href="About" style ={{fontFamily: "Cambria", color: "#94790D"}}>About</Nav.Link>     
                         <Nav.Link href="Contact" style ={{fontFamily: "Cambria", color: "#94790D"}}>Contact</Nav.Link>
@@ -67,6 +76,8 @@ class Routes extends Component {
                 <Route path="/About" component={About} />
                 <Route path="/Rates" component={Rates} />
                 <Route path="/Events" component={Events} />
+                <Route path="/Highschool" component={Highschool} />
+                <Route path="/Executive" component={Executive} />
              </Switch>
             </Router>
             <footer className = "footer" style = {{fontFamily: "Cambria", color: "#848480"}}><br></br>
@@ -91,14 +102,14 @@ class Routes extends Component {
                         <Col style = {{textAlign: "left"}}>
                             <h5 style = {{color: "#94790D"}}>Premier Sprinter Service</h5>
                             <a href = "Events" style = {{color: "#848480"}}>Wedding Transportation</a><br></br>
-                            <a href = "Services" style = {{color: "#848480"}}>Events Transportation</a><br></br>
+                            <a href = "Events" style = {{color: "#848480"}}>Events Transportation</a><br></br>
                             <a href = "Events" style = {{color: "#848480"}}>Formals Transportation</a><br></br>
-                            <a href = "Services" style = {{color: "#848480"}}>Executive Meetings</a><br></br>
+                            <a href = "Executive" style = {{color: "#848480"}}>Executive Meetings</a><br></br>
                             <a href = "Events" style = {{color: "#848480"}}>Wine Tours</a><br></br>
                             <a href = "Events" style = {{color: "#848480"}}>Tailgates</a><br></br>
                             <a href = "Events" style = {{color: "#848480"}}>Brewery Tours</a><br></br>
                             <a href = "Events" style = {{color: "#848480"}}>Nights Out</a><br></br>
-                            <a href = "Services" style = {{color: "#848480"}}>High School Transportation</a>
+                            <a href = "Highschool" style = {{color: "#848480"}}>High School Transportation</a>
                         </Col>
                         <Col style = {{textAlign: "left"}}>
                             <h5 style = {{color: "#94790D"}}>San Diego and Surrounding Areas</h5>

@@ -89,6 +89,26 @@
   height: 350px;
 }
 
+.hsJumbotron {
+  background-image: url("https://www.symetrix.co/wp-content/uploads/2018/05/SYM-St-Augustine-01.jpg");
+  color: black;
+  background-size: cover;
+  background-position-x: center;
+  background-position-y: center;
+  font-weight: bolder;
+  height: 350px;
+}
+
+.exJumbotron {
+  background-image: url("https://www.ultimatetoys.com/wp-content/uploads/2020/02/presidential_open_5_nov_0007_web.jpg");
+  color: black;
+  background-size: cover;
+  background-position-x: center;
+  background-position-y: center;
+  font-weight: bolder;
+  height: 350px;
+}
+
 .contactJumbotron {
   background-image: url("https://cdn.pixabay.com/photo/2016/07/23/20/13/panorama-1537475_1280.jpg");
   color: black;

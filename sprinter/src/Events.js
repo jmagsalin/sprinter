@@ -1,5 +1,5 @@
 import React, {Component} from "react"
-import {Image, Container, Row, Col, Jumbotron} from "react-bootstrap"
+import {Image, Container, Row, Col, Jumbotron, Button} from "react-bootstrap"
 import Wedding from "./Wedding.jpg"
 
 class Events extends Component {     
@@ -8,9 +8,9 @@ class Events extends Component {
             <React.Fragment>
                 <Jumbotron fluid className ="eventsJumbotron">           
                 <Container><br></br>
-                <h1 style = {{fontFamily: "Cambria", color: "#94790D" }}>Perfect for any Occasion</h1>
-                <h1 className = "servText">Our Sprinter Limos and SUV's are perfect for any and all occasions whether it be for wedding parties, bachelor 
-                                            or bachelorette parties, prom, or just a night out on town </h1><br></br>
+                    <h1 style = {{fontFamily: "Cambria", color: "#94790D" }}>Perfect for any Event</h1>
+                    <h1 className = "servText">Our Sprinter Limos and SUV's are perfect for any and all occasions whether it be for wedding parties, bachelor 
+                                                or bachelorette parties, prom, or just a night out on town </h1><br></br> 
                 </Container>
                 </Jumbotron>
             <div style = {{fontFamily: "Cambria"}}>
@@ -20,8 +20,14 @@ class Events extends Component {
                 </h2><br></br>
                 <h4 style = {{fontFamily: "Cambria", color: "#848480"}}>From ultimate tailgates to a magical wedding and everything in between, treat yourself and your guests, to a superior luxury transportation service and personalized attention like you’ve never experienced before. Our concierge team 
                     makes sure every detail is perfect and can make reservations, secure hard-to-get tickets, provide catering and plan itineraries.
-                </h4><br></br><br></br>
-            </Container>
+                </h4><br></br>
+                <Button 
+                    className = "footerb"
+                    variant="dark"
+                    size = "lg"
+                    href = "Rates"
+                    fontFamily = "Cambria">Event Rates</Button><br></br>   
+            </Container><br></br>
             <div style = {{backgroundColor: "#E8E5DD"}}>
             <Container><br></br>
                 <Row>

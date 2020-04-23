@@ -10,14 +10,18 @@ class Services extends Component {
                 <Container><br></br>
                 <h1 style = {{fontFamily: "Cambria", color: "#94790D" }}>Transportation for any Occasion</h1>
                 <h1 className = "servText">Our transportation fleet is perfect for any and all occasions whether it be for 
-                                            wedding parties, executive outings, transportation to high school, or just a night out on town </h1><br></br>
+                                            wedding parties, executive outings, transportation to high school, or just a night out on town 
+                </h1><br></br>
                 </Container>
                 </Jumbotron>
             <div style = {{fontFamily: "Cambria"}}>
             <Container>
                 <h2 style = {{fontFamily: "Cambria", color: "#94790D", fontSize: "37px"}}>
                     For All Your Transportation Needs
-                </h2><br></br>
+                </h2>
+                <h2 style = {{fontFamily: "Cambria", fontStyle: "italic", color: "#848480"}}>
+                    We've got you covered
+                </h2>
                 <h4 style = {{fontFamily: "Cambria", color: "#848480"}}>From ultimate tailgates to a magical wedding and everything in between, treat yourself and your guests, to a superior luxury transportation service and personalized attention like you’ve never experienced before. Our concierge team 
                     makes sure every detail is perfect and can make reservations, secure hard-to-get tickets, provide catering and plan itineraries.
                 </h4><br></br><br></br>
@@ -89,7 +93,7 @@ class Services extends Component {
                             Arrive at your formal in luxury and be the stars of the night
                         </h3>
                         <h5 style = {{textAlign: "left"}}> There is no experience like that of going to a Homecoming or Prom with your closest friends, it is a night that you won't ever forget.
-                        Why not treat this experience with a memorable ride.
+                            Why not treat this experience with a memorable ride.
                         </h5><br></br>
                         <h5 style = {{textAlign: "left"}}>
                             Our Sprinter Limos will make sure you will have a memorable time with your life long friends and

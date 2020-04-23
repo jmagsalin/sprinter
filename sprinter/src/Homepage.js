@@ -15,16 +15,16 @@ class Homepage extends Component {
                 Call for reservations (858) 555-4444</h1> */}
                 <Button 
                     className = "homeButton"
-                    variant="dark"
+                    variant="outline-light"
                     size = "lg"
                     href = "Contact"
-                    fontFamily = "Cambria">Call for reservations (858) 555-4444</Button>
+                    fontFamily = "Cambria">Make a Reservation</Button>
              </Container>
          </div>
          <br></br>
             <Container>
-                <h1 style = {{fontFamily: "Cambria", color: "#94790D"}}>
-                    Luxury Mercedes Sprinter Limo Vans</h1>
+                <h2 style = {{color: "#94790D", fontSize: "40px", fontFamily: "Cambria"}}>
+                    Luxury Mercedes Sprinter Limo Vans</h2>
                 <h2 style = {{fontFamily: "Cambria", fontStyle: "italic", color: "#848480"}}>
                 For Work, Play & Everything In Between
                 </h2>
@@ -125,7 +125,7 @@ class Homepage extends Component {
               </div>
             <div className = "homeImage">         
              <Container><br></br><br></br><br></br>
-                <h1 style = {{fontFamily: "Cambria", color: "white", fontSize: "50px"}}>Treat Yourself Like a VIP</h1>
+                <h2 style = {{fontFamily: "Cambria", color: "white", fontSize: "50px"}}>Treat Yourself Like a VIP</h2>
                 <h3 className = "homeText" style = {{fontFamily: "Cambria", color: "white", fontSize: "25px"}}>
                     Make your experience last a lifetime</h3><br></br>
                 <Button                 

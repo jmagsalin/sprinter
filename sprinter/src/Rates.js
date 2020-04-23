@@ -15,11 +15,14 @@ class Rates extends Component {
          <div style = {{fontFamily: "Cambria"}}>
             <Container>
                 <h2 style = {{color: "#94790D", fontSize: "37px"}}>
-                    We Have Everything for Your Luxury Transportation Needs
-                </h2><br></br>
+                    We Have Everything for Your Transportation Needs
+                </h2>
+                <h2 style = {{fontFamily: "Cambria", fontStyle: "italic", color: "#848480"}}>
+                   Transportation at the right prices
+                </h2>
                 <h4 style = {{color: "#848480"}}>Our service team 
                     makes sure every detail is perfect and can make reservations, provide catering and create itineraries.
-                    If you don't see what you need, don't hesitate to contact us and we can taylor your experience to accomodate all of your needs.
+                    If you don't see what you need, don't hesitate to contact us and we can taylor your experience to accommodate all of your needs.
                 </h4><br></br><br></br>
             </Container>
             <div style = {{backgroundColor: "#E8E5DD"}}>
@@ -162,8 +165,7 @@ class Rates extends Component {
                             </tbody>
                     </Table>
                     <p style = {{textAlign: "left"}}>*Includes fuel, taxes, bottled water and ice. Pricing is for San Diego County pick up and drop off only. 
-                        Additional charges for pick up or drop off locations outside of San Diego County. 
-                        
+                        Additional charges for pick up or drop off locations outside of San Diego County.                        
                     </p>
                     </Col>
                 </Row>

@@ -7,17 +7,22 @@ class Sprinter extends Component {
     <React.Fragment>
         <Jumbotron fluid className = "sprinterJumbotron">           
              <Container>
-             <h1 style = {{fontFamily: "Cambria", color: "#94790D"}} >Our Transportation Fleet</h1>
-             <p className = "aboutText"></p><br></br>
+                <h1 style = {{fontFamily: "Cambria", color: "#94790D",  backgroundColor: "black", opacity: "75%"}} >Our Transportation Fleet</h1>
+                <h1 className = "servText" style = {{textAlign: "center", backgroundColor: "black", opacity: "75%"}}>Our transportation fleet is perfect for any and all occasions
+                </h1><br></br>
              </Container>
          </Jumbotron>
          <Container>
             <h2 style = {{fontFamily: "Cambria", color: "#94790D", fontSize: "37px"}}>
               Our Sprinter Limos are Perfect for Any Occasion
             </h2>
+            <h2 style = {{fontFamily: "Cambria", fontStyle: "italic", color: "#848480"}}>
+              Ride in comfort, style and luxury
+            </h2>
             <h4 style = {{fontFamily: "Cambria", color: "#848480"}}>
-            Enjoy the ride and arrive in unique style with luxury limousines for events, executives and companies. Say goodbye to the old-fashioned stretch limo. And, hello to a modern transportation experience. 
-            The Go Luxe difference is our fleet of chauffeured Mercedes Sprinter Limo Vans combined with superior concierge service.
+              Enjoy the ride and arrive in unique style with luxury limousines for events, executives and companies. Say goodbye to the 
+              old-fashioned stretch limo. And, hello to a modern transportation experience. 
+              Premier Sprinter Service has a fleet of chauffeured Mercedes Sprinter Limo Vans and luxury SUV's.
             </h4>
          </Container><br></br>
       <div style = {{backgroundColor: "#E8E5DD"}}>
