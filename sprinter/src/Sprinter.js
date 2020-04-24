@@ -6,9 +6,9 @@ class Sprinter extends Component {
     return (
     <React.Fragment>
         <Jumbotron fluid className = "sprinterJumbotron">           
-             <Container>
-                <h1 style = {{fontFamily: "Cambria", color: "#94790D",  backgroundColor: "black", opacity: "75%"}} >Our Transportation Fleet</h1>
-                <h1 className = "servText" style = {{textAlign: "center", backgroundColor: "black", opacity: "75%"}}>Our transportation fleet is perfect for any and all occasions
+             <Container><br></br>
+                <h1 style = {{fontFamily: "Cambria", color: "#94790D"}} >Our Transportation Fleet</h1>
+                <h1 className = "servText" style = {{textAlign: "center"}}>Our transportation fleet is perfect for any and all occasions
                 </h1><br></br>
              </Container>
          </Jumbotron>
@@ -22,7 +22,7 @@ class Sprinter extends Component {
             <h4 style = {{fontFamily: "Cambria", color: "#848480"}}>
               Enjoy the ride and arrive in unique style with luxury limousines for events, executives and companies. Say goodbye to the 
               old-fashioned stretch limo. And, hello to a modern transportation experience. 
-              Premier Sprinter Service has a fleet of chauffeured Mercedes Sprinter Limo Vans and luxury SUV's.
+              Premier Sprinter Service has a fleet of chauffeured Mercedes Sprinter Limo, Passenger Vans and luxury SUV's.
             </h4>
          </Container><br></br>
       <div style = {{backgroundColor: "#E8E5DD"}}>
@@ -42,7 +42,7 @@ class Sprinter extends Component {
             Enjoy Apple TV so you can watch your favorite movies, live TV, sports or play video games on the two flat-screen TVs. 
             </h5><br></br>
             <h5 style = {{fontFamily: "Cambria", textAlign: "left"}}>
-            You can even swivel the middle row of captain chairs in either direction - something that’s unique to Ultimate Toys and is a customer favorite.  For family outings, face the seats forward so everyone can enjoy each other’s company, or swivel them around and your Presidential instantly 
+            You can even swivel the middle row of captain chairs in either direction - something that’s unique to the Presidential Sprinter Limo and is a customer favorite.  For family outings, face the seats forward so everyone can enjoy each other’s company, or swivel them around and your Presidential instantly 
             converts into club seating - ideal for holding a meeting, carrying on a conversation, or having the perfect “limo” configuration.
             </h5><br></br>
          <Row>            
@@ -88,12 +88,16 @@ class Sprinter extends Component {
             </h5><br>
             </br>
             <h5 style = {{fontFamily: "Cambria", textAlign: "left"}}>
-            Comfort and luxury are a top priority with the Presidential, and it shows.  Designed for family or business use, enjoy power foot rests and two comfortable sofas that fold down to make into a bed - perfect for a quick nap or overnight travel.  There is wireless Internet to surf the web or send emails.  
-            Enjoy Apple TV so you can watch your favorite movies, live TV, sports or play video games on the two flat-screen TVs. 
+              The Mercedes Benz Sprinter is an innovative van, with a unique inspiration. The cabin
+              area redefines comfort with ergonomic seats and a redesigned instrument cluster. The new Sprinter takes 
+              connectivity into the future with the MBUX (Mercedes-Benz User Experience) Multimedia System and advancements
+              that include Live Traffic Information, and the Mercedes-Benz Emergency Call System. 
             </h5><br></br>
             <h5 style = {{fontFamily: "Cambria", textAlign: "left"}}>
-            You can even swivel the middle row of captain chairs in either direction - something that’s unique to Ultimate Toys and is a customer favorite.  For family outings, face the seats forward so everyone can enjoy each other’s company, or swivel them around and your Presidential instantly 
-            converts into club seating - ideal for holding a meeting, carrying on a conversation, or having the perfect “limo” configuration.
+              The Sprinter passenger van provides comfortable group travel with seating for up to 15 people, and provides an 
+              experience every one of them will enjoy. USB-C ports can keep them connected, and the spacious rear storage area 
+              provides ample room for luggage. All the while, you’ll know that they’re protected by a level of safety only
+              Mercedes-Benz can deliver. 
             </h5><br></br>
          <Row>            
               <Col  style = {{textAlign: "left"}}>
@@ -131,19 +135,22 @@ class Sprinter extends Component {
               Cadillac Escalade
             </h2>
             <h2 style = {{fontFamily: "Cambria", color: "#848480", textAlign: "left", fontStyle: "italic"}}>
-                Travel as a VIP
+                Classic luxury SUV
             </h2>
             <h5 style = {{fontFamily: "Cambria", textAlign: "left"}}>
               Comfortably Seats: Up to 8 passengers
             </h5><br>
             </br>
             <h5 style = {{fontFamily: "Cambria", textAlign: "left"}}>
-            Comfort and luxury are a top priority with the Presidential, and it shows.  Designed for family or business use, enjoy power foot rests and two comfortable sofas that fold down to make into a bed - perfect for a quick nap or overnight travel.  There is wireless Internet to surf the web or send emails.  
-            Enjoy Apple TV so you can watch your favorite movies, live TV, sports or play video games on the two flat-screen TVs. 
+              From a striking design aesthetic, to a comfortable and accommodating cabin that is as spacious as it is
+              versatile, the Cadillac Escalade offers nothing but the best.  When you step inside, you’ll see tremendous 
+              space and a range of amenities that offer everything from a hand-stitched steering wheel to cutting-edge technologies.
             </h5><br></br>
             <h5 style = {{fontFamily: "Cambria", textAlign: "left"}}>
-            You can even swivel the middle row of captain chairs in either direction - something that’s unique to Ultimate Toys and is a customer favorite.  For family outings, face the seats forward so everyone can enjoy each other’s company, or swivel them around and your Presidential instantly 
-            converts into club seating - ideal for holding a meeting, carrying on a conversation, or having the perfect “limo” configuration.
+              A variety of features transform the cabin into that rare place where tranquility, comfort and entertainment go hand
+              in hand. Tri-Zone Climate Control allows the driver, front passenger and rear passengers to adjust temperatures 
+              individually. With stunning conveniences and sublime comforts, this cabin is perfect. Amenities such as heated front and rear outboard seats, as well as front seats that cool, are
+              only the beginning.
             </h5><br></br>
          <Row>            
               <Col  style = {{textAlign: "left"}}>
@@ -167,6 +174,7 @@ class Sprinter extends Component {
                     <li>Spacious luggage area</li>
                     <li>Five USB ports</li>
                     <li>Hands-free liftgate</li>
+                    <li>Front, rear and third row head airbags</li>
                   </ul>
               </Col>
               <Col >
@@ -180,19 +188,22 @@ class Sprinter extends Component {
               Chevy Suburban
             </h2>
             <h2 style = {{fontFamily: "Cambria", color: "#848480", textAlign: "left", fontStyle: "italic"}}>
-                Travel as a VIP
+                Legendary SUV for any occasion
             </h2>
             <h5 style = {{fontFamily: "Cambria", textAlign: "left"}}>
               Comfortably Seats: Up to 6 passengers
             </h5><br>
             </br>
             <h5 style = {{fontFamily: "Cambria", textAlign: "left"}}>
-            Comfort and luxury are a top priority with the Presidential, and it shows.  Designed for family or business use, enjoy power foot rests and two comfortable sofas that fold down to make into a bed - perfect for a quick nap or overnight travel.  There is wireless Internet to surf the web or send emails.  
-            Enjoy Apple TV so you can watch your favorite movies, live TV, sports or play video games on the two flat-screen TVs. 
+              When adventures await, the legendary Chevrolet Suburban offers more of everything you expect — uncommon
+              spaciousness, commanding performance and ingenious safety technology. The luxury is all-encompassing. The
+              capability is exceptional. Everything about the Chevy Suburban makes it the ideal vehicle for any occasion.
             </h5><br></br>
             <h5 style = {{fontFamily: "Cambria", textAlign: "left"}}>
-            You can even swivel the middle row of captain chairs in either direction - something that’s unique to Ultimate Toys and is a customer favorite.  For family outings, face the seats forward so everyone can enjoy each other’s company, or swivel them around and your Presidential instantly 
-            converts into club seating - ideal for holding a meeting, carrying on a conversation, or having the perfect “limo” configuration.
+              Convenient power-release second-row bucket seats on Premier provide easy access to the spacious third row. There’s 
+              space available for up to six passengers and second and third rows that fold down, so Suburban is ready for 
+              anything your day might hold. With Apple CarPlay, you can simply and smartly connect with some of your most used 
+              iPhone® features and with Android Auto capability you can quickly and intuitively interact with select smartphone apps.
             </h5><br></br>
          <Row>            
               <Col  style = {{textAlign: "left"}}>

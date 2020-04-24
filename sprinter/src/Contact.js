@@ -30,9 +30,9 @@ class Contact extends Component {
          <Row>
              <Col>
                 <div style = {{textAlign: "left"}}>
-                <h3>How May We Serve You?</h3>
-                <h5 style = {{color: "#848480"}}>Our team is ready to help, 
-                answer questions and plan your luxury transportation. 
+                <h3>How May We Help You?</h3>
+                <h5 style = {{color: "#848480"}}>Our team is ready to help 
+                answer questions and plan your transportation. 
                 Call, email or fill out the form and we’ll get back to you quickly. 
                 </h5><br></br>
                 <h3>Contact Information</h3>

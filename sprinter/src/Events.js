@@ -102,7 +102,7 @@ class Events extends Component {
                 <Row>                 
                     <Col>
                         <h2 style = {{fontFamily: "Cambria", color: "#94790D"}}>
-                            Events
+                            Sporting and Concert Events
                         </h2>
                         <h3 style = {{fontFamily: "Cambria", color: "#848480", fontStyle: "italic"}}>
                             Arrive at your formal in luxury and be the stars of the night

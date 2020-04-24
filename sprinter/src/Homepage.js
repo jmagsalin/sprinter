@@ -91,9 +91,9 @@ class Homepage extends Component {
                   </Col>
                   <Col>
                     <Card style={{ width: '20rem' }}>
-                        <Card.Img variant="top" height = {212} src="https://cdn.pixabay.com/photo/2017/08/02/11/36/nature-2571115_1280.jpg" />
+                        <Card.Img variant="top" height = {212} src="https://www.svconline.com/wp-content/uploads/2019/04/sym-st-augustine-02-copy.jpg" />
                         <Card.Body>
-                            <Card.Title>Road Trips</Card.Title>
+                            <Card.Title>High School Transportation</Card.Title>
                             <Card.Text>
                             Some quick example text to build on the card title and make up the bulk of
                             the card's content.
@@ -157,8 +157,7 @@ class Homepage extends Component {
                         <Card.Body className = "cardTitle">
                             <Card.Title>Sprinter Limo</Card.Title>
                             <Card.Text>
-                            Some quick example text to build on the card title and make up the bulk of
-                            the card's content.
+                                Travel in unique style with our luxury Sprinter limousine for events, executives and companies.
                             </Card.Text>
                         </Card.Body>
                     </Card>
@@ -169,8 +168,7 @@ class Homepage extends Component {
                         <Card.Body>
                             <Card.Title>15 Passenger Sprinter Van</Card.Title>
                             <Card.Text>
-                            Some quick example text to build on the card title and make up the bulk of
-                            the card's content.
+                            The Sprinter passenger van provides comfortable group travel with seating for up to 15 people.
                             </Card.Text>
                         </Card.Body>
                     </Card>
@@ -181,8 +179,8 @@ class Homepage extends Component {
                         <Card.Body>
                             <Card.Title>Cadillac Escalade</Card.Title>
                             <Card.Text>
-                            Some quick example text to build on the card title and make up the bulk of
-                            the card's content.
+                            Travel in an SUV where tranquility, comfort and entertainment go hand
+                            in hand.
                             </Card.Text>
                         </Card.Body>
                     </Card>
@@ -193,8 +191,7 @@ class Homepage extends Component {
                         <Card.Body className = "cardTitle">
                             <Card.Title>Chevy Suburban</Card.Title>
                             <Card.Text>
-                            Some quick example text to build on the card title and make up the bulk of
-                            the card's content.
+                            Everything about the Chevy Suburban makes it the ideal vehicle for any occasion.
                             </Card.Text>
                         </Card.Body>
                     </Card>

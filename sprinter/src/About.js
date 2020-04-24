@@ -21,16 +21,16 @@ class About extends Component {
                         <h3 style = {{fontFamily: "Cambria", color: "#848480", fontStyle: "italic"}}>
                             Arrive at your destination in luxury and comfort
                         </h3>
-                        <h5 style = {{textAlign: "left", fontFamily: "Cambria"}}> There is no experience like that of going to an event 
-                        with your closest friends or that special someone.  
-                        Why not treat this experience with a memorable ride in one of our luxury Sprinter Limos.
-                        For any occasion, when you travel with us,
-                        it will be a journey unlike any other.
+                        <h5 style = {{textAlign: "left", fontFamily: "Cambria"}}> 
+                            There is no experience like that of going to an event 
+                            with your closest friends or that special someone.  
+                            Why not treat this experience with a memorable ride in one of our luxury Sprinter Limos or luxury SUV's.
+                            For any occasion, when you travel with us,
+                            it will be a journey unlike any other.
                         </h5><br></br>
                         <h5 style = {{textAlign: "left", fontFamily: "Cambria"}}>
-                            Our professional staff will make sure you will have a memorable time with your close friends or 
-                            that special someone and
-                            have an experience you won't forget.
+                            Whether you need transportation to high school, executive transportation or want a luxurious night out,
+                            our professional staff will make sure you will have an exceptional experience time and time again.
                         </h5>
                     </Col>
                     <Col>
@@ -42,7 +42,7 @@ class About extends Component {
             <Container><br></br>
                 <Row>
                     <Col>
-                    <Image height= {330} width= {500} src="https://cdn.pixabay.com/photo/2019/07/21/19/53/san-diego-skyline-4353504_1280.jpg" rounded />
+                    <Image height= {330} width= {500} src="https://www.mercedes-benz-vans.ca/images/features/sprinter/passenger-van/electric-sliding-door.jpg" rounded />
                     </Col>
                     <Col>
                         <h2 style = {{fontFamily: "Cambria", color: "#94790D"}}>
@@ -57,7 +57,7 @@ class About extends Component {
                         </h5><br></br>
                         <h5 style = {{textAlign: "left"}}>
                             We separate ourselves from other companies by striving for greatness. From our 
-                            luxurious fleet to our caring staff, when you complete your journey with us, you will leave feeling like you've 
+                            luxurious fleet to our caring staff, when you complete your journey with us, you will leave having 
                             had the experience of a lifetime!
                         </h5>
                     </Col>
@@ -81,7 +81,7 @@ class About extends Component {
                         </h5><br></br>
                         <h5 style = {{textAlign: "left", fontFamily: "Cambria"}}>
                         Our staff are professionals who work as a team dedicated to ensure that your experience 
-                        is exceptional, complete, and always on time.
+                        is exceptional, professional, and always on time.
                         </h5>
                     </Col>
                     <Col>
