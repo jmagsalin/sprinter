@@ -43,8 +43,8 @@ class Homepage extends Component {
                         <Card.Body className = "cardTitle">
                             <Card.Title>Weddings</Card.Title>
                             <Card.Text>
-                            Some quick example text to build on the card title and make up the bulk of
-                            the card's content.
+                                Match the beauty and grace of your wedding with the luxury, comfort and style of our 
+                                Sprinter limousine.
                             </Card.Text>
                         </Card.Body>
                     </Card>
@@ -53,10 +53,10 @@ class Homepage extends Component {
                     <Card style={{ width: '20rem' }}>
                         <Card.Img variant="top" height = {212} src="https://www.ultimatetoys.com/wp-content/uploads/2018/09/SPRINTER_12_Enhanced-1600x844.jpg" />
                         <Card.Body>
-                            <Card.Title>Executive Meetings</Card.Title>
+                            <Card.Title>Executive Transportation</Card.Title>
                             <Card.Text>
-                            Some quick example text to build on the card title and make up the bulk of
-                            the card's content.
+                                Travel with clients, associates and staff to events and sites in style.
+                                Have meetings while on the road.
                             </Card.Text>
                         </Card.Body>
                     </Card>
@@ -66,9 +66,9 @@ class Homepage extends Component {
                         <Card.Img variant="top" src="https://cdn.pixabay.com/photo/2017/08/24/21/23/teen-2678447_1280.jpg" />
                         <Card.Body>
                             <Card.Title>Formals</Card.Title>
-                            <Card.Text>
-                            Some quick example text to build on the card title and make up the bulk of
-                            the card's content.
+                            <Card.Text>   
+                                Experience going to a formal with your sweetheart and closest friends, 
+                                Make it a night that you won't ever forget.
                             </Card.Text>
                         </Card.Body>
                     </Card>
@@ -79,12 +79,12 @@ class Homepage extends Component {
               <Row> 
                   <Col>
                     <Card style={{ width: '20rem' }}>
-                        <Card.Img variant="top" src="https://cdn.pixabay.com/photo/2018/06/17/10/38/artist-3480274_1280.jpg" />
+                        <Card.Img variant="top" src="https://cdn.pixabay.com/photo/2016/10/22/20/34/wine-1761613_1280.jpg" />
                         <Card.Body>
-                            <Card.Title>Events</Card.Title>
+                            <Card.Title>Wine Tours</Card.Title>
                             <Card.Text>
-                            Some quick example text to build on the card title and make up the bulk of
-                            the card's content.
+                                Visit the amazing wineries of Temecula with friends. Experience the tasting rooms 
+                                and vineyards worry free.
                             </Card.Text>
                         </Card.Body>
                     </Card>
@@ -95,8 +95,8 @@ class Homepage extends Component {
                         <Card.Body>
                             <Card.Title>High School Transportation</Card.Title>
                             <Card.Text>
-                            Some quick example text to build on the card title and make up the bulk of
-                            the card's content.
+                                Enjoy comfortable and reliable transportation to and from high school five
+                                days a week.
                             </Card.Text>
                         </Card.Body>
                     </Card>
@@ -107,8 +107,7 @@ class Homepage extends Component {
                         <Card.Body>
                             <Card.Title>Nights Out</Card.Title>
                             <Card.Text>
-                            Some quick example text to build on the card title and make up the bulk of
-                            the card's content.
+                                Have an unforgettable night out. For any occasion, we’ll make sure the evening is memorable.
                             </Card.Text>
                         </Card.Body>
                     </Card>
