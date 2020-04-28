@@ -78,7 +78,7 @@ class Services extends Component {
                             variant="dark"
                             size = "lg"
                             href = "HighSchool"
-                            fontFamily = "Cambria">High School Transport
+                            fontFamily = "Cambria">High School Transportation
                         </Button><br></br>
                     </Col>
                     <Col>

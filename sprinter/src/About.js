@@ -26,6 +26,7 @@ class About extends Component {
                     aware, courteous, accommodating and punctual.
                 </h4><br></br>
             </Container>
+        <div style = {{backgroundColor: "#E8E5DD", fontFamily: "Cambria"}}>
            <Container><br></br>
                 <Row>                  
                     <Col>
@@ -52,8 +53,8 @@ class About extends Component {
                     </Col>
                 </Row><br></br>
             </Container>
-        <div style = {{backgroundColor: "#E8E5DD", fontFamily: "Cambria"}}>
-            <Container><br></br>
+        </div>
+            <Container style = {{fontFamily: "Cambria"}}><br></br>
                 <Row>
                     <Col>
                     <Image height= {330} width= {500} src="https://www.mercedes-benz-vans.ca/images/features/sprinter/passenger-van/electric-sliding-door.jpg" rounded />
@@ -77,8 +78,8 @@ class About extends Component {
                     </Col>
                 </Row><br></br>
             </Container>
-        </div>
-        <Container><br></br>
+        <div style = {{backgroundColor: "#E8E5DD", fontFamily: "Cambria"}}>        
+            <Container><br></br>
                 <Row>                  
                     <Col>
                         <h2 style = {{fontFamily: "Cambria", color: "#94790D"}}>
@@ -103,6 +104,7 @@ class About extends Component {
                     </Col>
                 </Row><br></br>
             </Container>
+        </div>
       </React.Fragment>
         )
     }

@@ -26,11 +26,13 @@ class Homepage extends Component {
                 <h2 style = {{color: "#94790D", fontSize: "40px", fontFamily: "Cambria"}}>
                     Luxury Mercedes Sprinter Limo, Vans and Luxury SUV's</h2>
                 <h2 style = {{fontFamily: "Cambria", fontStyle: "italic", color: "#848480"}}>
-                    For Fun, Work, High School & Every Occasion
+                    For fun, work, high school & every occasion
                 </h2>
                 <h4 style = {{fontFamily: "Cambria"}}>
-                    Treat yourself to an unrivaled luxury transportation experience. Like a private jet, only on the ground. Featuring plush leather seating, captain’s chairs, big screen TVs, premium audio, Wi-Fi, Satellite TV, Apple TV and more. 
-                    And with our concierge service you’ll have exclusive access to a whole world of indulgent and unforgettable experiences.
+                    Premier Sprinter Service provides an unrivaled chaffeured luxury transportation experience.  With our fleet of diverse and distinct vehicles, 
+                    we have transportation for any and every occasion.  Whether you need stylish luxury or comfortable group travel, we have something for you.
+                    From weddings to wine tours, executive outings to rides to high school, only the best experiences await when you ride with 
+                    Premier Sprinter Service.                
                 </h4><br></br>
             </Container>
              <div style = {{backgroundColor:"#E8E5DD"}}>
@@ -142,8 +144,11 @@ class Homepage extends Component {
                     For executives, special events, high school transportation or virtually any occasion
                 </h2>
                 <h4 style = {{fontFamily: "Cambria"}}>
-                Treat yourself to an unrivaled luxury transportation experience. Like a private jet, only on the ground. Featuring plush leather seating, captain’s chairs, big screen TVs, premium audio, Wi-Fi, Satellite TV, Apple TV and more. 
-                And with our concierge service you’ll have exclusive access to a whole world of indulgent and unforgettable experiences.
+                    Premier Sprinter Service provides a state-of-the-art fleet, unrivaled in luxury and style for every transportation experience.  
+                    With our fleet of diverse and distinct vehicles, we have transportation for any and every occasion.  Whether 
+                    you need stylish luxury or comfortable group travel, we have something for you.  Our Mercedes Sprinter Limo is
+                    the ultimate in luxury and style while our 15 passenger Sprinter van is unmatched in comfortable group travel.  Our SUV's
+                    are classics in the luxury SUV field and are perfect for any occasion.  
                 </h4><br></br>
             </Container>  
                 <div style = {{backgroundColor:"#E8E5DD"}}>
