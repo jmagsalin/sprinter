@@ -94,19 +94,19 @@ class Routes extends Component {
                                 />
                             </a><br></br><br></br>
                             <p>
-                            Premier Sprinter Service serves San Diego and Southern California with luxury limousine service for events, 
-                            executives and companies featuring state-of-the-art, custom Mercedes Sprinter Limo Vans. Why 
-                            travel like everyone else? For work or play, enjoy the journey with Premier Sprinter Service.
+                            Premier Sprinter Service serves San Diego and Southern California with luxury transportation service for events, 
+                            executives and high school students. We feature a state-of-the-art fleet of Sprinter limos, vans and luxury SUV's. 
+                            For any and every occasion, enjoy the journey with Premier Sprinter Service.
                             </p>
                         </Col>
                         <Col style = {{textAlign: "left"}}>
                             <h5 style = {{color: "#94790D"}}>Premier Sprinter Service</h5>
-                            <a href = "Events" style = {{color: "#848480"}}>Wedding Transportation</a><br></br>
-                            <a href = "Events" style = {{color: "#848480"}}>Events Transportation</a><br></br>
-                            <a href = "Events" style = {{color: "#848480"}}>Formals Transportation</a><br></br>
-                            <a href = "Executive" style = {{color: "#848480"}}>Executive Meetings</a><br></br>
+                            <a href = "Events" style = {{color: "#848480"}}>Weddings</a><br></br>
+                            <a href = "Events" style = {{color: "#848480"}}>Special Events</a><br></br>
+                            <a href = "Events" style = {{color: "#848480"}}>High School Formals</a><br></br>
+                            <a href = "Executive" style = {{color: "#848480"}}>Executive Transportation</a><br></br>
                             <a href = "Events" style = {{color: "#848480"}}>Wine Tours</a><br></br>
-                            <a href = "Events" style = {{color: "#848480"}}>Tailgates</a><br></br>
+                            <a href = "Events" style = {{color: "#848480"}}>Sporting Events</a><br></br>
                             <a href = "Events" style = {{color: "#848480"}}>Brewery Tours</a><br></br>
                             <a href = "Events" style = {{color: "#848480"}}>Nights Out</a><br></br>
                             <a href = "Highschool" style = {{color: "#848480"}}>High School Transportation</a>

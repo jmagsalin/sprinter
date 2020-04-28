@@ -33,7 +33,7 @@ class Executive extends Component {
                         </h5>
                     </Col>
                     <Col>
-                <Image height= {350} width = {500} src="https://cdn.pixabay.com/photo/2019/07/21/19/53/san-diego-skyline-4353504_1280.jpg" rounded />
+                <Image height= {350} width = {500} src="https://www.ultimatetoys.com/wp-content/uploads/2018/09/SPRINTER_12_Enhanced-1600x844.jpg" rounded />
                     </Col>
                 </Row><br></br>
             </Container>

@@ -73,6 +73,13 @@ class Services extends Component {
                             Our Sprinter Limos will make sure you will have a memorable time with your life long friends and
                             have a night you won't forget.
                         </h5>
+                        <Button 
+                            className = "footerb"
+                            variant="dark"
+                            size = "lg"
+                            href = "HighSchool"
+                            fontFamily = "Cambria">High School Transport
+                        </Button><br></br>
                     </Col>
                     <Col>
                     <Image height= {350} width = {500} src="https://www.sahs.org/wp-content/uploads/2018/08/shool.jpg" rounded />
@@ -87,7 +94,7 @@ class Services extends Component {
                     </Col>
                     <Col>
                         <h2 style = {{fontFamily: "Cambria", color: "#94790D"}}>
-                            Executive Outings
+                            Executive Transportation
                         </h2>
                         <h3 style = {{fontFamily: "Cambria", color: "#848480", fontStyle: "italic"}}>
                             Arrive at your formal in luxury and be the stars of the night
@@ -99,6 +106,13 @@ class Services extends Component {
                             Our Sprinter Limos will make sure you will have a memorable time with your life long friends and
                             have a night you won't forget.
                         </h5>
+                        <Button 
+                            className = "footerb"
+                            variant="dark"
+                            size = "lg"
+                            href = "Executive"
+                            fontFamily = "Cambria">Executive
+                        </Button><br></br>
                     </Col>
                 </Row><br></br>
             </Container>

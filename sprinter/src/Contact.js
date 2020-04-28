@@ -17,7 +17,10 @@ class Contact extends Component {
              </Container>
          </Jumbotron>
          <Container>
-         <h2 style = {{fontFamily: "Cambria", color: "#94790D", fontSize: "38px"}}>Contact us</h2><br></br>
+         <h2 style = {{fontFamily: "Cambria", color: "#94790D", fontSize: "38px"}}>Contact us</h2>
+         <h2 style = {{fontFamily: "Cambria", fontStyle: "italic", color: "#848480"}}>
+                    Our professional staff is ready to plan your transportation
+         </h2>
          <h4 style = {{fontFamily: "Cambria", color: "#848480"}}>Our professional staff is ready to help, 
                 answer questions and plan your luxury transportation. 
                 Call, email or fill out the form and we’ll get back to you quickly.  San Diego's

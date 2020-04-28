@@ -24,13 +24,13 @@ class Homepage extends Component {
          <br></br>
             <Container>
                 <h2 style = {{color: "#94790D", fontSize: "40px", fontFamily: "Cambria"}}>
-                    Luxury Mercedes Sprinter Limo Vans</h2>
+                    Luxury Mercedes Sprinter Limo, Vans and Luxury SUV's</h2>
                 <h2 style = {{fontFamily: "Cambria", fontStyle: "italic", color: "#848480"}}>
-                For Work, Play & Everything In Between
+                    For Fun, Work, High School & Every Occasion
                 </h2>
                 <h4 style = {{fontFamily: "Cambria"}}>
-                Treat yourself to an unrivaled luxury transportation experience. Like a private jet, only on the ground. Featuring plush leather seating, captain’s chairs, big screen TVs, premium audio, Wi-Fi, Satellite TV, Apple TV and more. 
-                And with our concierge service you’ll have exclusive access to a whole world of indulgent and unforgettable experiences.
+                    Treat yourself to an unrivaled luxury transportation experience. Like a private jet, only on the ground. Featuring plush leather seating, captain’s chairs, big screen TVs, premium audio, Wi-Fi, Satellite TV, Apple TV and more. 
+                    And with our concierge service you’ll have exclusive access to a whole world of indulgent and unforgettable experiences.
                 </h4><br></br>
             </Container>
              <div style = {{backgroundColor:"#E8E5DD"}}>
@@ -154,7 +154,7 @@ class Homepage extends Component {
                     <Card style={{ width: '18rem' }}>
                         <Card.Img variant="top" height= "191" src="https://www.ultimatetoys.com/wp-content/uploads/2020/02/presidential_open_5_nov_0007_web.jpg" />
                         <Card.Body className = "cardTitle">
-                            <Card.Title>Sprinter Limo</Card.Title>
+                            <Card.Title>Mercedes Sprinter Limo</Card.Title>
                             <Card.Text>
                                 Travel in unique style with our luxury Sprinter limousine for events, executives and companies.
                             </Card.Text>

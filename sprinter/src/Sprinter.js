@@ -20,9 +20,9 @@ class Sprinter extends Component {
               Ride in comfort, style and luxury
             </h2>
             <h4 style = {{fontFamily: "Cambria", color: "#848480"}}>
-              Enjoy the ride and arrive in unique style with luxury limousines for events, executives and companies. Say goodbye to the 
-              old-fashioned stretch limo. And, hello to a modern transportation experience. 
-              Premier Sprinter Service has a fleet of chauffeured Mercedes Sprinter Limo, Passenger Vans and luxury SUV's.
+              Travel in unique style with luxury limousines, passenger vans and SUV's for events, executives and high school transportation. 
+              We provide you with the ultimate modern transportation experience. 
+              Premier Sprinter Service has a fleet of chauffeured vehicles for every occasion.
             </h4>
          </Container><br></br>
       <div style = {{backgroundColor: "#E8E5DD"}}>

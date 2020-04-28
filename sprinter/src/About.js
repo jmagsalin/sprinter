@@ -12,6 +12,20 @@ class About extends Component {
                <h1 className = "aboutText">San Diego's Premier Transportation Experience</h1><br></br>
                </Container>
            </Jumbotron>
+           <Container>
+                <h2 style = {{fontFamily: "Cambria", color: "#94790D", fontSize: "37px"}}>
+                    Luxurious, comfortable and reliable transportation
+                </h2>
+                <h2 style = {{fontFamily: "Cambria", fontStyle: "italic", color: "#848480"}}>
+                    We provide experiences of a lifetime for any occasion
+                </h2>
+                <h4 style = {{fontFamily: "Cambria", color: "#848480"}}>
+                    Premier Sprinter Service has quickly become the new industry leader in chauffeured transportation in the San Diego area. 
+                    Our wide ranging fleet of luxury vehicles exude a level of power, comfort, 
+                    and elegance unmatched in the county. Our professional staff are highly regarded as 
+                    aware, courteous, accommodating and punctual.
+                </h4><br></br>
+            </Container>
            <Container><br></br>
                 <Row>                  
                     <Col>

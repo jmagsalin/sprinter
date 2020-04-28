@@ -29,22 +29,19 @@ class Highschool extends Component {
                 <Row>                  
                     <Col>
                         <h2 style = {{fontFamily: "Cambria", color: "#94790D"}}>
-                            We fulfill all your transportation needs
+                            Why take chaffeured transportation to high school?
                         </h2>
                         <h3 style = {{fontFamily: "Cambria", color: "#848480", fontStyle: "italic"}}>
-                            Arrive at your destination in luxury and comfort
+                             The benefits of using Premier Sprinter Service 
                         </h3>
-                        <h5 style = {{textAlign: "left", fontFamily: "Cambria"}}> There is no experience like that of going to an event 
-                        with your closest friends or that special someone.  
-                        Why not treat this experience with a memorable ride in one of our luxury Sprinter Limos.
-                        For any occasion, when you travel with us,
-                        it will be a journey unlike any other.
-                        </h5><br></br>
-                        <h5 style = {{textAlign: "left", fontFamily: "Cambria"}}>
-                            Our professional staff will make sure you will have a memorable time with your close friends or 
-                            that special someone and
-                            have an experience you won't forget.
-                        </h5>
+                        <ul style = {{fontSize: "large", textAlign: "left"}}>
+                            <li>Multiple locations for pick ups </li>
+                            <li>Safe traveling in some of the most upgraded and stylish vehicles</li>
+                            <li>Familiarity - With a maximum of 10 students per vehicle each student feels more 
+                                comfortable with who they are riding with and has a more personalized trip</li>
+                            <li>Cost effective</li>
+                            <li>Professional and reliable</li>
+                        </ul>             
                     </Col>
                     <Col>
                 <Image height= {350} width = {500} src="https://timesofsandiego.com/wp-content/uploads/2019/05/Cathedral-Catholic-High-School.jpg" rounded />
@@ -52,57 +49,32 @@ class Highschool extends Component {
                 </Row><br></br>
             </Container>
         </div>
-        <div style = {{backgroundColor: "#E8E5DD", fontFamily: "Cambria"}}>
+        <div style = {{fontFamily: "Cambria"}}>
             <Container><br></br>
                 <Row>
                     <Col>
-                    <Image height= {330} width= {500} src="https://cdn.pixabay.com/photo/2019/07/21/19/53/san-diego-skyline-4353504_1280.jpg" rounded />
+                    <Image height= {330} width= {500} src="https://timesofsandiego.com/wp-content/uploads/2015/03/Bishops-School-640x360.jpg" rounded />
                     </Col>
                     <Col>
                         <h2 style = {{fontFamily: "Cambria", color: "#94790D"}}>
-                            Our Values
+                            Reliable transportation to school
                         </h2>
                         <h3 style = {{fontFamily: "Cambria", color: "#848480", fontStyle: "italic"}}>
                             Professionalism, Integrity, Reliability
                         </h3>
-                        <h5 style = {{textAlign: "left"}}> At Premiere Sprinter Service we strive for greatness. Our San Diego based Sprinter 
-                            and sedan transportation service is built on integrity, reliability and knowledge. We provide safe, 
-                            clean and reliable transportation with highly trained professional chauffeurs and high-class vehicles. 
+                        <h5 style = {{textAlign: "left", fontFamily: "Cambria"}}>
+                            Our professional staff will make sure your children always arrive at school and back home on time. We pride 
+                            ourselves on the comfort and safety of every passenger, every ride.
                         </h5><br></br>
                         <h5 style = {{textAlign: "left"}}>
-                            We separate ourselves from other companies by striving for greatness. From our 
-                            luxurious fleet to our caring staff, when you complete your journey with us, you will leave feeling like you've 
-                            had the experience of a lifetime!
+                            We separate ourselves from other companies by striving for greatness. We understand how important safety and 
+                            reliability are in transporting high school students.  That is why our trained staff are always professional, 
+                            courteous and punctual.
                         </h5>
                     </Col>
                 </Row><br></br>
             </Container>
         </div>
-        <Container><br></br>
-                <Row>                  
-                    <Col>
-                        <h2 style = {{fontFamily: "Cambria", color: "#94790D"}}>
-                            Our Mission
-                        </h2>
-                        <h3 style = {{fontFamily: "Cambria", color: "#848480", fontStyle: "italic"}}>
-                            We go above and beyond for you
-                        </h3>
-                        <h5 style = {{textAlign: "left", fontFamily: "Cambria"}}> 
-                        Premier Sprinter Service takes great pride in our work and we want to make sure to perfectly accommodate you on  
-                        every journey. 
-                        Our team goes above and beyond to make sure every client goes home happy 
-                        and to ensure you have the best experience possible.   
-                        </h5><br></br>
-                        <h5 style = {{textAlign: "left", fontFamily: "Cambria"}}>
-                        Our staff are professionals who work as a team dedicated to ensure that your experience 
-                        is exceptional, complete, and always on time.
-                        </h5>
-                    </Col>
-                    <Col>
-                        <Image height= {350} width = {500} src="https://cdn.pixabay.com/photo/2016/01/19/17/57/car-1149997_1280.jpg" rounded />
-                    </Col>
-                </Row><br></br>
-            </Container>
       </React.Fragment>
         )
     }
