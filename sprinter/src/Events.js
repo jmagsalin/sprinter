@@ -17,7 +17,10 @@ class Events extends Component {
             <Container>
                 <h2 style = {{fontFamily: "Cambria", color: "#94790D", fontSize: "37px"}}>
                     For That Special Event
-                </h2><br></br>
+                </h2>
+                <h2 style = {{fontFamily: "Cambria", fontStyle: "italic", color: "#848480"}}>
+                    Our fleet of vehicles is perfect for any event
+                </h2>
                 <h4 style = {{fontFamily: "Cambria", color: "#848480"}}>From ultimate tailgates to a magical wedding and everything in between, treat yourself and your guests, to a superior luxury transportation service and personalized attention like you’ve never experienced before. Our concierge team 
                     makes sure every detail is perfect and can make reservations, secure hard-to-get tickets, provide catering and plan itineraries.
                 </h4><br></br>

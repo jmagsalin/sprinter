@@ -8,83 +8,74 @@ class Executive extends Component {
           <Jumbotron fluid className = "exJumbotron">           
                <Container>
                <h1 style = {{fontFamily: "Cambria", color: "#94790D" }}>Executive Transportation</h1>
-               <h1 className = "aboutText">San Diego's Executive Transportation Professionals</h1><br></br>
+               <h1 className = "aboutText">Luxurious Executive Transportation</h1><br></br>
                </Container>
            </Jumbotron>
-           <Container><br></br>
+           <Container>
+                <h2 style = {{fontFamily: "Cambria", color: "#94790D", fontSize: "37px"}}>
+                    For Executive Outings
+                </h2>
+                <h2 style = {{fontFamily: "Cambria", fontStyle: "italic", color: "#848480"}}>
+                    Our fleet of vehicles is perfect for any executive event
+                </h2>
+                <h4 style = {{fontFamily: "Cambria", color: "#848480"}}>
+                    Nothing compares to our luxurious and stylish transportation fleet for all your executive transportation. 
+                    Our fleet is complete with all sorts of amenities, comforts and tech accessories. Whether you need to impress clients,
+                    treat your staff or catch an airplane, we have everything you need. Let us take care of the details so you can roll up
+                    your sleeves and get to work. 
+                </h4><br></br>
+            </Container>
+            <div style = {{backgroundColor: "#E8E5DD", fontFamily: "Cambria"}}>
+            <Container><br></br>
                 <Row>                  
                     <Col>
                         <h2 style = {{fontFamily: "Cambria", color: "#94790D"}}>
-                            We fulfill all your transportation needs
+                            Executive transportation in style 
                         </h2>
                         <h3 style = {{fontFamily: "Cambria", color: "#848480", fontStyle: "italic"}}>
-                            Arrive at your destination in luxury and comfort
+                            Executive transportation for every occasion
                         </h3>
-                        <h5 style = {{textAlign: "left", fontFamily: "Cambria"}}> There is no experience like that of going to an event 
-                        with your closest friends or that special someone.  
-                        Why not treat this experience with a memorable ride in one of our luxury Sprinter Limos.
-                        For any occasion, when you travel with us,
-                        it will be a journey unlike any other.
-                        </h5><br></br>
-                        <h5 style = {{textAlign: "left", fontFamily: "Cambria"}}>
-                            Our professional staff will make sure you will have a memorable time with your close friends or 
-                            that special someone and
-                            have an experience you won't forget.
-                        </h5>
+                        <ul style = {{fontSize: "large", textAlign: "left"}}>
+                            <li>Hosting Meetings</li>
+                            <li>Site Tours</li>
+                            <li>Corporate Events and Customer Events</li>
+                            <li>Airport Pickups and Transportation to All Forms of Public Transportation</li>
+                            <li>Social Events and Parties</li>
+                            <li>Cross County Commutes</li>
+                            <li>Company Retreats</li>
+                            <li>Offsite Training</li>
+                            <li>Conferences</li>
+                        </ul>             
                     </Col>
                     <Col>
                 <Image height= {350} width = {500} src="https://www.ultimatetoys.com/wp-content/uploads/2018/09/SPRINTER_12_Enhanced-1600x844.jpg" rounded />
                     </Col>
                 </Row><br></br>
             </Container>
-        <div style = {{backgroundColor: "#E8E5DD", fontFamily: "Cambria"}}>
+            </div>
             <Container><br></br>
                 <Row>
                     <Col>
-                    <Image height= {330} width= {500} src="https://cdn.pixabay.com/photo/2019/07/21/19/53/san-diego-skyline-4353504_1280.jpg" rounded />
+                    <Image height= {400} width= {500} src="https://cdn.pixabay.com/photo/2014/10/27/23/09/meeting-505982_1280.jpg" rounded />
                     </Col>
                     <Col>
                         <h2 style = {{fontFamily: "Cambria", color: "#94790D"}}>
-                            Our Values
+                            Our staff will take care of all your executive needs
                         </h2>
                         <h3 style = {{fontFamily: "Cambria", color: "#848480", fontStyle: "italic"}}>
-                            Professionalism, Integrity, Reliability
-                        </h3>
-                        <h5 style = {{textAlign: "left"}}> At Premiere Sprinter Service we strive for greatness. Our San Diego based Sprinter 
-                            and sedan transportation service is built on integrity, reliability and knowledge. We provide safe, 
-                            clean and reliable transportation with highly trained professional chauffeurs and high-class vehicles. 
-                        </h5><br></br>
-                        <h5 style = {{textAlign: "left"}}>
-                            We separate ourselves from other companies by striving for greatness. From our 
-                            luxurious fleet to our caring staff, when you complete your journey with us, you will leave feeling like you've 
-                            had the experience of a lifetime!
-                        </h5>
-                    </Col>
-                </Row><br></br>
-            </Container>
-        </div>
-        <Container><br></br>
-                <Row>                  
-                    <Col>
-                        <h2 style = {{fontFamily: "Cambria", color: "#94790D"}}>
-                            Our Mission
-                        </h2>
-                        <h3 style = {{fontFamily: "Cambria", color: "#848480", fontStyle: "italic"}}>
-                            We go above and beyond for you
+                            Professional and reliable staff
                         </h3>
                         <h5 style = {{textAlign: "left", fontFamily: "Cambria"}}> 
-                        Premier Sprinter Service takes great pride in our work and we want to make sure to perfectly accommodate you on  
-                        every journey. 
-                        Our team goes above and beyond to make sure every client goes home happy 
-                        and to ensure you have the best experience possible.   
+                            Just as we believe your business values excellence and integrity, we at Premiere Sprinter Service also
+                            strive for greatness. Our San Diego based Sprinter 
+                            and SUV transportation service is built on integrity, reliability and knowledge and we understand the needs
+                            of executives.  
                         </h5><br></br>
                         <h5 style = {{textAlign: "left", fontFamily: "Cambria"}}>
-                        Our staff are professionals who work as a team dedicated to ensure that your experience 
-                        is exceptional, complete, and always on time.
+                            We provide safe, clean and reliable transportation with highly trained professional chauffeurs and high-class vehicles. 
+                            From our luxurious fleet to our professional staff, we will make sure your clients, staff and associates
+                            have the best experience possible.
                         </h5>
-                    </Col>
-                    <Col>
-                        <Image height= {350} width = {500} src="https://cdn.pixabay.com/photo/2016/01/19/17/57/car-1149997_1280.jpg" rounded />
                     </Col>
                 </Row><br></br>
             </Container>

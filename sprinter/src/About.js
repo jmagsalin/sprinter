@@ -17,7 +17,7 @@ class About extends Component {
                     Luxurious, comfortable and reliable transportation
                 </h2>
                 <h2 style = {{fontFamily: "Cambria", fontStyle: "italic", color: "#848480"}}>
-                    We provide experiences of a lifetime for any occasion
+                    We provide quality transportation for any occasion
                 </h2>
                 <h4 style = {{fontFamily: "Cambria", color: "#848480"}}>
                     Premier Sprinter Service has quickly become the new industry leader in chauffeured transportation in the San Diego area. 

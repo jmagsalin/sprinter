@@ -8,7 +8,7 @@ class Highschool extends Component {
           <Jumbotron fluid className = "hsJumbotron">           
                <Container><br></br>
                <h1 style = {{fontFamily: "Cambria", color: "#94790D" }}>High School Transportation</h1>
-               <h1 className = "aboutText">San Diego's High School Transportation Professionals</h1><br></br>
+               <h1 className = "aboutText">San Diego's High School Transportation Professionals</h1>
                </Container>
            </Jumbotron>
            <Container>
