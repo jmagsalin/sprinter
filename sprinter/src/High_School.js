@@ -60,7 +60,7 @@ class Highschool extends Component {
                             Reliable transportation to school
                         </h2>
                         <h3 style = {{fontFamily: "Cambria", color: "#848480", fontStyle: "italic"}}>
-                            Professionalism, Integrity, Reliability
+                            Professional, Reliable and Safe
                         </h3>
                         <h5 style = {{textAlign: "left", fontFamily: "Cambria"}}>
                             Our professional staff will make sure your children always arrive at school and back home on time. We pride 
@@ -69,7 +69,7 @@ class Highschool extends Component {
                         <h5 style = {{textAlign: "left"}}>
                             We separate ourselves from other companies by striving for greatness. We understand how important safety and 
                             reliability are in transporting high school students.  That is why our trained staff are always professional, 
-                            courteous and punctual.
+                            courteous and most importantly, safe.
                         </h5>
                     </Col>
                 </Row><br></br>
