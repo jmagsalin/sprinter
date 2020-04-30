@@ -66,8 +66,8 @@ class Executive extends Component {
                             Professional and reliable staff
                         </h3>
                         <h5 style = {{textAlign: "left", fontFamily: "Cambria"}}> 
-                            Just as we believe your business values excellence and integrity, we at Premiere Sprinter Service also
-                            strive for greatness. Our San Diego based Sprinter 
+                            Just as we believe your business strives for excellence and integrity, we at Premiere Sprinter Service also
+                            strives for those same things. Our San Diego based Sprinter 
                             and SUV transportation service is built on integrity, reliability and knowledge and we understand the needs
                             of executives.  
                         </h5><br></br>

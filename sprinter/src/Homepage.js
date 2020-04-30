@@ -29,7 +29,7 @@ class Homepage extends Component {
                     For fun, work, high school & every occasion
                 </h2>
                 <h4 style = {{fontFamily: "Cambria"}}>
-                    Premier Sprinter Service provides an unrivaled chaffeured luxury transportation experience.  With our fleet of diverse and distinct vehicles, 
+                    Premier Sprinter Service provides an unrivaled chauffeured luxury transportation experience.  With our fleet of diverse and distinct vehicles, 
                     we have transportation for any and every occasion.  Whether you need stylish luxury or comfortable group travel, we have something for you.
                     From weddings to wine tours, executive outings to rides to high school, only the best experiences await when you ride with 
                     Premier Sprinter Service.                
