@@ -25,7 +25,7 @@ class Events extends Component {
                     From weddings to wine tours, nights out to sporting events, treat yourself and your guests to a luxury 
                     transportation experience to last a lifetime. Our professional staff is here to ensure that
                     every detail is perfect. With so much San Diego has to offer, why take on the hassle of driving to a special event?  
-                    Let Premier Sprinter Service provide you with a memorable night out.
+                    Let North County Luxury Transportation provide you with a memorable night out.
                 </h4><br></br>
                 <Button 
                     className = "footerb"

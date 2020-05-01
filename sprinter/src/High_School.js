@@ -19,9 +19,9 @@ class Highschool extends Component {
                     Rides to and from school five days a week
                 </h2>
                 <h4 style = {{fontFamily: "Cambria", color: "#848480"}}>
-                    Premier Sprinter Service provides transportation for students in most San Diego counties. 
+                    North County Luxury Transportation  provides transportation for students in most San Diego counties. 
                     We provide rides to and from school five days a week and can provide early pick ups and late drop offs. 
-                    Premier Sprinter Service is San Diego's leader for safe and reliable high school transportation.
+                    North County Luxury Transportation is San Diego's leader for safe and reliable high school transportation.
                 </h4><br></br>
             </Container>
             <div style = {{backgroundColor: "#E8E5DD", fontFamily: "Cambria"}}>
@@ -29,10 +29,10 @@ class Highschool extends Component {
                 <Row>                  
                     <Col>
                         <h2 style = {{fontFamily: "Cambria", color: "#94790D"}}>
-                            Why take chaffeured transportation to high school?
+                            Transportation to high school
                         </h2>
                         <h3 style = {{fontFamily: "Cambria", color: "#848480", fontStyle: "italic"}}>
-                             The benefits of using Premier Sprinter Service 
+                             The benefits of using North County Luxury Transportation 
                         </h3>
                         <ul style = {{fontSize: "large", textAlign: "left"}}>
                             <li>Multiple locations for pick ups </li>

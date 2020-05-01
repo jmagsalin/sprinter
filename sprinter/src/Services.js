@@ -24,7 +24,7 @@ class Services extends Component {
                 </h2>
                 <h4 style = {{fontFamily: "Cambria", color: "#848480"}}>
                     Whether you need luxury transportation to a wedding, a stylish vehicle for a client meeting, or a safe 
-                    ride to high school, we've got you covered.  Premier Sprinter Service provides San Diegans with the
+                    ride to high school, we've got you covered.  North County Luxury Transportation provides San Diegans with the
                     most comfortable and stylish chauffeured transportation service in the county. Our professional 
                     staff takes care of all the details while you enjoy the ride when you choose us.
                 </h4><br></br><br></br>
@@ -108,7 +108,7 @@ class Services extends Component {
                             Professional and reliable staff
                         </h3>
                         <h5 style = {{textAlign: "left"}}> 
-                            Just as we believe your business strives for excellence and integrity, we at Premiere Sprinter Service also
+                            Just as we believe your business strives for excellence and integrity, we at North County Luxury Transportation also
                             strives for those same things. Our San Diego based Sprinter 
                             and SUV transportation service is built on integrity, reliability and knowledge and we understand the needs
                             of executives. 

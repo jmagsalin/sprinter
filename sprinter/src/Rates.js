@@ -117,7 +117,7 @@ class Rates extends Component {
                                 </tr>
                             </tbody>
                     </Table>
-                    <p style = {{textAlign: "left"}}>*Wedding Limousine Package includes bottled water and Champagne. 
+                    <p style = {{textAlign: "left"}}>*Wedding Limousine Package includes bottled water and champagne. 
                         Customizing  your choice of alcohol is recommended and not included in pricing.
                         <br></br>Our SUV service will also provide transportation for 
                         the bride and groom to return to their location of choice (within San Diego) 

@@ -22,7 +22,7 @@ class Sprinter extends Component {
             <h4 style = {{fontFamily: "Cambria", color: "#848480"}}>
               Travel in unique style with luxury limousines, passenger vans and SUV's for events, executives and high school transportation. 
               We provide you with the ultimate modern transportation experience. 
-              Premier Sprinter Service has a fleet of chauffeured vehicles for every occasion.
+              North County Luxury Transportation has a fleet of chauffeured vehicles for every occasion.
             </h4>
          </Container><br></br>
       <div style = {{backgroundColor: "#E8E5DD"}}>

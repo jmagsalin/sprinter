@@ -20,9 +20,9 @@ class Executive extends Component {
                 </h2>
                 <h4 style = {{fontFamily: "Cambria", color: "#848480"}}>
                     Nothing compares to our luxurious and stylish transportation fleet for all your executive transportation. 
-                    Our fleet is complete with all sorts of amenities, comforts and tech accessories. Whether you need to impress clients,
-                    treat your staff or catch an airplane, we have everything you need. Let us take care of the details so you can roll up
-                    your sleeves and get to work. 
+                    Our fleet is complete with all sorts of amenities, comforts and tech accessories. Whether you need to meet clients,
+                    treat your staff or catch an airplane, we have everything you need. Let us take care of the details while you impress 
+                    your clients, associates and staff.
                 </h4><br></br>
             </Container>
             <div style = {{backgroundColor: "#E8E5DD", fontFamily: "Cambria"}}>
@@ -66,8 +66,8 @@ class Executive extends Component {
                             Professional and reliable staff
                         </h3>
                         <h5 style = {{textAlign: "left", fontFamily: "Cambria"}}> 
-                            Just as we believe your business strives for excellence and integrity, we at Premiere Sprinter Service also
-                            strives for those same things. Our San Diego based Sprinter 
+                            Just as we believe your business strives for excellence and integrity, we at North County Luxury Transportation also
+                            strive for those same things. Our San Diego based Sprinter 
                             and SUV transportation service is built on integrity, reliability and knowledge and we understand the needs
                             of executives.  
                         </h5><br></br>

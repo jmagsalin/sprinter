@@ -63,7 +63,7 @@ class Routes extends Component {
                                 height="35"
                                 className="d-inline-block align-top"
                             />
-                            <p style = {{fontSize: "16px", fontFamily: "Cambria", color: "#94790D"}}>Email.PremierSprinterService.com</p>
+                            <p style = {{fontSize: "16px", fontFamily: "Cambria", color: "#94790D"}}>Info@ncluxurytransportation.com</p>
                         </Navbar.Brand>
                 </Navbar><br></br><br></br><br></br>
             </div>
@@ -94,13 +94,13 @@ class Routes extends Component {
                                 />
                             </a><br></br><br></br>
                             <p>
-                            Premier Sprinter Service serves San Diego and Southern California with luxury transportation service for events, 
+                            North County Luxury Transportation serves San Diego and Southern California with luxury transportation service for events, 
                             executives and high school students. We feature a state-of-the-art fleet of Sprinter limos, vans and luxury SUV's. 
-                            For any and every occasion, enjoy the journey with Premier Sprinter Service.
+                            For any and every occasion, enjoy the journey with North County Luxury Transportation.
                             </p>
                         </Col>
                         <Col style = {{textAlign: "left"}}>
-                            <h5 style = {{color: "#94790D"}}>Premier Sprinter Service</h5>
+                            <h5 style = {{color: "#94790D"}}>North County Luxury Transportation</h5>
                             <a href = "Events" style = {{color: "#848480"}}>Weddings</a><br></br>
                             <a href = "Events" style = {{color: "#848480"}}>Special Events</a><br></br>
                             <a href = "Events" style = {{color: "#848480"}}>High School Formals</a><br></br>
@@ -137,7 +137,7 @@ class Routes extends Component {
                                 width="30"
                                 height="22"
                                 className="d-inline-block align-top"
-                            /> Email.PremierSprinterService.com</p>
+                            /> Info@ncluxurytransportation.com</p>
                             <a href = "Contact" style = {{color: "#848480"}}>
                             <p style = {{fontSize: "15px", fontFamily: "Cambria", color: "#848480"}}>
                             <img

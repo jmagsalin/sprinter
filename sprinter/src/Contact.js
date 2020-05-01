@@ -9,7 +9,7 @@ class Contact extends Component {
         <Jumbotron fluid className = "contactJumbotron">
             <Container>
              <h1 style = {{fontFamily: "Cambria", color: "#94790D"}}>
-                 Contact Premier Sprinter Service
+                 Contact North County Luxury Transportation
              </h1>
              <h1 className = "servText" style = {{fontFamily: "Cambria", color: "#848480", textAlign: "center"}}>
                  Let us begin your journey
@@ -52,7 +52,7 @@ class Contact extends Component {
                         width="50"
                         height="35"
                         className="d-inline-block align-top"
-                    /> Email.PremierSprinterService.com</p>
+                    /> Info@ncluxurytransportation.com</p>
                 <h3>Social Media</h3>
                 <p style = {{fontSize: "18px", fontFamily: "Cambria", color: "#94790D"}}>
                     <a href="https://www.facebook.com/kaoathletics/" target = "blank"><img

@@ -8,7 +8,7 @@ class About extends Component {
       <React.Fragment>
           <Jumbotron fluid className = "aboutJumbotron">           
                <Container>
-               <h1 style = {{fontFamily: "Cambria", color: "#94790D" }}>About Premier Sprinter Service</h1>
+               <h1 style = {{fontFamily: "Cambria", color: "#94790D" }}>About North County Luxury Transportation</h1>
                <h1 className = "aboutText">San Diego's Premier Transportation Experience</h1><br></br>
                </Container>
            </Jumbotron>
@@ -20,7 +20,7 @@ class About extends Component {
                     We provide quality transportation for any occasion
                 </h2>
                 <h4 style = {{fontFamily: "Cambria", color: "#848480"}}>
-                    Premier Sprinter Service has quickly become the new industry leader in chauffeured transportation in the San Diego area. 
+                    North County Luxury Transportation has quickly become the new industry leader in chauffeured transportation in the San Diego area. 
                     Our wide ranging fleet of luxury vehicles exude a level of power, comfort, 
                     and elegance unmatched in the county. Our professional staff are highly regarded as 
                     aware, courteous, accommodating and punctual.
@@ -66,7 +66,7 @@ class About extends Component {
                         <h3 style = {{fontFamily: "Cambria", color: "#848480", fontStyle: "italic"}}>
                             Professionalism, Integrity, Reliability
                         </h3>
-                        <h5 style = {{textAlign: "left"}}> At Premiere Sprinter Service we strive for greatness. Our San Diego based Sprinter 
+                        <h5 style = {{textAlign: "left"}}> At North County Luxury Transportation we strive for greatness. Our San Diego based Sprinter 
                             and sedan transportation service is built on integrity, reliability and knowledge. We provide safe, 
                             clean and reliable transportation with highly trained professional chauffeurs and high-class vehicles. 
                         </h5><br></br>
@@ -89,7 +89,7 @@ class About extends Component {
                             We go above and beyond for you
                         </h3>
                         <h5 style = {{textAlign: "left", fontFamily: "Cambria"}}> 
-                        Premier Sprinter Service takes great pride in our work and we want to make sure to perfectly accommodate you on  
+                        North County Luxury Transportation takes great pride in our work and we want to make sure to perfectly accommodate you on  
                         every journey. 
                         Our team goes above and beyond to make sure every client goes home happy 
                         and to ensure you have the best experience possible.   

@@ -8,7 +8,7 @@ class Homepage extends Component {
       
       <div className = "homeJumbotron">         
              <Container><br></br>
-                <h1 style = {{fontFamily: "Cambria", color: "#94790D", fontSize: "100px"}}>Premier Sprinter Service</h1>
+                <h1 style = {{fontFamily: "Cambria", color: "#94790D", fontSize: "100px"}}>North County Luxury Transportation</h1>
                 <h1 className = "homeText" style = {{fontFamily: "Cambria", color: "white", fontSize: "50px"}}>
                     San Diego's Premier Luxury Transportation Service</h1><br></br>
                 {/* <h1 className = "homeText" style = {{fontFamily: "Cambria", color: "white", fontSize: "30px"}}>
@@ -29,10 +29,10 @@ class Homepage extends Component {
                     For fun, work, high school & every occasion
                 </h2>
                 <h4 style = {{fontFamily: "Cambria"}}>
-                    Premier Sprinter Service provides an unrivaled chauffeured luxury transportation experience.  With our fleet of diverse and distinct vehicles, 
+                    North County Luxury Transportation provides an unrivaled chauffeured luxury transportation experience.  With our fleet of diverse and distinct vehicles, 
                     we have transportation for any and every occasion.  Whether you need stylish luxury or comfortable group travel, we have something for you.
-                    From weddings to wine tours, executive outings to rides to high school, only the best experiences await when you ride with 
-                    Premier Sprinter Service.                
+                    From weddings to wine tours, executive outings to rides to high school, only the finest experiences await when you ride with 
+                    North County Luxury Transportation.                
                 </h4><br></br>
             </Container>
              <div style = {{backgroundColor:"#E8E5DD"}}>
@@ -144,7 +144,7 @@ class Homepage extends Component {
                     For executives, special events, high school transportation or virtually any occasion
                 </h2>
                 <h4 style = {{fontFamily: "Cambria"}}>
-                    Premier Sprinter Service provides a state-of-the-art fleet, unrivaled in luxury and style for every transportation experience.  
+                    North County Luxury Transportation provides a state-of-the-art fleet, unrivaled in luxury and style for every transportation experience.  
                     With our fleet of diverse and distinct vehicles, we have transportation for any and every occasion.  Whether 
                     you need stylish luxury or comfortable group travel, we have something for you.  Our Mercedes Sprinter Limo is
                     the ultimate in luxury and style while our 15 passenger Sprinter van is unmatched in comfortable group travel.  Our SUV's
