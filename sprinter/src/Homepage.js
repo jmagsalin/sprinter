@@ -7,15 +7,15 @@ class Homepage extends Component {
             <React.Fragment>
       
       <div className = "homeJumbotron">         
-             <Container><br></br>
-                <h1 style = {{fontFamily: "Cambria", color: "#94790D", fontSize: "100px"}}>North County Luxury Transportation</h1>
-                <h1 className = "homeText" style = {{fontFamily: "Cambria", color: "white", fontSize: "50px"}}>
+             <Container><br></br><br></br>
+                <h1 style = {{fontFamily: "Cambria", color: "#94790D", fontSize: "70px"}}>North County Luxury Transportation</h1>
+                <h1 className = "homeText" style = {{fontFamily: "Cambria", color: "white", fontSize: "40px"}}>
                     San Diego's Premier Luxury Transportation Service</h1><br></br>
                 {/* <h1 className = "homeText" style = {{fontFamily: "Cambria", color: "white", fontSize: "30px"}}>
                 Call for reservations (858) 555-4444</h1> */}
                 <Button 
                     className = "homeButton"
-                    variant="outline-light"
+                    variant="light"
                     size = "lg"
                     href = "Contact"
                     fontFamily = "Cambria">Make a Reservation</Button>

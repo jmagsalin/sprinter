@@ -6,9 +6,9 @@ class Sprinter extends Component {
     return (
     <React.Fragment>
         <Jumbotron fluid className = "sprinterJumbotron">           
-             <Container><br></br>
+             <Container>
                 <h1 style = {{fontFamily: "Cambria", color: "#94790D"}} >Our Transportation Fleet</h1>
-                <h1 className = "servText" style = {{textAlign: "center"}}>Our transportation fleet is perfect for any and all occasions
+                <h1 className = "servText" style = {{textAlign: "center"}}>Our luxury transportation fleet is perfect for any and all occasions
                 </h1><br></br>
              </Container>
          </Jumbotron>

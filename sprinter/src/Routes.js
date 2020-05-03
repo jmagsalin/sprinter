@@ -10,6 +10,7 @@ import Rates from "./Rates"
 import Events from "./Events"
 import Highschool from "./High_School"
 import Executive from "./Executive"
+import Logo from "./logo.JPG"
 
 class Routes extends Component {
     render () {
@@ -21,7 +22,7 @@ class Routes extends Component {
                 <Navbar.Brand href="Homepage">     
                     <img
                         alt=""
-                        src= "https://weselllimos.com/photos/limos-for-sale/1604/2019-luxury-sprinter-17-passengers-5e37ce1adb591-large.jpg"
+                        src= {Logo}
                         width="220"
                         height="75"
                         className="d-inline-block align-top"
@@ -30,40 +31,40 @@ class Routes extends Component {
                     <Navbar.Toggle aria-controls="basic-navbar-nav" style = {{color: "#E19B24"}}  />
                     <Navbar.Collapse id="basic-navbar-nav">
                     <Nav className="mr-auto">
-                        <Nav.Link href="Homepage" style ={{fontFamily: "Cambria", color: "#94790D"}}>Home</Nav.Link>
-                        <Nav.Link href="Sprinter" style ={{fontFamily: "Cambria", color: "#94790D"}}>Fleet</Nav.Link>
+                        <Nav.Link href="Homepage" style ={{fontFamily: "Cambria", color: "#848480"}}>Home</Nav.Link>
+                        <Nav.Link href="Sprinter" style ={{fontFamily: "Cambria", color: "#848480"}}>Fleet</Nav.Link>
                         <Dropdown as={NavItem}>
-                            <Dropdown.Toggle as={Nav.Link} style = {{color: "#94790D", fontFamily: "Cambria"}}>Services</Dropdown.Toggle>
+                            <Dropdown.Toggle as={Nav.Link} style = {{color: "#848480", fontFamily: "Cambria"}}>Services</Dropdown.Toggle>
                                 <Dropdown.Menu>
-                                    <Dropdown.Item href="Events" style ={{color: "#94790D", fontFamily: "Cambria", backgroundColor: "black"}}>Events</Dropdown.Item>
-                                    <Dropdown.Item href="Executive" style ={{color: "#94790D", fontFamily: "Cambria", backgroundColor: "black"}}>Executive</Dropdown.Item>
-                                    <Dropdown.Item href="Highschool" style ={{color: "#94790D", fontFamily: "Cambria", backgroundColor: "black"}}>High School</Dropdown.Item>
+                                    <Dropdown.Item href="Events" style ={{color: "#848480", fontFamily: "Cambria", backgroundColor: "black"}}>Events</Dropdown.Item>
+                                    <Dropdown.Item href="Executive" style ={{color: "#848480", fontFamily: "Cambria", backgroundColor: "black"}}>Executive</Dropdown.Item>
+                                    <Dropdown.Item href="Highschool" style ={{color: "#848480", fontFamily: "Cambria", backgroundColor: "black"}}>High School</Dropdown.Item>
                                 </Dropdown.Menu>
                         </Dropdown>  
-                        <Nav.Link href="Rates" style ={{fontFamily: "Cambria", color: "#94790D"}}>Rates</Nav.Link>
-                        <Nav.Link href="About" style ={{fontFamily: "Cambria", color: "#94790D"}}>About</Nav.Link>     
-                        <Nav.Link href="Contact" style ={{fontFamily: "Cambria", color: "#94790D"}}>Contact</Nav.Link>
+                        <Nav.Link href="Rates" style ={{fontFamily: "Cambria", color: "#848480"}}>Rates</Nav.Link>
+                        <Nav.Link href="About" style ={{fontFamily: "Cambria", color: "#848480"}}>About</Nav.Link>     
+                        <Nav.Link href="Contact" style ={{fontFamily: "Cambria", color: "#848480"}}>Contact</Nav.Link>
                     </Nav>
                     </Navbar.Collapse>
                         <Navbar.Brand href="Contact">
                         <img
                                 alt=""
-                                src="https://images.cdn3.stockunlimited.net/clipart450/contact-us-button_1386389.jpg"
+                                src="https://media.msufcu.org/publicsites/publicsite/graphics/msufcu/footer/call_us_hover_state.png"
                                 width="50"
                                 height="35"
                                 className="d-inline-block align-top"
                             />
-                            <p style = {{fontSize: "18px", fontFamily: "Cambria", color: "#94790D"}}>(855) 555-2398</p>
+                            <p style = {{fontSize: "18px", fontFamily: "Cambria", color: "#848480"}}>(855) 555-2398</p>
                         </Navbar.Brand>
                         <Navbar.Brand href="Contact">
                         <img
                                 alt=""
-                                src="https://pngimg.com/uploads/email/email_PNG47.png"
+                                src="https://cdn4.iconfinder.com/data/icons/ios7-line/512/Email.png"
                                 width="50"
                                 height="35"
                                 className="d-inline-block align-top"
                             />
-                            <p style = {{fontSize: "16px", fontFamily: "Cambria", color: "#94790D"}}>Info@ncluxurytransportation.com</p>
+                            <p style = {{fontSize: "18px", fontFamily: "Cambria", color: "#848480"}}>Info@ncluxurytransportation.com</p>
                         </Navbar.Brand>
                 </Navbar><br></br><br></br><br></br>
             </div>
@@ -87,7 +88,7 @@ class Routes extends Component {
                             <a href = "Homepage">
                                 <img
                                     alt=""
-                                    src="https://weselllimos.com/photos/limos-for-sale/1604/2019-luxury-sprinter-17-passengers-5e37ce1adb591-large.jpg"
+                                    src= {Logo}
                                     width="220"
                                     height="75"
                                     className="d-inline-block align-top"  
