@@ -45,7 +45,7 @@ class Contact extends Component {
                         width="50"
                         height="35"
                         className="d-inline-block align-top"
-                    /> (855) 555-2398</p>
+                    /> (858) 888-5734</p>
                     <p style = {{fontSize: "18px", fontFamily: "Cambria", color: "#94790D"}}><img
                         alt=""
                         src="https://pngimg.com/uploads/email/email_PNG47.png"
