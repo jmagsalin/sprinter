@@ -9,7 +9,7 @@ class About extends Component {
           <Jumbotron fluid className = "aboutJumbotron">           
                <Container>
                <h1 style = {{fontFamily: "Cambria", color: "#94790D" }}>About North County Luxury Transportation</h1>
-               <h1 className = "aboutText">San Diego's Premier Transportation Experience</h1><br></br>
+               <h1 className = "aboutText" style = {{color: "white"}}>San Diego's Premier Transportation Experience</h1><br></br>
                </Container>
            </Jumbotron>
            <Container>
