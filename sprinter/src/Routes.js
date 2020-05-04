@@ -54,7 +54,7 @@ class Routes extends Component {
                                 height="35"
                                 className="d-inline-block align-top"
                             />
-                            <p style = {{fontSize: "18px", fontFamily: "Cambria", color: "#848480"}}>(855) 555-2398</p>
+                            <p style = {{fontSize: "18px", fontFamily: "Cambria", color: "#848480"}}>(858) 888-5734</p>
                         </Navbar.Brand>
                         <Navbar.Brand href="Contact">
                         <img
@@ -64,7 +64,7 @@ class Routes extends Component {
                                 height="35"
                                 className="d-inline-block align-top"
                             />
-                            <p style = {{fontSize: "18px", fontFamily: "Cambria", color: "#848480"}}>Info@ncluxurytransportation.com</p>
+                            <p style = {{fontSize: "18px", fontFamily: "Cambria", color: "#848480"}}>info@ncluxurytransportation.com</p>
                         </Navbar.Brand>
                 </Navbar><br></br><br></br><br></br>
             </div>
@@ -131,14 +131,14 @@ class Routes extends Component {
                                 width="30"
                                 height="22"
                                 className="d-inline-block align-top"
-                            /> (855) 555-2398</p>
+                            /> (858) 888-5734</p>
                             <p style = {{fontSize: "15px", fontFamily: "Cambria", color: "#848480"}}><img
                                 alt=""
                                 src="https://cdn4.iconfinder.com/data/icons/ios7-line/512/Email.png"
                                 width="30"
                                 height="22"
                                 className="d-inline-block align-top"
-                            /> Info@ncluxurytransportation.com</p>
+                            /> info@ncluxurytransportation.com</p>
                             <a href = "Contact" style = {{color: "#848480"}}>
                             <p style = {{fontSize: "15px", fontFamily: "Cambria", color: "#848480"}}>
                             <img

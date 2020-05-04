@@ -115,7 +115,7 @@ class Events extends Component {
                             Sporting and Concert Events
                         </h2>
                         <h3 style = {{fontFamily: "Cambria", color: "#848480", fontStyle: "italic"}}>
-                            Skip the hassle of parking 
+                            Skip the hassle of big events 
                         </h3>
                         <h5 style = {{textAlign: "left"}}> 
                             Sporting events and concerts can be the experiences of a lifetime, but finding parking and fighting

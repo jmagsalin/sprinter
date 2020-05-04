@@ -15,7 +15,7 @@ class Homepage extends Component {
                 Call for reservations (858) 555-4444</h1> */}
                 <Button 
                     className = "homeButton"
-                    variant="light"
+                    variant="outline-light"
                     size = "lg"
                     href = "Contact"
                     fontFamily = "Cambria">Make a Reservation</Button>
