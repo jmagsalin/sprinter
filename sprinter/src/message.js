@@ -116,7 +116,7 @@ class Message extends Component {
                 </Row> <br></br> 
                 <Button  
                     variant="dark"
-                    style = {{borderColor: "#94790D", fontWeight: "bold"}}
+                    style = {{fontWeight: "bold"}}
                     className = "footerb" 
                     size = "large"
                     onClick = { this.handleSubmit }

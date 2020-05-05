@@ -150,7 +150,7 @@
 
 .homeButton {
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-  color: #94790D;
+  color: white;
   animation-duration: 3s;
   animation-name: slidein;
 }
@@ -180,7 +180,7 @@
   font-size: 20px;
   font-style: bold;
   font-family: Cambria;
-  color: #94790D;
+  color: white;
 }
 
 .schHr {
