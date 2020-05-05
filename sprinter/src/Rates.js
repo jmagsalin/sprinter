@@ -36,7 +36,7 @@ class Rates extends Component {
                             Wine Tours
                         </h2>
                         <h3 style = {{fontFamily: "Cambria", color: "#848480", fontStyle: "italic"}}>
-                        Tour Temecula Wineries in Style
+                        Tour Temecula wineries in style
                         </h3>
                         <h5 style = {{textAlign: "left"}}>
                         Select your vehicle, then select your favorite wineries or allow us to customize a tour for you.  Our 
@@ -90,7 +90,7 @@ class Rates extends Component {
                             Weddings
                         </h2>
                         <h3 style = {{fontFamily: "Cambria", color: "#848480", fontStyle: "italic"}}>
-                        Arrive at Your Wedding in Luxury
+                        Arrive at your wedding in luxury
                         </h3>
                         <h5 style = {{textAlign: "left"}}>
                         Select your vehicle, then select your favorite wineries or allow us to customize a tour for you.  Our 
@@ -137,7 +137,7 @@ class Rates extends Component {
                             High School Events
                         </h2>
                         <h3 style = {{fontFamily: "Cambria", color: "#848480", fontStyle: "italic"}}>
-                        Travel to Your Formal in Style
+                        Travel to Your formal in style
                         </h3>
                         <h5 style = {{textAlign: "left"}}>
                         Select your vehicle, then select your favorite wineries or allow us to customize a tour for you.  Our 
