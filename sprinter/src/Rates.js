@@ -40,7 +40,7 @@ class Rates extends Component {
                         </h3>
                         <h5 style = {{textAlign: "left"}}>
                         Select your vehicle, then select your favorite wineries or allow us to customize a tour for you.  Our 
-                        staff will ensure a great experience throughout your tour. Small groups or an intimate occasion, we are here to drive you.
+                        staff will ensure a great experience throughout your tour.  Small groups or an intimate occasion, we are here to drive you.
                         </h5><br></br>
                         <Table size = "sm" striped bordered hover variant = "dark">
                             <thead>
@@ -93,8 +93,9 @@ class Rates extends Component {
                         Arrive at your wedding in luxury
                         </h3>
                         <h5 style = {{textAlign: "left"}}>
-                        Select your vehicle, then select your favorite wineries or allow us to customize a tour for you.  Our 
-                        staff will ensure a great experience throughout your tour. Small groups or an intimate occasion, we are here to drive you.
+                        Our luxury fleet is perfect for weddings, starting with the Mercedes Sprinter limo.  Our 
+                        staff will ensure a great experience throughout your wedding day. For you and your wedding party,
+                        we are here to drive you.
                         </h5><br></br>
                         <Table size = "sm" striped bordered hover variant = "dark">
                             <thead>
@@ -137,11 +138,11 @@ class Rates extends Component {
                             High School Events
                         </h2>
                         <h3 style = {{fontFamily: "Cambria", color: "#848480", fontStyle: "italic"}}>
-                        Travel to Your formal in style
+                            Travel to Your formal in style
                         </h3>
                         <h5 style = {{textAlign: "left"}}>
-                        Select your vehicle, then select your favorite wineries or allow us to customize a tour for you.  Our 
-                        staff will ensure a great experience throughout your tour. Small groups or an intimate occasion, we are here to drive you.
+                            Whether for just you and your date or your whole group of friends, we have the luxury vehicle for you.  Our 
+                            staff will ensure your formal will be a memorable experience. For groups or an intimate occasion, our staff is here to drive you.
                         </h5><br></br>
                         <Table size = "sm" striped bordered hover variant = "dark">
                             <thead>
