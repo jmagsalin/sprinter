@@ -44,7 +44,7 @@ class About extends Component {
                             it will be a journey unlike any other.
                         </h5><br></br>
                         <h5 style = {{textAlign: "left", fontFamily: "Cambria"}}>
-                            Whether you need transportation to high school, executive transportation or want a luxurious night out,
+                            Whether you need transportation to a private school, executive transportation or want a luxurious night out,
                             our professional staff will make sure you will have an exceptional experience time and time again.
                         </h5>
                     </Col>
