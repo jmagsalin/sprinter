@@ -67,7 +67,7 @@ class Services extends Component {
                 <Row>                  
                     <Col>
                         <h2 style = {{fontFamily: "Cambria", color: "#94790D"}}>
-                            High School Transportation
+                            Private School Transportation
                         </h2>
                         <h3 style = {{fontFamily: "Cambria", color: "#848480", fontStyle: "italic"}}>
                             Professional, Reliable and Safe
@@ -78,7 +78,7 @@ class Services extends Component {
                         </h5><br></br>
                         <h5 style = {{textAlign: "left"}}>
                             We separate ourselves from other companies by striving for greatness. We understand how important safety and 
-                            reliability are in transporting high school students.  That is why our trained staff are always professional, 
+                            reliability are in transporting students.  That is why our trained staff are always professional, 
                             courteous and most importantly, safe.
                         </h5><br></br>
                         <Button 
@@ -86,7 +86,7 @@ class Services extends Component {
                             variant="dark"
                             size = "lg"
                             href = "HighSchool"
-                            fontFamily = "Cambria">High School Transportation
+                            fontFamily = "Cambria">Private School Transportation
                         </Button><br></br>
                     </Col>
                     <Col>
