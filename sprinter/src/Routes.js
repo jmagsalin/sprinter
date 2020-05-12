@@ -38,9 +38,9 @@ class Routes extends Component {
                                 <Dropdown.Menu>
                                     <Dropdown.Item href="Events" style ={{color: "#848480", fontFamily: "Cambria", backgroundColor: "black"}}>Events</Dropdown.Item>
                                     <Dropdown.Item href="Executive" style ={{color: "#848480", fontFamily: "Cambria", backgroundColor: "black"}}>Executive</Dropdown.Item>
-                                    <Dropdown.Item href="Highschool" style ={{color: "#848480", fontFamily: "Cambria", backgroundColor: "black"}}>High School</Dropdown.Item>
                                 </Dropdown.Menu>
                         </Dropdown>  
+                        <Nav.Link href="Highschool" style ={{fontFamily: "Cambria", color: "#848480"}}>Private School</Nav.Link>
                         <Nav.Link href="Rates" style ={{fontFamily: "Cambria", color: "#848480"}}>Rates</Nav.Link>
                         <Nav.Link href="About" style ={{fontFamily: "Cambria", color: "#848480"}}>About</Nav.Link>     
                         <Nav.Link href="Contact" style ={{fontFamily: "Cambria", color: "#848480"}}>Contact</Nav.Link>
