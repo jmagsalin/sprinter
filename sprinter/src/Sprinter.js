@@ -19,7 +19,7 @@ class Sprinter extends Component {
             <h2 style = {{fontFamily: "Cambria", fontStyle: "italic", color: "#848480"}}>
               Ride in comfort, style and luxury
             </h2>
-            <h4 style = {{fontFamily: "Cambria", color: "#848480"}}>
+            <h4 style = {{fontFamily: "Cambria", color: "black"}}>
               Travel in unique style with luxury limousines, passenger vans and SUV's for events, executives and high school transportation. 
               We provide you with the ultimate modern transportation experience. 
               North County Luxury Transportation has a fleet of chauffeured vehicles for every occasion.

@@ -18,7 +18,7 @@ class Executive extends Component {
                 <h2 style = {{fontFamily: "Cambria", fontStyle: "italic", color: "#848480"}}>
                     Our fleet of vehicles is perfect for any executive event
                 </h2>
-                <h4 style = {{fontFamily: "Cambria", color: "#848480"}}>
+                <h4 style = {{fontFamily: "Cambria", color: "black"}}>
                     Nothing compares to our luxurious and stylish transportation fleet for all your executive transportation. 
                     Our fleet is complete with all sorts of amenities, comforts and tech accessories. Whether you need to meet clients,
                     treat your staff or catch an airplane, we have everything you need. Let us take care of the details while you impress 

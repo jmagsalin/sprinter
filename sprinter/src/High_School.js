@@ -18,7 +18,7 @@ class Highschool extends Component {
                 <h2 style = {{fontFamily: "Cambria", fontStyle: "italic", color: "#848480"}}>
                     Rides to and from school five days a week
                 </h2>
-                <h4 style = {{fontFamily: "Cambria", color: "#848480"}}>
+                <h4 style = {{fontFamily: "Cambria", color: "black"}}>
                     North County Luxury Transportation  provides transportation for students in most San Diego counties. 
                     We provide rides to and from school five days a week and can provide early pick ups and late drop offs. 
                     North County Luxury Transportation is San Diego's leader for safe and reliable private school transportation.

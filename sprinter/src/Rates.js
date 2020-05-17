@@ -20,7 +20,7 @@ class Rates extends Component {
                 <h2 style = {{fontFamily: "Cambria", fontStyle: "italic", color: "#848480"}}>
                    Transportation at the right prices
                 </h2>
-                <h4 style = {{color: "#848480"}}>Our service team 
+                <h4 style = {{color: "black"}}>Our service team 
                     makes sure every detail is perfect and can make reservations, provide catering and create itineraries.
                     If you don't see what you need, don't hesitate to contact us and we can taylor your experience to accommodate all of your needs.
                 </h4><br></br><br></br>

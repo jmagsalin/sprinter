@@ -19,7 +19,7 @@ class About extends Component {
                 <h2 style = {{fontFamily: "Cambria", fontStyle: "italic", color: "#848480"}}>
                     We provide quality transportation for any occasion
                 </h2>
-                <h4 style = {{fontFamily: "Cambria", color: "#848480"}}>
+                <h4 style = {{fontFamily: "Cambria", color: "black"}}>
                     North County Luxury Transportation has quickly become the new industry leader in chauffeured transportation in the San Diego area. 
                     Our wide ranging fleet of luxury vehicles exudes a level of power, comfort, 
                     and elegance unmatched in the county. Our professional staff are highly regarded as 

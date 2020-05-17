@@ -21,7 +21,7 @@ class Events extends Component {
                 <h2 style = {{fontFamily: "Cambria", fontStyle: "italic", color: "#848480"}}>
                     Our fleet of vehicles is perfect for any event
                 </h2>
-                <h4 style = {{fontFamily: "Cambria", color: "#848480"}}>
+                <h4 style = {{fontFamily: "Cambria", color: "black"}}>
                     From weddings to wine tours, nights out to sporting events, treat yourself and your guests to a luxury 
                     transportation experience to last a lifetime. Our professional staff is here to ensure that
                     every detail is perfect. With so much San Diego has to offer, why take on the hassle of driving to a special event?  

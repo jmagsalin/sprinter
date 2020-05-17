@@ -21,7 +21,7 @@ class Contact extends Component {
          <h2 style = {{fontFamily: "Cambria", fontStyle: "italic", color: "#848480"}}>
                     Our professional staff is ready to plan your transportation
          </h2>
-         <h4 style = {{fontFamily: "Cambria", color: "#848480"}}>Our professional staff is ready to help, 
+         <h4 style = {{fontFamily: "Cambria", color: "black"}}>Our professional staff is ready to help, 
                 answer questions and plan your luxury transportation. 
                 Call, email or fill out the form and we’ll get back to you quickly.  San Diego's
                 finest luxury transportation service is ready to answer any questions, give a free quote,
