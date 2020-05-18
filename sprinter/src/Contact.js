@@ -61,7 +61,7 @@ class Contact extends Component {
                         width="50"
                         height="35"
                         className="d-inline-block align-top"
-                    /></a>         <a href="https://www.instagram.com/kaobasketball/?hl=en" target = "blank"> <img
+                    /></a>         <a href="https://www.instagram.com/nc_luxury_transportation/?hl=en" target = "blank"> <img
                     alt=""
                     src="https://i.ya-webdesign.com/images/gold-social-media-icons-png-16.png"
                     width="50"

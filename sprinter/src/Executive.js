@@ -36,14 +36,14 @@ class Executive extends Component {
                             Executive transportation for every occasion
                         </h3>
                         <ul style = {{fontSize: "large", textAlign: "left"}}>
-                            <li>Hosting Meetings</li>
-                            <li>Site Tours</li>
-                            <li>Corporate Events and Customer Events</li>
-                            <li>Airport Pickups and Transportation to All Forms of Public Transportation</li>
-                            <li>Social Events and Parties</li>
-                            <li>Cross County Commutes</li>
-                            <li>Company Retreats</li>
-                            <li>Offsite Training</li>
+                            <li>Hosting meetings</li>
+                            <li>Site tours</li>
+                            <li>Corporate events and customer events</li>
+                            <li>Airport pickups and transportation to and from all forms of public transportation</li>
+                            <li>Social events and parties</li>
+                            <li>Cross county commutes</li>
+                            <li>Company retreats</li>
+                            <li>Offsite training</li>
                             <li>Conferences</li>
                         </ul>             
                     </Col>
