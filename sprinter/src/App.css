@@ -131,6 +131,16 @@
   font-family: Cambria;
 }
 
+.miramarJumbotron {
+  background-image: url("https://cdn.pixabay.com/photo/2020/05/12/14/34/blue-angels-5163270_1280.jpg");
+  color: black;
+  background-size: cover;
+  background-position-x: center;
+  background-position-y: center;
+  font-weight: bolder;
+  height: 350px;
+}
+
 /* h1 {
   animation-duration: 3s;
   animation-name: slidein;

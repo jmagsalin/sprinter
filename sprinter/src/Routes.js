@@ -10,6 +10,8 @@ import Rates from "./Rates"
 import Events from "./Events"
 import Highschool from "./High_School"
 import Executive from "./Executive"
+import Miramar from "./Miramar"
+
 import Logo from "./logo.JPG"
 
 class Routes extends Component {
@@ -79,6 +81,7 @@ class Routes extends Component {
                 <Route path="/Events" component={Events} />
                 <Route path="/Highschool" component={Highschool} />
                 <Route path="/Executive" component={Executive} />
+                <Route path="/Miramar" component={Miramar} />
              </Switch>
             </Router>
             <footer className = "footer" style = {{fontFamily: "Cambria", color: "#848480"}}><br></br>
@@ -117,7 +120,7 @@ class Routes extends Component {
                             <a href = "Services" style = {{color: "#848480"}}>Downtown</a><br></br>
                             <a href = "Services" style = {{color: "#848480"}}>Balboa Park</a><br></br>
                             <a href = "Services" style = {{color: "#848480"}}>Beaches</a><br></br>
-                            <a href = "Services" style = {{color: "#848480"}}>Miramar</a><br></br>
+                            <a href = "Miramar" style = {{color: "#848480"}}>Miramar</a><br></br>
                             <a href = "Services" style = {{color: "#848480"}}>North County</a><br></br>
                             <a href = "Services" style = {{color: "#848480"}}>East County</a><br></br>
                             <a href = "Services" style = {{color: "#848480"}}>Orange County</a><br></br>
