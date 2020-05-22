@@ -141,6 +141,16 @@
   height: 350px;
 }
 
+.beachesJumbotron {
+  background-image: url("https://cdn.pixabay.com/photo/2017/08/04/06/47/san-diego-2579193_1280.jpg");
+  color: black;
+  background-size: cover;
+  background-position-x: center;
+  background-position-y: center;
+  font-weight: bolder;
+  height: 350px;
+}
+
 /* h1 {
   animation-duration: 3s;
   animation-name: slidein;
