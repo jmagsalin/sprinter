@@ -7,7 +7,7 @@ class Orange extends Component {
       <React.Fragment>
           <Jumbotron fluid className = "ocJumbotron">           
                <Container><br></br>
-               <h1 style = {{fontFamily: "Cambria", color: "orange" }}>Orange County</h1>
+               <h1 style = {{fontFamily: "Cambria", color: "#94790D" }}>Orange County</h1>
                <h1 className = "aboutText" style = {{color: "white"}}>
                    Visit the famous Orange County
                </h1><br></br>
