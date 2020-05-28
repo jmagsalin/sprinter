@@ -133,7 +133,7 @@ class Homepage extends Component {
                     variant="dark"
                     size = "lg"
                     href = "Contact"
-                    fontFamily = "Cambria">Make a reservation</Button><br></br>
+                    fontFamily = "Cambria">Make a Reservation</Button><br></br>
              </Container>   
             </div><br></br>   
             <Container>

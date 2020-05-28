@@ -151,6 +151,16 @@
   height: 350px;
 }
 
+.ocJumbotron {
+  background-image: url("https://cdn.pixabay.com/photo/2015/09/03/00/45/disney-919926_1280.jpg");
+  color: black;
+  background-size: cover;
+  background-position-x: center;
+  background-position-y: center;
+  font-weight: bolder;
+  height: 350px;
+}
+
 /* h1 {
   animation-duration: 3s;
   animation-name: slidein;

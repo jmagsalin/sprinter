@@ -12,6 +12,7 @@ import Highschool from "./High_School"
 import Executive from "./Executive"
 import Miramar from "./Miramar"
 import Beaches from "./Beaches"
+import Orange from "./OC"
 
 import Logo from "./logo.JPG"
 
@@ -84,6 +85,7 @@ class Routes extends Component {
                 <Route path="/Executive" component={Executive} />
                 <Route path="/Miramar" component={Miramar} />
                 <Route path="/Beaches" component={Beaches} />
+                <Route path="/Orange" component={Orange} />
              </Switch>
             </Router>
             <footer className = "footer" style = {{fontFamily: "Cambria", color: "#848480"}}><br></br>
@@ -125,7 +127,7 @@ class Routes extends Component {
                             <a href = "Miramar" style = {{color: "#848480"}}>Miramar</a><br></br>
                             <a href = "Services" style = {{color: "#848480"}}>North County</a><br></br>
                             <a href = "Services" style = {{color: "#848480"}}>East County</a><br></br>
-                            <a href = "Services" style = {{color: "#848480"}}>Orange County</a><br></br>
+                            <a href = "Orange" style = {{color: "#848480"}}>Orange County</a><br></br>
                             <a href = "Services" style = {{color: "#848480"}}>Inland Empire</a><br></br>
                         </Col>
                         <Col style = {{textAlign: "left"}}>
