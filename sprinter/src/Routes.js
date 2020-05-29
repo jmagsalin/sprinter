@@ -13,6 +13,7 @@ import Executive from "./Executive"
 import Miramar from "./Miramar"
 import Beaches from "./Beaches"
 import Orange from "./OC"
+import Downtown from "./Downtown"
 
 import Logo from "./logo.JPG"
 
@@ -86,6 +87,7 @@ class Routes extends Component {
                 <Route path="/Miramar" component={Miramar} />
                 <Route path="/Beaches" component={Beaches} />
                 <Route path="/Orange" component={Orange} />
+                <Route path="/Downtown" component={Downtown} />
              </Switch>
             </Router>
             <footer className = "footer" style = {{fontFamily: "Cambria", color: "#848480"}}><br></br>
@@ -121,7 +123,7 @@ class Routes extends Component {
                         </Col>
                         <Col style = {{textAlign: "left"}}>
                             <h5 style = {{color: "#94790D"}}>San Diego and Surrounding Areas</h5>
-                            <a href = "Services" style = {{color: "#848480"}}>Downtown</a><br></br>
+                            <a href = "Downtown" style = {{color: "#848480"}}>Downtown</a><br></br>
                             <a href = "Services" style = {{color: "#848480"}}>Balboa Park</a><br></br>
                             <a href = "Beaches" style = {{color: "#848480"}}>Beaches</a><br></br>
                             <a href = "Miramar" style = {{color: "#848480"}}>Miramar</a><br></br>

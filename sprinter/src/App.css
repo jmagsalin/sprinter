@@ -161,6 +161,16 @@
   height: 350px;
 }
 
+.downtownJumbotron {
+  background-image: url("https://cache.marriott.com/marriottassets/marriott/SANWI/sanwi-attraction-quarter-5684-hor-feat.jpg");
+  color: black;
+  background-size: cover;
+  background-position-x: center;
+  background-position-y: center;
+  font-weight: bolder;
+  height: 350px;
+}
+
 /* h1 {
   animation-duration: 3s;
   animation-name: slidein;
