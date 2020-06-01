@@ -171,6 +171,16 @@
   height: 350px;
 }
 
+.balboaJumbotron {
+  background-image: url("https://cdn.pixabay.com/photo/2016/09/23/08/07/balboa-1689038_1280.jpg");
+  color: black;
+  background-size: cover;
+  background-position-x: center;
+  background-position-y: bottom;
+  font-weight: bolder;
+  height: 350px;
+}
+
 /* h1 {
   animation-duration: 3s;
   animation-name: slidein;

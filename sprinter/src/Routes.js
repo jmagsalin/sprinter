@@ -14,6 +14,7 @@ import Miramar from "./Miramar"
 import Beaches from "./Beaches"
 import Orange from "./OC"
 import Downtown from "./Downtown"
+import Balboa from "./Balboa"
 
 import Logo from "./logo.JPG"
 
@@ -88,6 +89,7 @@ class Routes extends Component {
                 <Route path="/Beaches" component={Beaches} />
                 <Route path="/Orange" component={Orange} />
                 <Route path="/Downtown" component={Downtown} />
+                <Route path="/Balboa" component={Balboa} />
              </Switch>
             </Router>
             <footer className = "footer" style = {{fontFamily: "Cambria", color: "#848480"}}><br></br>
@@ -124,7 +126,7 @@ class Routes extends Component {
                         <Col style = {{textAlign: "left"}}>
                             <h5 style = {{color: "#94790D"}}>San Diego and Surrounding Areas</h5>
                             <a href = "Downtown" style = {{color: "#848480"}}>Downtown</a><br></br>
-                            <a href = "Services" style = {{color: "#848480"}}>Balboa Park</a><br></br>
+                            <a href = "Balboa" style = {{color: "#848480"}}>Balboa Park</a><br></br>
                             <a href = "Beaches" style = {{color: "#848480"}}>Beaches</a><br></br>
                             <a href = "Miramar" style = {{color: "#848480"}}>Miramar</a><br></br>
                             <a href = "Services" style = {{color: "#848480"}}>North County</a><br></br>
