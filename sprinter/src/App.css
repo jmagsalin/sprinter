@@ -181,6 +181,16 @@
   height: 350px;
 }
 
+.northJumbotron {
+  background-image: url("https://s3-media0.fl.yelpcdn.com/bphoto/M--SqMNITcksQaoh1ih3tA/o.jpg");
+  color: black;
+  background-size: cover;
+  background-position-x: center;
+  background-position-y: center;
+  font-weight: bolder;
+  height: 350px;
+}
+
 /* h1 {
   animation-duration: 3s;
   animation-name: slidein;

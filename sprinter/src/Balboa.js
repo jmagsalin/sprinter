@@ -6,7 +6,7 @@ class Balboa extends Component {
       return (
       <React.Fragment>
           <Jumbotron fluid className = "balboaJumbotron">           
-               <Container><br></br>,<br></br><br></br>
+               <Container><br></br><br></br><br></br>
                <h1 style = {{fontFamily: "Cambria", color: "#94790D" }}>Balboa Park</h1>
                <h1 className = "aboutText" style = {{color: "white"}}>
                    Experience the culture of Balboa Park

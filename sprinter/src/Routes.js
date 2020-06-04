@@ -15,6 +15,7 @@ import Beaches from "./Beaches"
 import Orange from "./OC"
 import Downtown from "./Downtown"
 import Balboa from "./Balboa"
+import North from "./North"
 
 import Logo from "./logo.JPG"
 
@@ -90,6 +91,7 @@ class Routes extends Component {
                 <Route path="/Orange" component={Orange} />
                 <Route path="/Downtown" component={Downtown} />
                 <Route path="/Balboa" component={Balboa} />
+                <Route path="/North" component={North} />
              </Switch>
             </Router>
             <footer className = "footer" style = {{fontFamily: "Cambria", color: "#848480"}}><br></br>
@@ -129,7 +131,7 @@ class Routes extends Component {
                             <a href = "Balboa" style = {{color: "#848480"}}>Balboa Park</a><br></br>
                             <a href = "Beaches" style = {{color: "#848480"}}>Beaches</a><br></br>
                             <a href = "Miramar" style = {{color: "#848480"}}>Miramar</a><br></br>
-                            <a href = "Services" style = {{color: "#848480"}}>North County</a><br></br>
+                            <a href = "North" style = {{color: "#848480"}}>North County</a><br></br>
                             <a href = "Services" style = {{color: "#848480"}}>East County</a><br></br>
                             <a href = "Orange" style = {{color: "#848480"}}>Orange County</a><br></br>
                             <a href = "Services" style = {{color: "#848480"}}>Inland Empire</a><br></br>
