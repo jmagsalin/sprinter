@@ -191,6 +191,26 @@
   height: 350px;
 }
 
+.inlandJumbotron {
+  background-image: url("https://cdn.pixabay.com/photo/2019/08/19/11/07/wine-4416111_1280.jpg");
+  color: black;
+  background-size: cover;
+  background-position-x: center;
+  background-position-y: center;
+  font-weight: bolder;
+  height: 350px;
+}
+
+.eastJumbotron {
+  background-image: url("https://www.visitcalifornia.com/sites/default/files/VCW_D_SD_T9_lauridsen_Julian.jpg");
+  color: black;
+  background-size: cover;
+  background-position-x: center;
+  background-position-y: center;
+  font-weight: bolder;
+  height: 350px;
+}
+
 /* h1 {
   animation-duration: 3s;
   animation-name: slidein;
