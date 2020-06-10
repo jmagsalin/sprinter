@@ -32,24 +32,23 @@ class North extends Component {
                 <Row>                  
                     <Col>
                         <h2 style = {{fontFamily: "Cambria", color: "#94790D"}}>
-                            Spend the day at Harrah's
+                            Tour the breweries and wineries
                         </h2>
                         <h3 style = {{fontFamily: "Cambria", color: "#848480", fontStyle: "italic"}}>
-                            A true luxury resort in North County
+                            Enjoy the variety of beer and wine 
                         </h3>
                         <h5 style = {{textAlign: "left", fontFamily: "Cambria"}}> 
-                            Harrah's is home to a wide array of activities, whether you want to try your luck at the casino, relax
-                            at the pool, pamper yourself at the spa, or have a fun night at their club venue.  You'll find out Harrah's
-                            has something for everyone.
+                            North County is home to a wide array of breweries and wineries, whether you want to relax at a local winery or try
+                            several varieties of beer, North County has something for everyone's tastes.
                         </h5><br></br>
                         <h5 style = {{textAlign: "left", fontFamily: "Cambria"}}>
-                            Our knowledgeable staff can take you, your friends or your family to Harrah's in style and luxury so your
-                            don't have to worry about anything except the fun and excitement you're going to have.  Whether you want to
-                            spend the day there or an entire weekend, we've got your transportation covered.
+                            Our knowledgeable staff can take your group wine tasting or on a brewery tour in style and luxury. You
+                            don't have to worry about looking for the perfect spot or driving when you ride with us.  North County
+                            Luxury Transportation will take care of all your needs while you have fun with your friends and family.
                         </h5>
                     </Col>
                     <Col>
-                <Image height= {350} width = {500} src="https://assets.resortpass.com/uploads/image/picture/212/harrahsresort2.jpg" rounded />
+                <Image height= {350} width = {500} src="https://westcoastersd.com/wp-content/uploads/2018/01/pub980_02.jpg" rounded />
                     </Col>
                 </Row><br></br>
             </Container>
@@ -71,13 +70,40 @@ class North extends Component {
                             animal species from all over the world in expansive free range enclosures.
                         </h5><br></br>
                         <h5 style = {{textAlign: "left"}}>
-                            North County Luxury Transportation can take you and your guest to the Safari Park so you don't have to worry
+                            North County Luxury Transportation can take you and your guests to the Safari Park so you don't have to worry
                             about anything except experiencing the diversity and rare animal exhibits at the Park. Let us make your day more
                             enjoyable by providing your transportation to the Safari Park.
                         </h5>
                     </Col>
                 </Row><br></br>
             </Container>
+            <div style = {{backgroundColor: "#E8E5DD", fontFamily: "Cambria"}}>
+                <Container><br></br>
+                    <Row>                  
+                        <Col>
+                            <h2 style = {{fontFamily: "Cambria", color: "#94790D"}}>
+                                Spend the day at Harrah's
+                            </h2>
+                            <h3 style = {{fontFamily: "Cambria", color: "#848480", fontStyle: "italic"}}>
+                                A true luxury resort in North County
+                            </h3>
+                            <h5 style = {{textAlign: "left", fontFamily: "Cambria"}}> 
+                                Harrah's is home to a wide array of activities, whether you want to try your luck at the casino, relax
+                                at the pool, pamper yourself at the spa, or have a fun night at their club venue.  You'll find out Harrah's
+                                has something for everyone.
+                            </h5><br></br>
+                            <h5 style = {{textAlign: "left", fontFamily: "Cambria"}}>
+                                Our knowledgeable staff can take you, your friends or your family to Harrah's in style and luxury so your
+                                don't have to worry about anything except the fun and excitement you're going to have.  Whether you want to
+                                spend the day there or an entire weekend, we've got your transportation covered.
+                            </h5>
+                        </Col>
+                        <Col>
+                    <Image height= {350} width = {500} src="https://assets.resortpass.com/uploads/image/picture/212/harrahsresort2.jpg" rounded />
+                        </Col>
+                    </Row><br></br>
+                </Container>
+            </div>
       </React.Fragment>
            )
     }
