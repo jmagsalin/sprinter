@@ -18,6 +18,7 @@ import Balboa from "./Balboa"
 import North from "./North"
 import Inland from "./Inland"
 import East from "./East"
+import Camps from "./Camps"
 
 import Logo from "./logo.JPG"
 
@@ -50,6 +51,7 @@ class Routes extends Component {
                                 </Dropdown.Menu>
                         </Dropdown>  
                         <Nav.Link href="Highschool" style ={{fontFamily: "Cambria", color: "#848480"}}>Private School</Nav.Link>
+                        <Nav.Link href="Camps" style ={{fontFamily: "Cambria", color: "#848480"}}>Youth Camps</Nav.Link>
                         <Nav.Link href="Rates" style ={{fontFamily: "Cambria", color: "#848480"}}>Rates</Nav.Link>
                         <Nav.Link href="About" style ={{fontFamily: "Cambria", color: "#848480"}}>About</Nav.Link>     
                         <Nav.Link href="Contact" style ={{fontFamily: "Cambria", color: "#848480"}}>Contact</Nav.Link>
@@ -96,6 +98,7 @@ class Routes extends Component {
                 <Route path="/North" component={North} />
                 <Route path="/Inland" component={Inland} />
                 <Route path="/East" component={East} />
+                <Route path="/Camps" component={Camps} />
              </Switch>
             </Router>
             <footer className = "footer" style = {{fontFamily: "Cambria", color: "#848480"}}><br></br>

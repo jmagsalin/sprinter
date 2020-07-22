@@ -211,6 +211,16 @@
   height: 350px;
 }
 
+.campsJumbotron {
+  background-image: url("https://tamarackadventure.com/tamarackcamps/wp-content/uploads/sites/2/2018/11/agree-9.jpg");
+  color: black;
+  background-size: cover;
+  background-position-x: center;
+  background-position-y: center;
+  font-weight: bolder;
+  height: 350px;
+}
+
 /* h1 {
   animation-duration: 3s;
   animation-name: slidein;

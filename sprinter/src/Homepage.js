@@ -65,12 +65,11 @@ class Homepage extends Component {
                   </Col>
                   <Col>
                     <Card style={{ width: '20rem' }}>
-                        <Card.Img variant="top" src="https://cdn.pixabay.com/photo/2017/08/24/21/23/teen-2678447_1280.jpg" />
+                        <Card.Img variant="top" src="https://mbaquaticcenter.com/news/wp-content/uploads/2015/02/family_fun_day.jpg" />
                         <Card.Body>
-                            <Card.Title>Formals</Card.Title>
+                            <Card.Title>Youth Camps</Card.Title>
                             <Card.Text>   
-                                Experience going to a formal with your sweetheart and closest friends, 
-                                Make it a night that you won't ever forget.
+                                Safe and reliable transportation for your children to attend a local youth camp.
                             </Card.Text>
                         </Card.Body>
                     </Card>
