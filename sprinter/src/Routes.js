@@ -130,7 +130,8 @@ class Routes extends Component {
                             <a href = "Events" style = {{color: "#848480"}}>Sporting and Concert Events</a><br></br>
                             <a href = "Events" style = {{color: "#848480"}}>Brewery Tours</a><br></br>
                             <a href = "Events" style = {{color: "#848480"}}>Nights Out</a><br></br>
-                            <a href = "Highschool" style = {{color: "#848480"}}>Private School Transportation</a>
+                            <a href = "Highschool" style = {{color: "#848480"}}>Private School Transportation</a><br></br>
+                            <a href = "Camps" style = {{color: "#848480"}}>Youth Camps</a>
                         </Col>
                         <Col style = {{textAlign: "left"}}>
                             <h5 style = {{color: "#94790D"}}>San Diego and Surrounding Areas</h5>

@@ -129,7 +129,37 @@ class Services extends Component {
                 </Row><br></br>
             </Container>
             </div>
-            
+            <Container><br></br>
+                <Row>                  
+                    <Col>
+                        <h2 style = {{fontFamily: "Cambria", color: "#94790D"}}>
+                            Youth Camp Transportation
+                        </h2>
+                        <h3 style = {{fontFamily: "Cambria", color: "#848480", fontStyle: "italic"}}>
+                            Safe and always on time
+                        </h3>
+                        <h5 style = {{textAlign: "left"}}> 
+                            Our professional staff will make sure your children always arrive at their youth camp and back home on time. We pride 
+                            ourselves on punctuality and the safety of every passenger.
+                        </h5><br></br>
+                        <h5 style = {{textAlign: "left"}}>
+                            We understand how important safety and reliability are in transporting children to their camps.  
+                            That is why our trained staff are always professional, 
+                            reliable, and most importantly, safe.
+                        </h5><br></br>
+                        <Button 
+                            className = "footerb"
+                            variant="dark"
+                            size = "lg"
+                            href = "Camps"
+                            fontFamily = "Cambria">Youth Camp Transportation
+                        </Button><br></br>
+                    </Col>
+                    <Col>
+                    <Image height= {370} width = {500} src="https://cdn.pixabay.com/photo/2017/08/18/17/18/sailing-2655756_1280.jpg" rounded />
+                    </Col>
+                </Row><br></br>
+                </Container>
                 </div>
             </React.Fragment>
             )
