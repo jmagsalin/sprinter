@@ -44,7 +44,7 @@ class Highschool extends Component {
                         </ul>             
                     </Col>
                     <Col>
-                <Image height= {350} width = {500} src="https://timesofsandiego.com/wp-content/uploads/2019/05/Cathedral-Catholic-High-School.jpg" rounded />
+                <Image height= {350} width = {500} src="https://www.mercedes-benz-vans.ca/images/features/sprinter/passenger-van/seating-capacity.jpg" rounded />
                     </Col>
                 </Row><br></br>
             </Container>
