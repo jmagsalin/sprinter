@@ -50,7 +50,7 @@ class Routes extends Component {
                                     <Dropdown.Item href="Executive" style ={{color: "#848480", fontFamily: "Cambria", backgroundColor: "black"}}>Executive</Dropdown.Item>
                                 </Dropdown.Menu>
                         </Dropdown>  
-                        <Nav.Link href="Highschool" style ={{fontFamily: "Cambria", color: "#848480"}}>Private School</Nav.Link>
+                        <Nav.Link href="Highschool" style ={{fontFamily: "Cambria", color: "#848480"}}>School Transportation</Nav.Link>
                         <Nav.Link href="Camps" style ={{fontFamily: "Cambria", color: "#848480"}}>Youth Camps</Nav.Link>
                         <Nav.Link href="Rates" style ={{fontFamily: "Cambria", color: "#848480"}}>Rates</Nav.Link>
                         <Nav.Link href="About" style ={{fontFamily: "Cambria", color: "#848480"}}>About</Nav.Link>     
@@ -116,7 +116,7 @@ class Routes extends Component {
                             </a><br></br><br></br>
                             <p>
                             North County Luxury Transportation serves San Diego and Southern California with luxury transportation service for events, 
-                            executives and private school students. We feature a state-of-the-art fleet of Sprinter limos, vans and luxury SUV's. 
+                            executives and school students. We feature a state-of-the-art fleet of Sprinter limos, vans and luxury SUV's. 
                             For any and every occasion, enjoy the journey with North County Luxury Transportation.
                             </p>
                         </Col>
@@ -130,7 +130,7 @@ class Routes extends Component {
                             <a href = "Events" style = {{color: "#848480"}}>Sporting and Concert Events</a><br></br>
                             <a href = "Events" style = {{color: "#848480"}}>Brewery Tours</a><br></br>
                             <a href = "Events" style = {{color: "#848480"}}>Nights Out</a><br></br>
-                            <a href = "Highschool" style = {{color: "#848480"}}>Private School Transportation</a><br></br>
+                            <a href = "Highschool" style = {{color: "#848480"}}>School Transportation</a><br></br>
                             <a href = "Camps" style = {{color: "#848480"}}>Youth Camps</a>
                         </Col>
                         <Col style = {{textAlign: "left"}}>

@@ -7,13 +7,13 @@ class Highschool extends Component {
       <React.Fragment>
           <Jumbotron fluid className = "hsJumbotron">           
                <Container><br></br>
-               <h1 style = {{fontFamily: "Cambria", color: "#94790D" }}>Private School Transportation</h1>
-               <h1 className = "aboutText">San Diego's Private School Transportation Professionals</h1>
+               <h1 style = {{fontFamily: "Cambria", color: "#94790D" }}>School Transportation</h1>
+               <h1 className = "aboutText">San Diego's School Transportation Professionals</h1>
                </Container>
            </Jumbotron>
            <Container>
                 <h2 style = {{fontFamily: "Cambria", color: "#94790D", fontSize: "37px"}}>
-                    Comfortable and reliable private school transportation
+                    Comfortable and reliable school transportation
                 </h2>
                 <h2 style = {{fontFamily: "Cambria", fontStyle: "italic", color: "#848480"}}>
                     Rides to and from school five days a week
@@ -21,7 +21,7 @@ class Highschool extends Component {
                 <h4 style = {{fontFamily: "Cambria", color: "black"}}>
                     North County Luxury Transportation  provides transportation for students in most San Diego counties. 
                     We provide rides to and from school five days a week and can provide early pick ups and late drop offs. 
-                    North County Luxury Transportation is San Diego's leader for safe and reliable private school transportation.
+                    North County Luxury Transportation is San Diego's leader for safe and reliable school transportation.
                 </h4><br></br>
             </Container>
             <div style = {{backgroundColor: "#E8E5DD", fontFamily: "Cambria"}}>
@@ -29,7 +29,7 @@ class Highschool extends Component {
                 <Row>                  
                     <Col>
                         <h2 style = {{fontFamily: "Cambria", color: "#94790D"}}>
-                            Transportation to private school
+                            Transportation to local schools
                         </h2>
                         <h3 style = {{fontFamily: "Cambria", color: "#848480", fontStyle: "italic"}}>
                              The benefits of using North County Luxury Transportation 
@@ -68,7 +68,7 @@ class Highschool extends Component {
                         </h5><br></br>
                         <h5 style = {{textAlign: "left"}}>
                             We separate ourselves from other companies by striving for greatness. We understand how important safety and 
-                            reliability are in transporting private school students.  That is why our trained staff are always professional, 
+                            reliability are in transporting students.  That is why our trained staff are always professional, 
                             courteous and most importantly, safe.
                         </h5>
                     </Col>

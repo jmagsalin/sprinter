@@ -67,7 +67,7 @@ class Services extends Component {
                 <Row>                  
                     <Col>
                         <h2 style = {{fontFamily: "Cambria", color: "#94790D"}}>
-                            Private School Transportation
+                            School Transportation
                         </h2>
                         <h3 style = {{fontFamily: "Cambria", color: "#848480", fontStyle: "italic"}}>
                             Professional, Reliable and Safe
@@ -86,7 +86,7 @@ class Services extends Component {
                             variant="dark"
                             size = "lg"
                             href = "HighSchool"
-                            fontFamily = "Cambria">Private School Transportation
+                            fontFamily = "Cambria">School Transportation
                         </Button><br></br>
                     </Col>
                     <Col>

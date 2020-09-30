@@ -94,9 +94,9 @@ class Homepage extends Component {
                     <Card style={{ width: '20rem' }}>
                         <Card.Img variant="top" height = {212} src="https://www.svconline.com/wp-content/uploads/2019/04/sym-st-augustine-02-copy.jpg" />
                         <Card.Body>
-                            <Card.Title>Private School Transportation</Card.Title>
+                            <Card.Title>School Transportation</Card.Title>
                             <Card.Text>
-                                Enjoy comfortable and reliable transportation to and from private school five
+                                Enjoy comfortable and reliable transportation to and from school five
                                 days a week.
                             </Card.Text>
                         </Card.Body>
